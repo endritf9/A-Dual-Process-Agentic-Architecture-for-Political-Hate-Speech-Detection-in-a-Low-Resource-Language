@@ -1,0 +1,15 @@
+system,model,escalated_%,FPR_neutral_%,FPR_critique_%,FPR_place_%,recall_hateful_%
+System 1: mBERT,-,0.0,37.1,23.0,0.0,35.2
+System 1: mean of mBERT and Jev,-,0.0,17.6,13.5,0.0,47.6
+"cascade: mBERT+Jev, disagreements escalated",gemma-4-31b,38.3,0.0,0.0,0.0,100.0
+"cascade: mBERT router, r=10%",gemma-4-31b,10.1,32.4,19.8,0.0,38.1
+"cascade: mBERT router, r=20%",gemma-4-31b,19.9,27.6,17.5,0.0,43.8
+"cascade: mBERT router, r=30%",gemma-4-31b,30.0,23.8,15.1,0.0,47.6
+"cascade: mBERT+Jev, disagreements escalated",qwen3.7-flash,38.3,0.0,0.0,0.0,100.0
+"cascade: mBERT router, r=10%",qwen3.7-flash,10.1,32.4,19.8,0.0,38.1
+"cascade: mBERT router, r=20%",qwen3.7-flash,19.9,27.6,17.5,0.0,43.8
+"cascade: mBERT router, r=30%",qwen3.7-flash,30.0,23.8,15.1,0.0,47.6
+"cascade: mBERT+Jev, disagreements escalated",qwen3.8-flash,38.3,0.0,0.0,0.0,100.0
+"cascade: mBERT router, r=10%",qwen3.8-flash,10.1,32.4,19.8,0.0,38.1
+"cascade: mBERT router, r=20%",qwen3.8-flash,19.9,27.6,17.5,0.0,43.8
+"cascade: mBERT router, r=30%",qwen3.8-flash,30.0,23.8,15.1,0.0,47.6

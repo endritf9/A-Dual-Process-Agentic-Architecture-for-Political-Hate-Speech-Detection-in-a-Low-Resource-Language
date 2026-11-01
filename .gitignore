@@ -1,0 +1,42 @@
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local credentials / secrets
+.env
+.env.*
+!.env.example
+secrets.bat
+secrets.sh
+secrets.ps1
+*.key
+*.pem
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Local test artifacts and logs
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+logs/
+*.tmp
+*.bak
+results/mock/
+
+# Locally expanded API caches; retain the published ZIP archives in cache/
+results/llm_cache/
+results/jev_cache/

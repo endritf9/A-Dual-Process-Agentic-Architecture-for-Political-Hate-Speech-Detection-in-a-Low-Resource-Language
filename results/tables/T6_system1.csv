@@ -1,0 +1,6 @@
+system1,n,macro_f1,phs_f1,ECE,latency_ms,cost_per_1k_usd
+mbert_orig,432,87.08,84.75,0.0898,76.0,0.0
+jev,432,78.97,74.64,0.0608,418.6,0.0282
+jev_ex,432,79.98,74.92,0.0397,469.6,0.0378
+tfidf_lr,432,77.81,75.7,0.1077,0.5,0.0
+agree (mBERT and Jev),432,agree on 76.6% of comments,accuracy where they agree 94.0%,,,

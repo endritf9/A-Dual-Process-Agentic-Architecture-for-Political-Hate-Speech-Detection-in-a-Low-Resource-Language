@@ -1,0 +1,53 @@
+{
+  "zero_shot": {
+    "tools": [],
+    "few_shot": false
+  },
+  "few_shot": {
+    "tools": [],
+    "few_shot": true
+  },
+  "agent_full": {
+    "tools": [
+      "get_classifier_score",
+      "lookup_political_entities",
+      "get_thread_context"
+    ],
+    "few_shot": false
+  },
+  "agent_no_classifier": {
+    "tools": [
+      "lookup_political_entities",
+      "get_thread_context"
+    ],
+    "few_shot": false
+  },
+  "agent_no_entities": {
+    "tools": [
+      "get_classifier_score",
+      "get_thread_context"
+    ],
+    "few_shot": false
+  },
+  "agent_no_context": {
+    "tools": [
+      "get_classifier_score",
+      "lookup_political_entities"
+    ],
+    "few_shot": false
+  },
+  "single_all": {
+    "tools": [],
+    "few_shot": false,
+    "evidence": true
+  },
+  "single_no_classifier": {
+    "tools": [],
+    "few_shot": false,
+    "evidence": true,
+    "evidence_tools": [
+      "lookup_political_entities",
+      "get_thread_context"
+    ]
+  }
+}

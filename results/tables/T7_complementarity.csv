@@ -1,0 +1,4 @@
+pair,n,N11_both_right,N10_only_mbert,N01_only_other,N00_both_wrong,Yule_Q,double_fault_%,double_fault_if_independent_%,disagreement_%
+mbert_orig vs jev,432,311,67,34,20,0.464,4.63,2.52,23.38
+mbert_orig vs jev_ex,432,317,61,34,20,0.507,4.63,2.34,21.99
+mbert_orig vs tfidf_lr,432,307,71,30,24,0.551,5.56,2.75,23.38

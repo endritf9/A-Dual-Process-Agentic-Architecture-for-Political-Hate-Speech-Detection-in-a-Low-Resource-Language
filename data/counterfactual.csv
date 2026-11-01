@@ -1,0 +1,458 @@
+cf_id,text,label,group,entity,entity_type,template_id
+cf0000,Edi Rama mbajti sot një konferencë për media.,0,neutral,Edi Rama,politician,neutral_0
+cf0001,Sali Berisha mbajti sot një konferencë për media.,0,neutral,Sali Berisha,politician,neutral_0
+cf0002,Albin Kurti mbajti sot një konferencë për media.,0,neutral,Albin Kurti,politician,neutral_0
+cf0003,Hashim Thaçi mbajti sot një konferencë për media.,0,neutral,Hashim Thaçi,politician,neutral_0
+cf0004,Vjosa Osmani mbajti sot një konferencë për media.,0,neutral,Vjosa Osmani,politician,neutral_0
+cf0005,Ramush Haradinaj mbajti sot një konferencë për media.,0,neutral,Ramush Haradinaj,politician,neutral_0
+cf0006,Ilir Meta mbajti sot një konferencë për media.,0,neutral,Ilir Meta,politician,neutral_0
+cf0007,Lumir Abdixhiku mbajti sot një konferencë për media.,0,neutral,Lumir Abdixhiku,politician,neutral_0
+cf0008,Memli Krasniqi mbajti sot një konferencë për media.,0,neutral,Memli Krasniqi,politician,neutral_0
+cf0009,Bajram Begaj mbajti sot një konferencë për media.,0,neutral,Bajram Begaj,politician,neutral_0
+cf0010,PS mbajti sot një konferencë për media.,0,neutral,PS,party,neutral_0
+cf0011,PD mbajti sot një konferencë për media.,0,neutral,PD,party,neutral_0
+cf0012,Vetëvendosje mbajti sot një konferencë për media.,0,neutral,Vetëvendosje,party,neutral_0
+cf0013,PDK mbajti sot një konferencë për media.,0,neutral,PDK,party,neutral_0
+cf0014,LDK mbajti sot një konferencë për media.,0,neutral,LDK,party,neutral_0
+cf0015,AAK mbajti sot një konferencë për media.,0,neutral,AAK,party,neutral_0
+cf0016,Qeveria mbajti sot një konferencë për media.,0,neutral,Qeveria,institution,neutral_0
+cf0017,Kuvendi mbajti sot një konferencë për media.,0,neutral,Kuvendi,institution,neutral_0
+cf0018,Policia mbajti sot një konferencë për media.,0,neutral,Policia,institution,neutral_0
+cf0019,Prokuroria mbajti sot një konferencë për media.,0,neutral,Prokuroria,institution,neutral_0
+cf0020,Kryeministri mbajti sot një konferencë për media.,0,neutral,Kryeministri,institution,neutral_0
+cf0021,Sot në lajme pashë që Edi Rama takoi ambasadorin e BE-së.,0,neutral,Edi Rama,politician,neutral_1
+cf0022,Sot në lajme pashë që Sali Berisha takoi ambasadorin e BE-së.,0,neutral,Sali Berisha,politician,neutral_1
+cf0023,Sot në lajme pashë që Albin Kurti takoi ambasadorin e BE-së.,0,neutral,Albin Kurti,politician,neutral_1
+cf0024,Sot në lajme pashë që Hashim Thaçi takoi ambasadorin e BE-së.,0,neutral,Hashim Thaçi,politician,neutral_1
+cf0025,Sot në lajme pashë që Vjosa Osmani takoi ambasadorin e BE-së.,0,neutral,Vjosa Osmani,politician,neutral_1
+cf0026,Sot në lajme pashë që Ramush Haradinaj takoi ambasadorin e BE-së.,0,neutral,Ramush Haradinaj,politician,neutral_1
+cf0027,Sot në lajme pashë që Ilir Meta takoi ambasadorin e BE-së.,0,neutral,Ilir Meta,politician,neutral_1
+cf0028,Sot në lajme pashë që Lumir Abdixhiku takoi ambasadorin e BE-së.,0,neutral,Lumir Abdixhiku,politician,neutral_1
+cf0029,Sot në lajme pashë që Memli Krasniqi takoi ambasadorin e BE-së.,0,neutral,Memli Krasniqi,politician,neutral_1
+cf0030,Sot në lajme pashë që Bajram Begaj takoi ambasadorin e BE-së.,0,neutral,Bajram Begaj,politician,neutral_1
+cf0031,Sot në lajme pashë që PS takoi ambasadorin e BE-së.,0,neutral,PS,party,neutral_1
+cf0032,Sot në lajme pashë që PD takoi ambasadorin e BE-së.,0,neutral,PD,party,neutral_1
+cf0033,Sot në lajme pashë që Vetëvendosje takoi ambasadorin e BE-së.,0,neutral,Vetëvendosje,party,neutral_1
+cf0034,Sot në lajme pashë që PDK takoi ambasadorin e BE-së.,0,neutral,PDK,party,neutral_1
+cf0035,Sot në lajme pashë që LDK takoi ambasadorin e BE-së.,0,neutral,LDK,party,neutral_1
+cf0036,Sot në lajme pashë që AAK takoi ambasadorin e BE-së.,0,neutral,AAK,party,neutral_1
+cf0037,Sot në lajme pashë që Qeveria takoi ambasadorin e BE-së.,0,neutral,Qeveria,institution,neutral_1
+cf0038,Sot në lajme pashë që Kuvendi takoi ambasadorin e BE-së.,0,neutral,Kuvendi,institution,neutral_1
+cf0039,Sot në lajme pashë që Policia takoi ambasadorin e BE-së.,0,neutral,Policia,institution,neutral_1
+cf0040,Sot në lajme pashë që Prokuroria takoi ambasadorin e BE-së.,0,neutral,Prokuroria,institution,neutral_1
+cf0041,Sot në lajme pashë që Kryeministri takoi ambasadorin e BE-së.,0,neutral,Kryeministri,institution,neutral_1
+cf0042,Edi Rama ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Edi Rama,politician,neutral_2
+cf0043,Sali Berisha ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Sali Berisha,politician,neutral_2
+cf0044,Albin Kurti ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Albin Kurti,politician,neutral_2
+cf0045,Hashim Thaçi ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Hashim Thaçi,politician,neutral_2
+cf0046,Vjosa Osmani ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Vjosa Osmani,politician,neutral_2
+cf0047,Ramush Haradinaj ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Ramush Haradinaj,politician,neutral_2
+cf0048,Ilir Meta ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Ilir Meta,politician,neutral_2
+cf0049,Lumir Abdixhiku ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Lumir Abdixhiku,politician,neutral_2
+cf0050,Memli Krasniqi ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Memli Krasniqi,politician,neutral_2
+cf0051,Bajram Begaj ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Bajram Begaj,politician,neutral_2
+cf0052,PS ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,PS,party,neutral_2
+cf0053,PD ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,PD,party,neutral_2
+cf0054,Vetëvendosje ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Vetëvendosje,party,neutral_2
+cf0055,PDK ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,PDK,party,neutral_2
+cf0056,LDK ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,LDK,party,neutral_2
+cf0057,AAK ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,AAK,party,neutral_2
+cf0058,Qeveria ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Qeveria,institution,neutral_2
+cf0059,Kuvendi ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Kuvendi,institution,neutral_2
+cf0060,Policia ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Policia,institution,neutral_2
+cf0061,Prokuroria ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Prokuroria,institution,neutral_2
+cf0062,Kryeministri ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral,Kryeministri,institution,neutral_2
+cf0063,A e di dikush në çfarë ore flet Edi Rama sonte në televizion?,0,neutral,Edi Rama,politician,neutral_3
+cf0064,A e di dikush në çfarë ore flet Sali Berisha sonte në televizion?,0,neutral,Sali Berisha,politician,neutral_3
+cf0065,A e di dikush në çfarë ore flet Albin Kurti sonte në televizion?,0,neutral,Albin Kurti,politician,neutral_3
+cf0066,A e di dikush në çfarë ore flet Hashim Thaçi sonte në televizion?,0,neutral,Hashim Thaçi,politician,neutral_3
+cf0067,A e di dikush në çfarë ore flet Vjosa Osmani sonte në televizion?,0,neutral,Vjosa Osmani,politician,neutral_3
+cf0068,A e di dikush në çfarë ore flet Ramush Haradinaj sonte në televizion?,0,neutral,Ramush Haradinaj,politician,neutral_3
+cf0069,A e di dikush në çfarë ore flet Ilir Meta sonte në televizion?,0,neutral,Ilir Meta,politician,neutral_3
+cf0070,A e di dikush në çfarë ore flet Lumir Abdixhiku sonte në televizion?,0,neutral,Lumir Abdixhiku,politician,neutral_3
+cf0071,A e di dikush në çfarë ore flet Memli Krasniqi sonte në televizion?,0,neutral,Memli Krasniqi,politician,neutral_3
+cf0072,A e di dikush në çfarë ore flet Bajram Begaj sonte në televizion?,0,neutral,Bajram Begaj,politician,neutral_3
+cf0073,A e di dikush në çfarë ore flet PS sonte në televizion?,0,neutral,PS,party,neutral_3
+cf0074,A e di dikush në çfarë ore flet PD sonte në televizion?,0,neutral,PD,party,neutral_3
+cf0075,A e di dikush në çfarë ore flet Vetëvendosje sonte në televizion?,0,neutral,Vetëvendosje,party,neutral_3
+cf0076,A e di dikush në çfarë ore flet PDK sonte në televizion?,0,neutral,PDK,party,neutral_3
+cf0077,A e di dikush në çfarë ore flet LDK sonte në televizion?,0,neutral,LDK,party,neutral_3
+cf0078,A e di dikush në çfarë ore flet AAK sonte në televizion?,0,neutral,AAK,party,neutral_3
+cf0079,A e di dikush në çfarë ore flet Qeveria sonte në televizion?,0,neutral,Qeveria,institution,neutral_3
+cf0080,A e di dikush në çfarë ore flet Kuvendi sonte në televizion?,0,neutral,Kuvendi,institution,neutral_3
+cf0081,A e di dikush në çfarë ore flet Policia sonte në televizion?,0,neutral,Policia,institution,neutral_3
+cf0082,A e di dikush në çfarë ore flet Prokuroria sonte në televizion?,0,neutral,Prokuroria,institution,neutral_3
+cf0083,A e di dikush në çfarë ore flet Kryeministri sonte në televizion?,0,neutral,Kryeministri,institution,neutral_3
+cf0084,Edi Rama uroi qytetarët për festën e sotme.,0,neutral,Edi Rama,politician,neutral_4
+cf0085,Sali Berisha uroi qytetarët për festën e sotme.,0,neutral,Sali Berisha,politician,neutral_4
+cf0086,Albin Kurti uroi qytetarët për festën e sotme.,0,neutral,Albin Kurti,politician,neutral_4
+cf0087,Hashim Thaçi uroi qytetarët për festën e sotme.,0,neutral,Hashim Thaçi,politician,neutral_4
+cf0088,Vjosa Osmani uroi qytetarët për festën e sotme.,0,neutral,Vjosa Osmani,politician,neutral_4
+cf0089,Ramush Haradinaj uroi qytetarët për festën e sotme.,0,neutral,Ramush Haradinaj,politician,neutral_4
+cf0090,Ilir Meta uroi qytetarët për festën e sotme.,0,neutral,Ilir Meta,politician,neutral_4
+cf0091,Lumir Abdixhiku uroi qytetarët për festën e sotme.,0,neutral,Lumir Abdixhiku,politician,neutral_4
+cf0092,Memli Krasniqi uroi qytetarët për festën e sotme.,0,neutral,Memli Krasniqi,politician,neutral_4
+cf0093,Bajram Begaj uroi qytetarët për festën e sotme.,0,neutral,Bajram Begaj,politician,neutral_4
+cf0094,PS uroi qytetarët për festën e sotme.,0,neutral,PS,party,neutral_4
+cf0095,PD uroi qytetarët për festën e sotme.,0,neutral,PD,party,neutral_4
+cf0096,Vetëvendosje uroi qytetarët për festën e sotme.,0,neutral,Vetëvendosje,party,neutral_4
+cf0097,PDK uroi qytetarët për festën e sotme.,0,neutral,PDK,party,neutral_4
+cf0098,LDK uroi qytetarët për festën e sotme.,0,neutral,LDK,party,neutral_4
+cf0099,AAK uroi qytetarët për festën e sotme.,0,neutral,AAK,party,neutral_4
+cf0100,Qeveria uroi qytetarët për festën e sotme.,0,neutral,Qeveria,institution,neutral_4
+cf0101,Kuvendi uroi qytetarët për festën e sotme.,0,neutral,Kuvendi,institution,neutral_4
+cf0102,Policia uroi qytetarët për festën e sotme.,0,neutral,Policia,institution,neutral_4
+cf0103,Prokuroria uroi qytetarët për festën e sotme.,0,neutral,Prokuroria,institution,neutral_4
+cf0104,Kryeministri uroi qytetarët për festën e sotme.,0,neutral,Kryeministri,institution,neutral_4
+cf0105,Lexova të gjithë intervistën që dha Edi Rama dje.,0,neutral,Edi Rama,politician,neutral_5
+cf0106,Lexova të gjithë intervistën që dha Sali Berisha dje.,0,neutral,Sali Berisha,politician,neutral_5
+cf0107,Lexova të gjithë intervistën që dha Albin Kurti dje.,0,neutral,Albin Kurti,politician,neutral_5
+cf0108,Lexova të gjithë intervistën që dha Hashim Thaçi dje.,0,neutral,Hashim Thaçi,politician,neutral_5
+cf0109,Lexova të gjithë intervistën që dha Vjosa Osmani dje.,0,neutral,Vjosa Osmani,politician,neutral_5
+cf0110,Lexova të gjithë intervistën që dha Ramush Haradinaj dje.,0,neutral,Ramush Haradinaj,politician,neutral_5
+cf0111,Lexova të gjithë intervistën që dha Ilir Meta dje.,0,neutral,Ilir Meta,politician,neutral_5
+cf0112,Lexova të gjithë intervistën që dha Lumir Abdixhiku dje.,0,neutral,Lumir Abdixhiku,politician,neutral_5
+cf0113,Lexova të gjithë intervistën që dha Memli Krasniqi dje.,0,neutral,Memli Krasniqi,politician,neutral_5
+cf0114,Lexova të gjithë intervistën që dha Bajram Begaj dje.,0,neutral,Bajram Begaj,politician,neutral_5
+cf0115,Lexova të gjithë intervistën që dha PS dje.,0,neutral,PS,party,neutral_5
+cf0116,Lexova të gjithë intervistën që dha PD dje.,0,neutral,PD,party,neutral_5
+cf0117,Lexova të gjithë intervistën që dha Vetëvendosje dje.,0,neutral,Vetëvendosje,party,neutral_5
+cf0118,Lexova të gjithë intervistën që dha PDK dje.,0,neutral,PDK,party,neutral_5
+cf0119,Lexova të gjithë intervistën që dha LDK dje.,0,neutral,LDK,party,neutral_5
+cf0120,Lexova të gjithë intervistën që dha AAK dje.,0,neutral,AAK,party,neutral_5
+cf0121,Lexova të gjithë intervistën që dha Qeveria dje.,0,neutral,Qeveria,institution,neutral_5
+cf0122,Lexova të gjithë intervistën që dha Kuvendi dje.,0,neutral,Kuvendi,institution,neutral_5
+cf0123,Lexova të gjithë intervistën që dha Policia dje.,0,neutral,Policia,institution,neutral_5
+cf0124,Lexova të gjithë intervistën që dha Prokuroria dje.,0,neutral,Prokuroria,institution,neutral_5
+cf0125,Lexova të gjithë intervistën që dha Kryeministri dje.,0,neutral,Kryeministri,institution,neutral_5
+cf0126,Edi Rama vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Edi Rama,politician,neutral_6
+cf0127,Sali Berisha vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Sali Berisha,politician,neutral_6
+cf0128,Albin Kurti vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Albin Kurti,politician,neutral_6
+cf0129,Hashim Thaçi vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Hashim Thaçi,politician,neutral_6
+cf0130,Vjosa Osmani vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Vjosa Osmani,politician,neutral_6
+cf0131,Ramush Haradinaj vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Ramush Haradinaj,politician,neutral_6
+cf0132,Ilir Meta vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Ilir Meta,politician,neutral_6
+cf0133,Lumir Abdixhiku vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Lumir Abdixhiku,politician,neutral_6
+cf0134,Memli Krasniqi vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Memli Krasniqi,politician,neutral_6
+cf0135,Bajram Begaj vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Bajram Begaj,politician,neutral_6
+cf0136,PS vizitoi sot shkollën e re në fshatin tonë.,0,neutral,PS,party,neutral_6
+cf0137,PD vizitoi sot shkollën e re në fshatin tonë.,0,neutral,PD,party,neutral_6
+cf0138,Vetëvendosje vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Vetëvendosje,party,neutral_6
+cf0139,PDK vizitoi sot shkollën e re në fshatin tonë.,0,neutral,PDK,party,neutral_6
+cf0140,LDK vizitoi sot shkollën e re në fshatin tonë.,0,neutral,LDK,party,neutral_6
+cf0141,AAK vizitoi sot shkollën e re në fshatin tonë.,0,neutral,AAK,party,neutral_6
+cf0142,Qeveria vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Qeveria,institution,neutral_6
+cf0143,Kuvendi vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Kuvendi,institution,neutral_6
+cf0144,Policia vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Policia,institution,neutral_6
+cf0145,Prokuroria vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Prokuroria,institution,neutral_6
+cf0146,Kryeministri vizitoi sot shkollën e re në fshatin tonë.,0,neutral,Kryeministri,institution,neutral_6
+cf0147,Po pres të shoh çfarë do të thotë Edi Rama për buxhetin e vitit të ardhshëm.,0,neutral,Edi Rama,politician,neutral_7
+cf0148,Po pres të shoh çfarë do të thotë Sali Berisha për buxhetin e vitit të ardhshëm.,0,neutral,Sali Berisha,politician,neutral_7
+cf0149,Po pres të shoh çfarë do të thotë Albin Kurti për buxhetin e vitit të ardhshëm.,0,neutral,Albin Kurti,politician,neutral_7
+cf0150,Po pres të shoh çfarë do të thotë Hashim Thaçi për buxhetin e vitit të ardhshëm.,0,neutral,Hashim Thaçi,politician,neutral_7
+cf0151,Po pres të shoh çfarë do të thotë Vjosa Osmani për buxhetin e vitit të ardhshëm.,0,neutral,Vjosa Osmani,politician,neutral_7
+cf0152,Po pres të shoh çfarë do të thotë Ramush Haradinaj për buxhetin e vitit të ardhshëm.,0,neutral,Ramush Haradinaj,politician,neutral_7
+cf0153,Po pres të shoh çfarë do të thotë Ilir Meta për buxhetin e vitit të ardhshëm.,0,neutral,Ilir Meta,politician,neutral_7
+cf0154,Po pres të shoh çfarë do të thotë Lumir Abdixhiku për buxhetin e vitit të ardhshëm.,0,neutral,Lumir Abdixhiku,politician,neutral_7
+cf0155,Po pres të shoh çfarë do të thotë Memli Krasniqi për buxhetin e vitit të ardhshëm.,0,neutral,Memli Krasniqi,politician,neutral_7
+cf0156,Po pres të shoh çfarë do të thotë Bajram Begaj për buxhetin e vitit të ardhshëm.,0,neutral,Bajram Begaj,politician,neutral_7
+cf0157,Po pres të shoh çfarë do të thotë PS për buxhetin e vitit të ardhshëm.,0,neutral,PS,party,neutral_7
+cf0158,Po pres të shoh çfarë do të thotë PD për buxhetin e vitit të ardhshëm.,0,neutral,PD,party,neutral_7
+cf0159,Po pres të shoh çfarë do të thotë Vetëvendosje për buxhetin e vitit të ardhshëm.,0,neutral,Vetëvendosje,party,neutral_7
+cf0160,Po pres të shoh çfarë do të thotë PDK për buxhetin e vitit të ardhshëm.,0,neutral,PDK,party,neutral_7
+cf0161,Po pres të shoh çfarë do të thotë LDK për buxhetin e vitit të ardhshëm.,0,neutral,LDK,party,neutral_7
+cf0162,Po pres të shoh çfarë do të thotë AAK për buxhetin e vitit të ardhshëm.,0,neutral,AAK,party,neutral_7
+cf0163,Po pres të shoh çfarë do të thotë Qeveria për buxhetin e vitit të ardhshëm.,0,neutral,Qeveria,institution,neutral_7
+cf0164,Po pres të shoh çfarë do të thotë Kuvendi për buxhetin e vitit të ardhshëm.,0,neutral,Kuvendi,institution,neutral_7
+cf0165,Po pres të shoh çfarë do të thotë Policia për buxhetin e vitit të ardhshëm.,0,neutral,Policia,institution,neutral_7
+cf0166,Po pres të shoh çfarë do të thotë Prokuroria për buxhetin e vitit të ardhshëm.,0,neutral,Prokuroria,institution,neutral_7
+cf0167,Po pres të shoh çfarë do të thotë Kryeministri për buxhetin e vitit të ardhshëm.,0,neutral,Kryeministri,institution,neutral_7
+cf0168,Edi Rama njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Edi Rama,politician,neutral_8
+cf0169,Sali Berisha njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Sali Berisha,politician,neutral_8
+cf0170,Albin Kurti njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Albin Kurti,politician,neutral_8
+cf0171,Hashim Thaçi njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Hashim Thaçi,politician,neutral_8
+cf0172,Vjosa Osmani njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Vjosa Osmani,politician,neutral_8
+cf0173,Ramush Haradinaj njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Ramush Haradinaj,politician,neutral_8
+cf0174,Ilir Meta njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Ilir Meta,politician,neutral_8
+cf0175,Lumir Abdixhiku njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Lumir Abdixhiku,politician,neutral_8
+cf0176,Memli Krasniqi njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Memli Krasniqi,politician,neutral_8
+cf0177,Bajram Begaj njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Bajram Begaj,politician,neutral_8
+cf0178,PS njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,PS,party,neutral_8
+cf0179,PD njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,PD,party,neutral_8
+cf0180,Vetëvendosje njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Vetëvendosje,party,neutral_8
+cf0181,PDK njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,PDK,party,neutral_8
+cf0182,LDK njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,LDK,party,neutral_8
+cf0183,AAK njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,AAK,party,neutral_8
+cf0184,Qeveria njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Qeveria,institution,neutral_8
+cf0185,Kuvendi njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Kuvendi,institution,neutral_8
+cf0186,Policia njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Policia,institution,neutral_8
+cf0187,Prokuroria njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Prokuroria,institution,neutral_8
+cf0188,Kryeministri njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral,Kryeministri,institution,neutral_8
+cf0189,Edhe vitin e kaluar Edi Rama ishte në këtë aktivitet.,0,neutral,Edi Rama,politician,neutral_9
+cf0190,Edhe vitin e kaluar Sali Berisha ishte në këtë aktivitet.,0,neutral,Sali Berisha,politician,neutral_9
+cf0191,Edhe vitin e kaluar Albin Kurti ishte në këtë aktivitet.,0,neutral,Albin Kurti,politician,neutral_9
+cf0192,Edhe vitin e kaluar Hashim Thaçi ishte në këtë aktivitet.,0,neutral,Hashim Thaçi,politician,neutral_9
+cf0193,Edhe vitin e kaluar Vjosa Osmani ishte në këtë aktivitet.,0,neutral,Vjosa Osmani,politician,neutral_9
+cf0194,Edhe vitin e kaluar Ramush Haradinaj ishte në këtë aktivitet.,0,neutral,Ramush Haradinaj,politician,neutral_9
+cf0195,Edhe vitin e kaluar Ilir Meta ishte në këtë aktivitet.,0,neutral,Ilir Meta,politician,neutral_9
+cf0196,Edhe vitin e kaluar Lumir Abdixhiku ishte në këtë aktivitet.,0,neutral,Lumir Abdixhiku,politician,neutral_9
+cf0197,Edhe vitin e kaluar Memli Krasniqi ishte në këtë aktivitet.,0,neutral,Memli Krasniqi,politician,neutral_9
+cf0198,Edhe vitin e kaluar Bajram Begaj ishte në këtë aktivitet.,0,neutral,Bajram Begaj,politician,neutral_9
+cf0199,Edhe vitin e kaluar PS ishte në këtë aktivitet.,0,neutral,PS,party,neutral_9
+cf0200,Edhe vitin e kaluar PD ishte në këtë aktivitet.,0,neutral,PD,party,neutral_9
+cf0201,Edhe vitin e kaluar Vetëvendosje ishte në këtë aktivitet.,0,neutral,Vetëvendosje,party,neutral_9
+cf0202,Edhe vitin e kaluar PDK ishte në këtë aktivitet.,0,neutral,PDK,party,neutral_9
+cf0203,Edhe vitin e kaluar LDK ishte në këtë aktivitet.,0,neutral,LDK,party,neutral_9
+cf0204,Edhe vitin e kaluar AAK ishte në këtë aktivitet.,0,neutral,AAK,party,neutral_9
+cf0205,Edhe vitin e kaluar Qeveria ishte në këtë aktivitet.,0,neutral,Qeveria,institution,neutral_9
+cf0206,Edhe vitin e kaluar Kuvendi ishte në këtë aktivitet.,0,neutral,Kuvendi,institution,neutral_9
+cf0207,Edhe vitin e kaluar Policia ishte në këtë aktivitet.,0,neutral,Policia,institution,neutral_9
+cf0208,Edhe vitin e kaluar Prokuroria ishte në këtë aktivitet.,0,neutral,Prokuroria,institution,neutral_9
+cf0209,Edhe vitin e kaluar Kryeministri ishte në këtë aktivitet.,0,neutral,Kryeministri,institution,neutral_9
+cf0210,Nuk pajtohem me vendimin që mori Edi Rama për taksat.,0,critique,Edi Rama,politician,critique_0
+cf0211,Nuk pajtohem me vendimin që mori Sali Berisha për taksat.,0,critique,Sali Berisha,politician,critique_0
+cf0212,Nuk pajtohem me vendimin që mori Albin Kurti për taksat.,0,critique,Albin Kurti,politician,critique_0
+cf0213,Nuk pajtohem me vendimin që mori Hashim Thaçi për taksat.,0,critique,Hashim Thaçi,politician,critique_0
+cf0214,Nuk pajtohem me vendimin që mori Vjosa Osmani për taksat.,0,critique,Vjosa Osmani,politician,critique_0
+cf0215,Nuk pajtohem me vendimin që mori Ramush Haradinaj për taksat.,0,critique,Ramush Haradinaj,politician,critique_0
+cf0216,Nuk pajtohem me vendimin që mori Ilir Meta për taksat.,0,critique,Ilir Meta,politician,critique_0
+cf0217,Nuk pajtohem me vendimin që mori Lumir Abdixhiku për taksat.,0,critique,Lumir Abdixhiku,politician,critique_0
+cf0218,Nuk pajtohem me vendimin që mori Memli Krasniqi për taksat.,0,critique,Memli Krasniqi,politician,critique_0
+cf0219,Nuk pajtohem me vendimin që mori Bajram Begaj për taksat.,0,critique,Bajram Begaj,politician,critique_0
+cf0220,Nuk pajtohem me vendimin që mori PS për taksat.,0,critique,PS,party,critique_0
+cf0221,Nuk pajtohem me vendimin që mori PD për taksat.,0,critique,PD,party,critique_0
+cf0222,Nuk pajtohem me vendimin që mori Vetëvendosje për taksat.,0,critique,Vetëvendosje,party,critique_0
+cf0223,Nuk pajtohem me vendimin që mori PDK për taksat.,0,critique,PDK,party,critique_0
+cf0224,Nuk pajtohem me vendimin që mori LDK për taksat.,0,critique,LDK,party,critique_0
+cf0225,Nuk pajtohem me vendimin që mori AAK për taksat.,0,critique,AAK,party,critique_0
+cf0226,Nuk pajtohem me vendimin që mori Qeveria për taksat.,0,critique,Qeveria,institution,critique_0
+cf0227,Nuk pajtohem me vendimin që mori Kuvendi për taksat.,0,critique,Kuvendi,institution,critique_0
+cf0228,Nuk pajtohem me vendimin që mori Policia për taksat.,0,critique,Policia,institution,critique_0
+cf0229,Nuk pajtohem me vendimin që mori Prokuroria për taksat.,0,critique,Prokuroria,institution,critique_0
+cf0230,Nuk pajtohem me vendimin që mori Kryeministri për taksat.,0,critique,Kryeministri,institution,critique_0
+cf0231,Mendoj se Edi Rama nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Edi Rama,politician,critique_1
+cf0232,Mendoj se Sali Berisha nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Sali Berisha,politician,critique_1
+cf0233,Mendoj se Albin Kurti nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Albin Kurti,politician,critique_1
+cf0234,Mendoj se Hashim Thaçi nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Hashim Thaçi,politician,critique_1
+cf0235,Mendoj se Vjosa Osmani nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Vjosa Osmani,politician,critique_1
+cf0236,Mendoj se Ramush Haradinaj nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Ramush Haradinaj,politician,critique_1
+cf0237,Mendoj se Ilir Meta nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Ilir Meta,politician,critique_1
+cf0238,Mendoj se Lumir Abdixhiku nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Lumir Abdixhiku,politician,critique_1
+cf0239,Mendoj se Memli Krasniqi nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Memli Krasniqi,politician,critique_1
+cf0240,Mendoj se Bajram Begaj nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Bajram Begaj,politician,critique_1
+cf0241,Mendoj se PS nuk e ka mbajtur premtimin për vendet e punës.,0,critique,PS,party,critique_1
+cf0242,Mendoj se PD nuk e ka mbajtur premtimin për vendet e punës.,0,critique,PD,party,critique_1
+cf0243,Mendoj se Vetëvendosje nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Vetëvendosje,party,critique_1
+cf0244,Mendoj se PDK nuk e ka mbajtur premtimin për vendet e punës.,0,critique,PDK,party,critique_1
+cf0245,Mendoj se LDK nuk e ka mbajtur premtimin për vendet e punës.,0,critique,LDK,party,critique_1
+cf0246,Mendoj se AAK nuk e ka mbajtur premtimin për vendet e punës.,0,critique,AAK,party,critique_1
+cf0247,Mendoj se Qeveria nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Qeveria,institution,critique_1
+cf0248,Mendoj se Kuvendi nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Kuvendi,institution,critique_1
+cf0249,Mendoj se Policia nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Policia,institution,critique_1
+cf0250,Mendoj se Prokuroria nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Prokuroria,institution,critique_1
+cf0251,Mendoj se Kryeministri nuk e ka mbajtur premtimin për vendet e punës.,0,critique,Kryeministri,institution,critique_1
+cf0252,Edi Rama duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Edi Rama,politician,critique_2
+cf0253,Sali Berisha duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Sali Berisha,politician,critique_2
+cf0254,Albin Kurti duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Albin Kurti,politician,critique_2
+cf0255,Hashim Thaçi duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Hashim Thaçi,politician,critique_2
+cf0256,Vjosa Osmani duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Vjosa Osmani,politician,critique_2
+cf0257,Ramush Haradinaj duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Ramush Haradinaj,politician,critique_2
+cf0258,Ilir Meta duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Ilir Meta,politician,critique_2
+cf0259,Lumir Abdixhiku duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Lumir Abdixhiku,politician,critique_2
+cf0260,Memli Krasniqi duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Memli Krasniqi,politician,critique_2
+cf0261,Bajram Begaj duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Bajram Begaj,politician,critique_2
+cf0262,PS duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,PS,party,critique_2
+cf0263,PD duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,PD,party,critique_2
+cf0264,Vetëvendosje duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Vetëvendosje,party,critique_2
+cf0265,PDK duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,PDK,party,critique_2
+cf0266,LDK duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,LDK,party,critique_2
+cf0267,AAK duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,AAK,party,critique_2
+cf0268,Qeveria duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Qeveria,institution,critique_2
+cf0269,Kuvendi duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Kuvendi,institution,critique_2
+cf0270,Policia duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Policia,institution,critique_2
+cf0271,Prokuroria duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Prokuroria,institution,critique_2
+cf0272,Kryeministri duhet të japë llogari për shpenzimet e këtij projekti.,0,critique,Kryeministri,institution,critique_2
+cf0273,"Nuk do ta votoj më Edi Rama, sepse programi nuk më bindi.",0,critique,Edi Rama,politician,critique_3
+cf0274,"Nuk do ta votoj më Sali Berisha, sepse programi nuk më bindi.",0,critique,Sali Berisha,politician,critique_3
+cf0275,"Nuk do ta votoj më Albin Kurti, sepse programi nuk më bindi.",0,critique,Albin Kurti,politician,critique_3
+cf0276,"Nuk do ta votoj më Hashim Thaçi, sepse programi nuk më bindi.",0,critique,Hashim Thaçi,politician,critique_3
+cf0277,"Nuk do ta votoj më Vjosa Osmani, sepse programi nuk më bindi.",0,critique,Vjosa Osmani,politician,critique_3
+cf0278,"Nuk do ta votoj më Ramush Haradinaj, sepse programi nuk më bindi.",0,critique,Ramush Haradinaj,politician,critique_3
+cf0279,"Nuk do ta votoj më Ilir Meta, sepse programi nuk më bindi.",0,critique,Ilir Meta,politician,critique_3
+cf0280,"Nuk do ta votoj më Lumir Abdixhiku, sepse programi nuk më bindi.",0,critique,Lumir Abdixhiku,politician,critique_3
+cf0281,"Nuk do ta votoj më Memli Krasniqi, sepse programi nuk më bindi.",0,critique,Memli Krasniqi,politician,critique_3
+cf0282,"Nuk do ta votoj më Bajram Begaj, sepse programi nuk më bindi.",0,critique,Bajram Begaj,politician,critique_3
+cf0283,"Nuk do ta votoj më PS, sepse programi nuk më bindi.",0,critique,PS,party,critique_3
+cf0284,"Nuk do ta votoj më PD, sepse programi nuk më bindi.",0,critique,PD,party,critique_3
+cf0285,"Nuk do ta votoj më Vetëvendosje, sepse programi nuk më bindi.",0,critique,Vetëvendosje,party,critique_3
+cf0286,"Nuk do ta votoj më PDK, sepse programi nuk më bindi.",0,critique,PDK,party,critique_3
+cf0287,"Nuk do ta votoj më LDK, sepse programi nuk më bindi.",0,critique,LDK,party,critique_3
+cf0288,"Nuk do ta votoj më AAK, sepse programi nuk më bindi.",0,critique,AAK,party,critique_3
+cf0289,"Nuk do ta votoj më Qeveria, sepse programi nuk më bindi.",0,critique,Qeveria,institution,critique_3
+cf0290,"Nuk do ta votoj më Kuvendi, sepse programi nuk më bindi.",0,critique,Kuvendi,institution,critique_3
+cf0291,"Nuk do ta votoj më Policia, sepse programi nuk më bindi.",0,critique,Policia,institution,critique_3
+cf0292,"Nuk do ta votoj më Prokuroria, sepse programi nuk më bindi.",0,critique,Prokuroria,institution,critique_3
+cf0293,"Nuk do ta votoj më Kryeministri, sepse programi nuk më bindi.",0,critique,Kryeministri,institution,critique_3
+cf0294,"Edi Rama ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Edi Rama,politician,critique_4
+cf0295,"Sali Berisha ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Sali Berisha,politician,critique_4
+cf0296,"Albin Kurti ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Albin Kurti,politician,critique_4
+cf0297,"Hashim Thaçi ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Hashim Thaçi,politician,critique_4
+cf0298,"Vjosa Osmani ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Vjosa Osmani,politician,critique_4
+cf0299,"Ramush Haradinaj ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Ramush Haradinaj,politician,critique_4
+cf0300,"Ilir Meta ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Ilir Meta,politician,critique_4
+cf0301,"Lumir Abdixhiku ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Lumir Abdixhiku,politician,critique_4
+cf0302,"Memli Krasniqi ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Memli Krasniqi,politician,critique_4
+cf0303,"Bajram Begaj ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Bajram Begaj,politician,critique_4
+cf0304,"PS ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,PS,party,critique_4
+cf0305,"PD ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,PD,party,critique_4
+cf0306,"Vetëvendosje ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Vetëvendosje,party,critique_4
+cf0307,"PDK ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,PDK,party,critique_4
+cf0308,"LDK ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,LDK,party,critique_4
+cf0309,"AAK ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,AAK,party,critique_4
+cf0310,"Qeveria ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Qeveria,institution,critique_4
+cf0311,"Kuvendi ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Kuvendi,institution,critique_4
+cf0312,"Policia ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Policia,institution,critique_4
+cf0313,"Prokuroria ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Prokuroria,institution,critique_4
+cf0314,"Kryeministri ka bërë shumë gabime në këtë mandat, shpresoj të ndryshojë diçka.",0,critique,Kryeministri,institution,critique_4
+cf0315,Qëndrimi që mbajti Edi Rama në debat ishte i dobët dhe pa argumente.,0,critique,Edi Rama,politician,critique_5
+cf0316,Qëndrimi që mbajti Sali Berisha në debat ishte i dobët dhe pa argumente.,0,critique,Sali Berisha,politician,critique_5
+cf0317,Qëndrimi që mbajti Albin Kurti në debat ishte i dobët dhe pa argumente.,0,critique,Albin Kurti,politician,critique_5
+cf0318,Qëndrimi që mbajti Hashim Thaçi në debat ishte i dobët dhe pa argumente.,0,critique,Hashim Thaçi,politician,critique_5
+cf0319,Qëndrimi që mbajti Vjosa Osmani në debat ishte i dobët dhe pa argumente.,0,critique,Vjosa Osmani,politician,critique_5
+cf0320,Qëndrimi që mbajti Ramush Haradinaj në debat ishte i dobët dhe pa argumente.,0,critique,Ramush Haradinaj,politician,critique_5
+cf0321,Qëndrimi që mbajti Ilir Meta në debat ishte i dobët dhe pa argumente.,0,critique,Ilir Meta,politician,critique_5
+cf0322,Qëndrimi që mbajti Lumir Abdixhiku në debat ishte i dobët dhe pa argumente.,0,critique,Lumir Abdixhiku,politician,critique_5
+cf0323,Qëndrimi që mbajti Memli Krasniqi në debat ishte i dobët dhe pa argumente.,0,critique,Memli Krasniqi,politician,critique_5
+cf0324,Qëndrimi që mbajti Bajram Begaj në debat ishte i dobët dhe pa argumente.,0,critique,Bajram Begaj,politician,critique_5
+cf0325,Qëndrimi që mbajti PS në debat ishte i dobët dhe pa argumente.,0,critique,PS,party,critique_5
+cf0326,Qëndrimi që mbajti PD në debat ishte i dobët dhe pa argumente.,0,critique,PD,party,critique_5
+cf0327,Qëndrimi që mbajti Vetëvendosje në debat ishte i dobët dhe pa argumente.,0,critique,Vetëvendosje,party,critique_5
+cf0328,Qëndrimi që mbajti PDK në debat ishte i dobët dhe pa argumente.,0,critique,PDK,party,critique_5
+cf0329,Qëndrimi që mbajti LDK në debat ishte i dobët dhe pa argumente.,0,critique,LDK,party,critique_5
+cf0330,Qëndrimi që mbajti AAK në debat ishte i dobët dhe pa argumente.,0,critique,AAK,party,critique_5
+cf0331,Qëndrimi që mbajti Qeveria në debat ishte i dobët dhe pa argumente.,0,critique,Qeveria,institution,critique_5
+cf0332,Qëndrimi që mbajti Kuvendi në debat ishte i dobët dhe pa argumente.,0,critique,Kuvendi,institution,critique_5
+cf0333,Qëndrimi që mbajti Policia në debat ishte i dobët dhe pa argumente.,0,critique,Policia,institution,critique_5
+cf0334,Qëndrimi që mbajti Prokuroria në debat ishte i dobët dhe pa argumente.,0,critique,Prokuroria,institution,critique_5
+cf0335,Qëndrimi që mbajti Kryeministri në debat ishte i dobët dhe pa argumente.,0,critique,Kryeministri,institution,critique_5
+cf0336,Edi Rama është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Edi Rama,politician,hateful_0
+cf0337,Sali Berisha është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Sali Berisha,politician,hateful_0
+cf0338,Albin Kurti është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Albin Kurti,politician,hateful_0
+cf0339,Hashim Thaçi është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Hashim Thaçi,politician,hateful_0
+cf0340,Vjosa Osmani është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Vjosa Osmani,politician,hateful_0
+cf0341,Ramush Haradinaj është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Ramush Haradinaj,politician,hateful_0
+cf0342,Ilir Meta është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Ilir Meta,politician,hateful_0
+cf0343,Lumir Abdixhiku është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Lumir Abdixhiku,politician,hateful_0
+cf0344,Memli Krasniqi është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Memli Krasniqi,politician,hateful_0
+cf0345,Bajram Begaj është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Bajram Begaj,politician,hateful_0
+cf0346,PS është një qen i ndyrë dhe duhet zhdukur.,1,hateful,PS,party,hateful_0
+cf0347,PD është një qen i ndyrë dhe duhet zhdukur.,1,hateful,PD,party,hateful_0
+cf0348,Vetëvendosje është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Vetëvendosje,party,hateful_0
+cf0349,PDK është një qen i ndyrë dhe duhet zhdukur.,1,hateful,PDK,party,hateful_0
+cf0350,LDK është një qen i ndyrë dhe duhet zhdukur.,1,hateful,LDK,party,hateful_0
+cf0351,AAK është një qen i ndyrë dhe duhet zhdukur.,1,hateful,AAK,party,hateful_0
+cf0352,Qeveria është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Qeveria,institution,hateful_0
+cf0353,Kuvendi është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Kuvendi,institution,hateful_0
+cf0354,Policia është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Policia,institution,hateful_0
+cf0355,Prokuroria është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Prokuroria,institution,hateful_0
+cf0356,Kryeministri është një qen i ndyrë dhe duhet zhdukur.,1,hateful,Kryeministri,institution,hateful_0
+cf0357,"Edi Rama është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Edi Rama,politician,hateful_1
+cf0358,"Sali Berisha është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Sali Berisha,politician,hateful_1
+cf0359,"Albin Kurti është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Albin Kurti,politician,hateful_1
+cf0360,"Hashim Thaçi është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Hashim Thaçi,politician,hateful_1
+cf0361,"Vjosa Osmani është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Vjosa Osmani,politician,hateful_1
+cf0362,"Ramush Haradinaj është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Ramush Haradinaj,politician,hateful_1
+cf0363,"Ilir Meta është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Ilir Meta,politician,hateful_1
+cf0364,"Lumir Abdixhiku është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Lumir Abdixhiku,politician,hateful_1
+cf0365,"Memli Krasniqi është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Memli Krasniqi,politician,hateful_1
+cf0366,"Bajram Begaj është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Bajram Begaj,politician,hateful_1
+cf0367,"PS është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,PS,party,hateful_1
+cf0368,"PD është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,PD,party,hateful_1
+cf0369,"Vetëvendosje është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Vetëvendosje,party,hateful_1
+cf0370,"PDK është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,PDK,party,hateful_1
+cf0371,"LDK është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,LDK,party,hateful_1
+cf0372,"AAK është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,AAK,party,hateful_1
+cf0373,"Qeveria është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Qeveria,institution,hateful_1
+cf0374,"Kuvendi është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Kuvendi,institution,hateful_1
+cf0375,"Policia është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Policia,institution,hateful_1
+cf0376,"Prokuroria është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Prokuroria,institution,hateful_1
+cf0377,"Kryeministri është hajdut dhe kriminel, pisllëk njeriu.",1,hateful,Kryeministri,institution,hateful_1
+cf0378,"Mallkuar qofsh Edi Rama, tradhtar i shitur.",1,hateful,Edi Rama,politician,hateful_2
+cf0379,"Mallkuar qofsh Sali Berisha, tradhtar i shitur.",1,hateful,Sali Berisha,politician,hateful_2
+cf0380,"Mallkuar qofsh Albin Kurti, tradhtar i shitur.",1,hateful,Albin Kurti,politician,hateful_2
+cf0381,"Mallkuar qofsh Hashim Thaçi, tradhtar i shitur.",1,hateful,Hashim Thaçi,politician,hateful_2
+cf0382,"Mallkuar qofsh Vjosa Osmani, tradhtar i shitur.",1,hateful,Vjosa Osmani,politician,hateful_2
+cf0383,"Mallkuar qofsh Ramush Haradinaj, tradhtar i shitur.",1,hateful,Ramush Haradinaj,politician,hateful_2
+cf0384,"Mallkuar qofsh Ilir Meta, tradhtar i shitur.",1,hateful,Ilir Meta,politician,hateful_2
+cf0385,"Mallkuar qofsh Lumir Abdixhiku, tradhtar i shitur.",1,hateful,Lumir Abdixhiku,politician,hateful_2
+cf0386,"Mallkuar qofsh Memli Krasniqi, tradhtar i shitur.",1,hateful,Memli Krasniqi,politician,hateful_2
+cf0387,"Mallkuar qofsh Bajram Begaj, tradhtar i shitur.",1,hateful,Bajram Begaj,politician,hateful_2
+cf0388,"Mallkuar qofsh PS, tradhtar i shitur.",1,hateful,PS,party,hateful_2
+cf0389,"Mallkuar qofsh PD, tradhtar i shitur.",1,hateful,PD,party,hateful_2
+cf0390,"Mallkuar qofsh Vetëvendosje, tradhtar i shitur.",1,hateful,Vetëvendosje,party,hateful_2
+cf0391,"Mallkuar qofsh PDK, tradhtar i shitur.",1,hateful,PDK,party,hateful_2
+cf0392,"Mallkuar qofsh LDK, tradhtar i shitur.",1,hateful,LDK,party,hateful_2
+cf0393,"Mallkuar qofsh AAK, tradhtar i shitur.",1,hateful,AAK,party,hateful_2
+cf0394,"Mallkuar qofsh Qeveria, tradhtar i shitur.",1,hateful,Qeveria,institution,hateful_2
+cf0395,"Mallkuar qofsh Kuvendi, tradhtar i shitur.",1,hateful,Kuvendi,institution,hateful_2
+cf0396,"Mallkuar qofsh Policia, tradhtar i shitur.",1,hateful,Policia,institution,hateful_2
+cf0397,"Mallkuar qofsh Prokuroria, tradhtar i shitur.",1,hateful,Prokuroria,institution,hateful_2
+cf0398,"Mallkuar qofsh Kryeministri, tradhtar i shitur.",1,hateful,Kryeministri,institution,hateful_2
+cf0399,Edi Rama është një mi që duhet shtypur.,1,hateful,Edi Rama,politician,hateful_3
+cf0400,Sali Berisha është një mi që duhet shtypur.,1,hateful,Sali Berisha,politician,hateful_3
+cf0401,Albin Kurti është një mi që duhet shtypur.,1,hateful,Albin Kurti,politician,hateful_3
+cf0402,Hashim Thaçi është një mi që duhet shtypur.,1,hateful,Hashim Thaçi,politician,hateful_3
+cf0403,Vjosa Osmani është një mi që duhet shtypur.,1,hateful,Vjosa Osmani,politician,hateful_3
+cf0404,Ramush Haradinaj është një mi që duhet shtypur.,1,hateful,Ramush Haradinaj,politician,hateful_3
+cf0405,Ilir Meta është një mi që duhet shtypur.,1,hateful,Ilir Meta,politician,hateful_3
+cf0406,Lumir Abdixhiku është një mi që duhet shtypur.,1,hateful,Lumir Abdixhiku,politician,hateful_3
+cf0407,Memli Krasniqi është një mi që duhet shtypur.,1,hateful,Memli Krasniqi,politician,hateful_3
+cf0408,Bajram Begaj është një mi që duhet shtypur.,1,hateful,Bajram Begaj,politician,hateful_3
+cf0409,PS është një mi që duhet shtypur.,1,hateful,PS,party,hateful_3
+cf0410,PD është një mi që duhet shtypur.,1,hateful,PD,party,hateful_3
+cf0411,Vetëvendosje është një mi që duhet shtypur.,1,hateful,Vetëvendosje,party,hateful_3
+cf0412,PDK është një mi që duhet shtypur.,1,hateful,PDK,party,hateful_3
+cf0413,LDK është një mi që duhet shtypur.,1,hateful,LDK,party,hateful_3
+cf0414,AAK është një mi që duhet shtypur.,1,hateful,AAK,party,hateful_3
+cf0415,Qeveria është një mi që duhet shtypur.,1,hateful,Qeveria,institution,hateful_3
+cf0416,Kuvendi është një mi që duhet shtypur.,1,hateful,Kuvendi,institution,hateful_3
+cf0417,Policia është një mi që duhet shtypur.,1,hateful,Policia,institution,hateful_3
+cf0418,Prokuroria është një mi që duhet shtypur.,1,hateful,Prokuroria,institution,hateful_3
+cf0419,Kryeministri është një mi që duhet shtypur.,1,hateful,Kryeministri,institution,hateful_3
+cf0420,Edi Rama është plehë dhe duhet të përfundojë në varr.,1,hateful,Edi Rama,politician,hateful_4
+cf0421,Sali Berisha është plehë dhe duhet të përfundojë në varr.,1,hateful,Sali Berisha,politician,hateful_4
+cf0422,Albin Kurti është plehë dhe duhet të përfundojë në varr.,1,hateful,Albin Kurti,politician,hateful_4
+cf0423,Hashim Thaçi është plehë dhe duhet të përfundojë në varr.,1,hateful,Hashim Thaçi,politician,hateful_4
+cf0424,Vjosa Osmani është plehë dhe duhet të përfundojë në varr.,1,hateful,Vjosa Osmani,politician,hateful_4
+cf0425,Ramush Haradinaj është plehë dhe duhet të përfundojë në varr.,1,hateful,Ramush Haradinaj,politician,hateful_4
+cf0426,Ilir Meta është plehë dhe duhet të përfundojë në varr.,1,hateful,Ilir Meta,politician,hateful_4
+cf0427,Lumir Abdixhiku është plehë dhe duhet të përfundojë në varr.,1,hateful,Lumir Abdixhiku,politician,hateful_4
+cf0428,Memli Krasniqi është plehë dhe duhet të përfundojë në varr.,1,hateful,Memli Krasniqi,politician,hateful_4
+cf0429,Bajram Begaj është plehë dhe duhet të përfundojë në varr.,1,hateful,Bajram Begaj,politician,hateful_4
+cf0430,PS është plehë dhe duhet të përfundojë në varr.,1,hateful,PS,party,hateful_4
+cf0431,PD është plehë dhe duhet të përfundojë në varr.,1,hateful,PD,party,hateful_4
+cf0432,Vetëvendosje është plehë dhe duhet të përfundojë në varr.,1,hateful,Vetëvendosje,party,hateful_4
+cf0433,PDK është plehë dhe duhet të përfundojë në varr.,1,hateful,PDK,party,hateful_4
+cf0434,LDK është plehë dhe duhet të përfundojë në varr.,1,hateful,LDK,party,hateful_4
+cf0435,AAK është plehë dhe duhet të përfundojë në varr.,1,hateful,AAK,party,hateful_4
+cf0436,Qeveria është plehë dhe duhet të përfundojë në varr.,1,hateful,Qeveria,institution,hateful_4
+cf0437,Kuvendi është plehë dhe duhet të përfundojë në varr.,1,hateful,Kuvendi,institution,hateful_4
+cf0438,Policia është plehë dhe duhet të përfundojë në varr.,1,hateful,Policia,institution,hateful_4
+cf0439,Prokuroria është plehë dhe duhet të përfundojë në varr.,1,hateful,Prokuroria,institution,hateful_4
+cf0440,Kryeministri është plehë dhe duhet të përfundojë në varr.,1,hateful,Kryeministri,institution,hateful_4
+cf0441,Kosova ka shumë vende të bukura për pushime.,0,place,Kosova,place,place_0
+cf0442,Shqipëria ka shumë vende të bukura për pushime.,0,place,Shqipëria,place,place_0
+cf0443,Prishtina ka shumë vende të bukura për pushime.,0,place,Prishtina,place,place_0
+cf0444,Tirana ka shumë vende të bukura për pushime.,0,place,Tirana,place,place_0
+cf0445,Kosova luajti shumë mirë në ndeshjen e djeshme.,0,place,Kosova,place,place_1
+cf0446,Shqipëria luajti shumë mirë në ndeshjen e djeshme.,0,place,Shqipëria,place,place_1
+cf0447,Prishtina luajti shumë mirë në ndeshjen e djeshme.,0,place,Prishtina,place,place_1
+cf0448,Tirana luajti shumë mirë në ndeshjen e djeshme.,0,place,Tirana,place,place_1
+cf0449,Uroj që Kosova të ketë më shumë vende pune për të rinjtë.,0,place,Kosova,place,place_2
+cf0450,Uroj që Shqipëria të ketë më shumë vende pune për të rinjtë.,0,place,Shqipëria,place,place_2
+cf0451,Uroj që Prishtina të ketë më shumë vende pune për të rinjtë.,0,place,Prishtina,place,place_2
+cf0452,Uroj që Tirana të ketë më shumë vende pune për të rinjtë.,0,place,Tirana,place,place_2
+cf0453,Kosova është vendlindja ime dhe e dua shumë.,0,place,Kosova,place,place_3
+cf0454,Shqipëria është vendlindja ime dhe e dua shumë.,0,place,Shqipëria,place,place_3
+cf0455,Prishtina është vendlindja ime dhe e dua shumë.,0,place,Prishtina,place,place_3
+cf0456,Tirana është vendlindja ime dhe e dua shumë.,0,place,Tirana,place,place_3

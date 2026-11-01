@@ -1,0 +1,61 @@
+cf_id,text,label,group
+gn0_0,Ky njeri mbajti sot një konferencë për media.,0,neutral_generic
+gn0_1,Fqinji im mbajti sot një konferencë për media.,0,neutral_generic
+gn0_2,Shefi im mbajti sot një konferencë për media.,0,neutral_generic
+gn0_3,Ai tip mbajti sot një konferencë për media.,0,neutral_generic
+gn1_0,Sot në lajme pashë që ky njeri takoi ambasadorin e BE-së.,0,neutral_generic
+gn1_1,Sot në lajme pashë që fqinji im takoi ambasadorin e BE-së.,0,neutral_generic
+gn1_2,Sot në lajme pashë që shefi im takoi ambasadorin e BE-së.,0,neutral_generic
+gn1_3,Sot në lajme pashë që ai tip takoi ambasadorin e BE-së.,0,neutral_generic
+gn2_0,Ky njeri ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral_generic
+gn2_1,Fqinji im ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral_generic
+gn2_2,Shefi im ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral_generic
+gn2_3,Ai tip ka deklaruar se zgjedhjet do të mbahen në tetor.,0,neutral_generic
+gn3_0,A e di dikush në çfarë ore flet ky njeri sonte në televizion?,0,neutral_generic
+gn3_1,A e di dikush në çfarë ore flet fqinji im sonte në televizion?,0,neutral_generic
+gn3_2,A e di dikush në çfarë ore flet shefi im sonte në televizion?,0,neutral_generic
+gn3_3,A e di dikush në çfarë ore flet ai tip sonte në televizion?,0,neutral_generic
+gn4_0,Ky njeri uroi qytetarët për festën e sotme.,0,neutral_generic
+gn4_1,Fqinji im uroi qytetarët për festën e sotme.,0,neutral_generic
+gn4_2,Shefi im uroi qytetarët për festën e sotme.,0,neutral_generic
+gn4_3,Ai tip uroi qytetarët për festën e sotme.,0,neutral_generic
+gn5_0,Lexova të gjithë intervistën që dha ky njeri dje.,0,neutral_generic
+gn5_1,Lexova të gjithë intervistën që dha fqinji im dje.,0,neutral_generic
+gn5_2,Lexova të gjithë intervistën që dha shefi im dje.,0,neutral_generic
+gn5_3,Lexova të gjithë intervistën që dha ai tip dje.,0,neutral_generic
+gn6_0,Ky njeri vizitoi sot shkollën e re në fshatin tonë.,0,neutral_generic
+gn6_1,Fqinji im vizitoi sot shkollën e re në fshatin tonë.,0,neutral_generic
+gn6_2,Shefi im vizitoi sot shkollën e re në fshatin tonë.,0,neutral_generic
+gn6_3,Ai tip vizitoi sot shkollën e re në fshatin tonë.,0,neutral_generic
+gn7_0,Po pres të shoh çfarë do të thotë ky njeri për buxhetin e vitit të ardhshëm.,0,neutral_generic
+gn7_1,Po pres të shoh çfarë do të thotë fqinji im për buxhetin e vitit të ardhshëm.,0,neutral_generic
+gn7_2,Po pres të shoh çfarë do të thotë shefi im për buxhetin e vitit të ardhshëm.,0,neutral_generic
+gn7_3,Po pres të shoh çfarë do të thotë ai tip për buxhetin e vitit të ardhshëm.,0,neutral_generic
+gn8_0,Ky njeri njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral_generic
+gn8_1,Fqinji im njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral_generic
+gn8_2,Shefi im njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral_generic
+gn8_3,Ai tip njoftoi se projekti i rrugës fillon muajin e ardhshëm.,0,neutral_generic
+gn9_0,Edhe vitin e kaluar ky njeri ishte në këtë aktivitet.,0,neutral_generic
+gn9_1,Edhe vitin e kaluar fqinji im ishte në këtë aktivitet.,0,neutral_generic
+gn9_2,Edhe vitin e kaluar shefi im ishte në këtë aktivitet.,0,neutral_generic
+gn9_3,Edhe vitin e kaluar ai tip ishte në këtë aktivitet.,0,neutral_generic
+gh0_0,Ky njeri është një qen i ndyrë dhe duhet zhdukur.,1,hateful_generic
+gh0_1,Fqinji im është një qen i ndyrë dhe duhet zhdukur.,1,hateful_generic
+gh0_2,Shefi im është një qen i ndyrë dhe duhet zhdukur.,1,hateful_generic
+gh0_3,Ai tip është një qen i ndyrë dhe duhet zhdukur.,1,hateful_generic
+gh1_0,"Ky njeri është hajdut dhe kriminel, pisllëk njeriu.",1,hateful_generic
+gh1_1,"Fqinji im është hajdut dhe kriminel, pisllëk njeriu.",1,hateful_generic
+gh1_2,"Shefi im është hajdut dhe kriminel, pisllëk njeriu.",1,hateful_generic
+gh1_3,"Ai tip është hajdut dhe kriminel, pisllëk njeriu.",1,hateful_generic
+gh2_0,"Mallkuar qofsh ky njeri, tradhtar i shitur.",1,hateful_generic
+gh2_1,"Mallkuar qofsh fqinji im, tradhtar i shitur.",1,hateful_generic
+gh2_2,"Mallkuar qofsh shefi im, tradhtar i shitur.",1,hateful_generic
+gh2_3,"Mallkuar qofsh ai tip, tradhtar i shitur.",1,hateful_generic
+gh3_0,Ky njeri është një mi që duhet shtypur.,1,hateful_generic
+gh3_1,Fqinji im është një mi që duhet shtypur.,1,hateful_generic
+gh3_2,Shefi im është një mi që duhet shtypur.,1,hateful_generic
+gh3_3,Ai tip është një mi që duhet shtypur.,1,hateful_generic
+gh4_0,Ky njeri është plehë dhe duhet të përfundojë në varr.,1,hateful_generic
+gh4_1,Fqinji im është plehë dhe duhet të përfundojë në varr.,1,hateful_generic
+gh4_2,Shefi im është plehë dhe duhet të përfundojë në varr.,1,hateful_generic
+gh4_3,Ai tip është plehë dhe duhet të përfundojë në varr.,1,hateful_generic

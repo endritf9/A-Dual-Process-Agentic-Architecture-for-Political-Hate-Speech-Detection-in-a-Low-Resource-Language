@@ -1,0 +1,7 @@
+set,system,recall_hateful,fpr_other,n_hateful,n_other
+cf,mBERT,63.8095238095238,74.14772727272727,105,352
+cf,Jev,100.0,0.0,105,352
+cf,mBERT trained with hard negatives,19.047619047619047,5.681818181818182,105,352
+gen,mBERT,5.0,17.5,20,40
+gen,Jev,80.0,0.0,20,40
+gen,mBERT trained with hard negatives,15.0,2.5,20,40

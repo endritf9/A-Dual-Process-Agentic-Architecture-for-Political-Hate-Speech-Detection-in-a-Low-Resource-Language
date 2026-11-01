@@ -1,0 +1,665 @@
+{
+ "_note": "Seed knowledge base for the lookup_political_entities tool. Roles are kept generic and time-robust; authors must verify them. Aliases are matched on normalised text (lower-case, e/c without diacritics). Single-word aliases of 4+ letters also match inflected forms (e.g. 'kurti' matches 'kurtit'), up to 4 extra letters. Add new entries here or in kb/extra_entities.csv.",
+ "entities": [
+  {
+   "name": "Edi Rama",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician, leader of the Socialist Party (PS); has served as Prime Minister of Albania since 2013",
+   "aliases": [
+    "edi rama",
+    "edvin rama",
+    "rama",
+    "ramuti",
+    "ramus",
+    "edi",
+    "edvin"
+   ],
+   "exclude": [
+    "ramazan",
+    "ramadan"
+   ]
+  },
+  {
+   "name": "Sali Berisha",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician, leader of the Democratic Party (PD); former President and Prime Minister of Albania",
+   "aliases": [
+    "sali berisha",
+    "berisha",
+    "saliu",
+    "sala"
+   ],
+   "exclude": [
+    "salata",
+    "salat"
+   ]
+  },
+  {
+   "name": "Ilir Meta",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician, founder of LSI; former President of Albania",
+   "aliases": [
+    "ilir meta",
+    "meta",
+    "iliri"
+   ],
+   "exclude": [
+    "metal",
+    "metale"
+   ]
+  },
+  {
+   "name": "Lulzim Basha",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician, former leader of the Democratic Party (PD)",
+   "aliases": [
+    "lulzim basha",
+    "basha",
+    "lulzimi"
+   ]
+  },
+  {
+   "name": "Monika Kryemadhi",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician, former leader of LSI",
+   "aliases": [
+    "monika kryemadhi",
+    "kryemadhi"
+   ]
+  },
+  {
+   "name": "Bajram Begaj",
+   "type": "politician",
+   "country": "Albania",
+   "role": "President of Albania since 2022",
+   "aliases": [
+    "bajram begaj",
+    "begaj"
+   ]
+  },
+  {
+   "name": "Erion Veliaj",
+   "type": "politician",
+   "country": "Albania",
+   "role": "Albanian politician (PS), mayor of Tirana",
+   "aliases": [
+    "erion veliaj",
+    "veliaj"
+   ]
+  },
+  {
+   "name": "Enver Hoxha",
+   "type": "historical_figure",
+   "country": "Albania",
+   "role": "communist dictator of Albania (1944-1985)",
+   "aliases": [
+    "enver hoxha",
+    "enveri",
+    "enver"
+   ]
+  },
+  {
+   "name": "Albin Kurti",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, leader of Vetevendosje (VV); has served as Prime Minister of Kosovo",
+   "aliases": [
+    "albin kurti",
+    "kurti",
+    "albini",
+    "albin"
+   ]
+  },
+  {
+   "name": "Hashim Thaci",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, founder of PDK; former President and Prime Minister of Kosovo",
+   "aliases": [
+    "hashim thaci",
+    "thaci",
+    "thaqi",
+    "hashimi",
+    "hashim"
+   ]
+  },
+  {
+   "name": "Vjosa Osmani",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician; President of Kosovo since 2021",
+   "aliases": [
+    "vjosa osmani",
+    "osmani",
+    "vjosa"
+   ]
+  },
+  {
+   "name": "Ramush Haradinaj",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, leader of AAK; former Prime Minister of Kosovo",
+   "aliases": [
+    "ramush haradinaj",
+    "haradinaj",
+    "ramushi",
+    "ramush"
+   ]
+  },
+  {
+   "name": "Ibrahim Rugova",
+   "type": "historical_figure",
+   "country": "Kosovo",
+   "role": "first President of Kosovo, founder of LDK (died 2006)",
+   "aliases": [
+    "ibrahim rugova",
+    "rugova"
+   ]
+  },
+  {
+   "name": "Isa Mustafa",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician (LDK); former Prime Minister of Kosovo",
+   "aliases": [
+    "isa mustafa"
+   ]
+  },
+  {
+   "name": "Lumir Abdixhiku",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, leader of LDK",
+   "aliases": [
+    "lumir abdixhiku",
+    "abdixhiku",
+    "lumiri"
+   ]
+  },
+  {
+   "name": "Memli Krasniqi",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, leader of PDK",
+   "aliases": [
+    "memli krasniqi",
+    "memli",
+    "memliu"
+   ]
+  },
+  {
+   "name": "Kadri Veseli",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, former leader of PDK and former Speaker of the Assembly",
+   "aliases": [
+    "kadri veseli",
+    "veseli"
+   ]
+  },
+  {
+   "name": "Fatmir Limaj",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician, leader of Nisma",
+   "aliases": [
+    "fatmir limaj",
+    "limaj"
+   ]
+  },
+  {
+   "name": "Glauk Konjufca",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician (VV), former Speaker of the Assembly",
+   "aliases": [
+    "glauk konjufca",
+    "konjufca",
+    "glauku"
+   ]
+  },
+  {
+   "name": "Donika Gervalla",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician (VV), Minister of Foreign Affairs",
+   "aliases": [
+    "donika gervalla",
+    "gervalla",
+    "donika"
+   ]
+  },
+  {
+   "name": "Xhelal Svecla",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician (VV), Minister of Internal Affairs",
+   "aliases": [
+    "xhelal svecla",
+    "svecla",
+    "sveqla"
+   ]
+  },
+  {
+   "name": "Ali Ahmeti",
+   "type": "politician",
+   "country": "North Macedonia",
+   "role": "Albanian politician in North Macedonia, leader of BDI",
+   "aliases": [
+    "ali ahmeti"
+   ]
+  },
+  {
+   "name": "Aleksandar Vucic",
+   "type": "politician",
+   "country": "Serbia",
+   "role": "President of Serbia",
+   "aliases": [
+    "aleksandar vucic",
+    "vucic",
+    "vuqiq",
+    "vuciq"
+   ]
+  },
+  {
+   "name": "Slobodan Milosevic",
+   "type": "historical_figure",
+   "country": "Serbia",
+   "role": "former President of Serbia/Yugoslavia (died 2006)",
+   "aliases": [
+    "milosevic",
+    "millosheviq",
+    "milloshevic"
+   ]
+  },
+  {
+   "name": "Vlora Citaku",
+   "type": "politician",
+   "country": "Kosovo",
+   "role": "Kosovo politician (PDK), former minister and ambassador",
+   "aliases": [
+    "vlora citaku",
+    "citaku"
+   ]
+  },
+  {
+   "name": "PS (Partia Socialiste)",
+   "type": "party",
+   "country": "Albania",
+   "role": "Socialist Party of Albania",
+   "aliases": [
+    "ps",
+    "partia socialiste",
+    "socialistet",
+    "socialist"
+   ]
+  },
+  {
+   "name": "PD (Partia Demokratike)",
+   "type": "party",
+   "country": "Albania",
+   "role": "Democratic Party of Albania",
+   "aliases": [
+    "pd",
+    "partia demokratike",
+    "demokratet"
+   ]
+  },
+  {
+   "name": "LSI",
+   "type": "party",
+   "country": "Albania",
+   "role": "Albanian party founded by Ilir Meta (now Partia e Lirise)",
+   "aliases": [
+    "lsi",
+    "partia e lirise"
+   ]
+  },
+  {
+   "name": "PDK",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Democratic Party of Kosovo",
+   "aliases": [
+    "pdk",
+    "pdkja",
+    "pdkse",
+    "pdks",
+    "pdkes"
+   ]
+  },
+  {
+   "name": "LDK",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Democratic League of Kosovo",
+   "aliases": [
+    "ldk",
+    "ldkja",
+    "ldkse",
+    "ldks"
+   ]
+  },
+  {
+   "name": "Vetevendosje (VV)",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Kosovo party led by Albin Kurti",
+   "aliases": [
+    "vv",
+    "lvv",
+    "vetevendosje",
+    "vetvendosje",
+    "vetvendosja",
+    "vvs",
+    "vvja"
+   ]
+  },
+  {
+   "name": "AAK",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Alliance for the Future of Kosovo",
+   "aliases": [
+    "aak"
+   ]
+  },
+  {
+   "name": "Nisma",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Kosovo party (Nisma Socialdemokrate)",
+   "aliases": [
+    "nisma"
+   ]
+  },
+  {
+   "name": "BDI",
+   "type": "party",
+   "country": "North Macedonia",
+   "role": "Albanian party in North Macedonia",
+   "aliases": [
+    "bdi"
+   ]
+  },
+  {
+   "name": "Lista Serbe",
+   "type": "party",
+   "country": "Kosovo",
+   "role": "Kosovo Serb party",
+   "aliases": [
+    "lista serbe",
+    "srpska lista"
+   ]
+  },
+  {
+   "name": "Government",
+   "type": "institution",
+   "country": "-",
+   "role": "the government (qeveria)",
+   "aliases": [
+    "qeveria",
+    "qeveri",
+    "qeverise",
+    "qeverine",
+    "qeveritaret"
+   ]
+  },
+  {
+   "name": "Parliament",
+   "type": "institution",
+   "country": "-",
+   "role": "parliament / assembly (kuvendi, parlamenti)",
+   "aliases": [
+    "kuvendi",
+    "kuvend",
+    "parlamenti",
+    "parlament"
+   ]
+  },
+  {
+   "name": "Members of parliament",
+   "type": "institution",
+   "country": "-",
+   "role": "members of parliament (deputetet)",
+   "aliases": [
+    "deputet",
+    "deputeti",
+    "deputetet"
+   ]
+  },
+  {
+   "name": "Prime Minister",
+   "type": "institution",
+   "country": "-",
+   "role": "prime minister (kryeministri)",
+   "aliases": [
+    "kryeminister",
+    "kryeministri"
+   ]
+  },
+  {
+   "name": "President (office)",
+   "type": "institution",
+   "country": "-",
+   "role": "president (presidenti)",
+   "aliases": [
+    "presidenti",
+    "presidente",
+    "president"
+   ]
+  },
+  {
+   "name": "Minister / ministry",
+   "type": "institution",
+   "country": "-",
+   "role": "minister or ministry",
+   "aliases": [
+    "ministri",
+    "ministria",
+    "ministrat",
+    "minister"
+   ]
+  },
+  {
+   "name": "Police",
+   "type": "institution",
+   "country": "-",
+   "role": "the police (policia)",
+   "aliases": [
+    "policia",
+    "policine",
+    "polici",
+    "policet"
+   ]
+  },
+  {
+   "name": "Courts",
+   "type": "institution",
+   "country": "-",
+   "role": "courts (gjykata)",
+   "aliases": [
+    "gjykata",
+    "gjykaten",
+    "gjyqtar",
+    "gjyqtaret",
+    "gjykat"
+   ]
+  },
+  {
+   "name": "Prosecution",
+   "type": "institution",
+   "country": "-",
+   "role": "prosecution (prokuroria)",
+   "aliases": [
+    "prokuroria",
+    "prokurori",
+    "prokuror"
+   ]
+  },
+  {
+   "name": "Election commission",
+   "type": "institution",
+   "country": "-",
+   "role": "central election commission (KQZ)",
+   "aliases": [
+    "kqz",
+    "kqzja"
+   ]
+  },
+  {
+   "name": "Elections",
+   "type": "institution",
+   "country": "-",
+   "role": "elections / voting",
+   "aliases": [
+    "zgjedhjet",
+    "zgjedhje",
+    "votimi",
+    "votat"
+   ]
+  },
+  {
+   "name": "European Union",
+   "type": "institution",
+   "country": "-",
+   "role": "European Union",
+   "aliases": [
+    "bashkimi evropian",
+    "bashkimi europian",
+    "bashkimin evropian"
+   ]
+  },
+  {
+   "name": "NATO",
+   "type": "institution",
+   "country": "-",
+   "role": "NATO",
+   "aliases": [
+    "nato"
+   ]
+  },
+  {
+   "name": "Kosovo",
+   "type": "place",
+   "country": "Kosovo",
+   "role": "country (place name, not a political actor by itself)",
+   "aliases": [
+    "kosova",
+    "kosove",
+    "kosoven",
+    "kosoves",
+    "kosovo",
+    "kosov"
+   ]
+  },
+  {
+   "name": "Albania",
+   "type": "place",
+   "country": "Albania",
+   "role": "country (place name, not a political actor by itself)",
+   "aliases": [
+    "shqiperia",
+    "shqiperi",
+    "shqiperise",
+    "shqiperine"
+   ]
+  },
+  {
+   "name": "Serbia",
+   "type": "place",
+   "country": "Serbia",
+   "role": "country (place name, not a political actor by itself)",
+   "aliases": [
+    "serbia",
+    "serbi",
+    "serbise",
+    "serbine"
+   ]
+  },
+  {
+   "name": "North Macedonia",
+   "type": "place",
+   "country": "North Macedonia",
+   "role": "country (place name, not a political actor by itself)",
+   "aliases": [
+    "maqedonia",
+    "maqedoni",
+    "maqedonise"
+   ]
+  },
+  {
+   "name": "Albanians",
+   "type": "ethnonym",
+   "country": "-",
+   "role": "ethnonym (Albanians)",
+   "aliases": [
+    "shqiptar",
+    "shqiptare",
+    "shqiptaret",
+    "shqiptari"
+   ]
+  },
+  {
+   "name": "Kosovars",
+   "type": "ethnonym",
+   "country": "-",
+   "role": "demonym (Kosovars)",
+   "aliases": [
+    "kosovar",
+    "kosovaret",
+    "kosovari"
+   ]
+  },
+  {
+   "name": "Serbs",
+   "type": "ethnonym",
+   "country": "-",
+   "role": "ethnonym (Serbs)",
+   "aliases": [
+    "serb",
+    "serbet",
+    "serbeve",
+    "serbit"
+   ]
+  },
+  {
+   "name": "Greeks",
+   "type": "ethnonym",
+   "country": "-",
+   "role": "ethnonym (Greeks)",
+   "aliases": [
+    "grek",
+    "greket",
+    "greku"
+   ]
+  },
+  {
+   "name": "Ethnic slur for Serbs",
+   "type": "ethnic_slur",
+   "country": "-",
+   "role": "derogatory ethnic term for Serbs (shkije)",
+   "aliases": [
+    "shkije",
+    "shkja",
+    "shkine",
+    "shkinat"
+   ]
+  },
+  {
+   "name": "UCK (KLA)",
+   "type": "institution",
+   "country": "Kosovo",
+   "role": "Kosovo Liberation Army (UCK), wartime organisation 1990s",
+   "aliases": [
+    "uck",
+    "ushtria clirimtare"
+   ]
+  }
+ ]
+}

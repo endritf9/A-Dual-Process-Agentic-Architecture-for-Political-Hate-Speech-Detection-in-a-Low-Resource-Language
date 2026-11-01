@@ -1,0 +1,25 @@
+system,model,n,macro_f1,ci95_low,ci95_high
+System 1: mbert_orig,-,432,87.08,83.61,90.2
+System 1: jev,-,432,78.97,74.84,82.88
+System 1: jev_ex,-,432,79.98,76.35,83.93
+System 1: tfidf_lr,-,432,77.81,73.94,81.41
+agent_full-mbert_orig,gemma-4-31b,5,44.44,28.57,50.0
+agent_full-mbert_orig,qwen3.7-flash,5,44.44,28.57,50.0
+agent_full-mbert_orig,qwen3.8-flash,5,44.44,28.57,50.0
+agent_full-mbert_orig+jev,gemma-4-31b,432,82.76,79.13,86.53
+agent_full-mbert_orig+jev,nemotron-3-ultra-free,432,86.11,82.77,89.49
+agent_full-mbert_orig+jev,qwen3.7-flash,432,83.02,79.01,86.61
+agent_full-mbert_orig+jev,qwen3.8-flash,432,83.7,79.97,87.1
+agent_no_classifier,qwen3.7-flash,432,82.43,78.21,85.9
+agent_no_classifier,qwen3.8-flash,432,80.69,76.65,84.53
+agent_no_context-mbert_orig+jev,qwen3.7-flash,432,83.62,80.05,87.22
+agent_no_context-mbert_orig+jev,qwen3.8-flash,432,84.26,80.45,87.51
+agent_no_entities-mbert_orig+jev,qwen3.7-flash,432,82.57,78.88,85.94
+agent_no_entities-mbert_orig+jev,qwen3.8-flash,432,84.08,79.98,87.31
+few_shot,qwen3.7-flash,432,77.21,73.27,80.82
+few_shot,qwen3.8-flash,432,81.41,77.28,85.1
+zero_shot,gemma-4-31b,432,81.91,78.02,85.16
+zero_shot,nemotron-3-ultra-free,432,85.65,82.26,88.78
+zero_shot,qwen3.7-flash,432,78.86,74.82,82.73
+zero_shot,qwen3.8-27b-free,172,75.37,69.06,81.75
+zero_shot,qwen3.8-flash,432,80.56,76.42,84.26

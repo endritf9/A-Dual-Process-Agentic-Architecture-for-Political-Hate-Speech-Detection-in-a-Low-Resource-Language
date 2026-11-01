@@ -1,0 +1,22 @@
+component,escalated_%,comments_per_s,comments_per_hour
+"System 1 (mBERT, one CPU core)",,13.2,47368
+"cascade, agent gemma-4-31b (4 parallel calls)",10.0,8.49,30566
+"cascade, agent gemma-4-31b (4 parallel calls)",20.0,4.25,15283
+"cascade, agent gemma-4-31b (4 parallel calls)",30.0,2.83,10188
+"cascade, agent gemma-4-31b (4 parallel calls)",50.0,1.7,6113
+"cascade, agent gemma-4-31b (4 parallel calls)",100.0,0.85,3056
+"cascade, agent nemotron-3-ultra-free (4 parallel calls)",10.0,2.29,8251
+"cascade, agent nemotron-3-ultra-free (4 parallel calls)",20.0,1.15,4125
+"cascade, agent nemotron-3-ultra-free (4 parallel calls)",30.0,0.76,2750
+"cascade, agent nemotron-3-ultra-free (4 parallel calls)",50.0,0.46,1650
+"cascade, agent nemotron-3-ultra-free (4 parallel calls)",100.0,0.23,825
+"cascade, agent qwen3.7-flash (4 parallel calls)",10.0,6.77,24375
+"cascade, agent qwen3.7-flash (4 parallel calls)",20.0,3.39,12187
+"cascade, agent qwen3.7-flash (4 parallel calls)",30.0,2.26,8125
+"cascade, agent qwen3.7-flash (4 parallel calls)",50.0,1.35,4875
+"cascade, agent qwen3.7-flash (4 parallel calls)",100.0,0.68,2437
+"cascade, agent qwen3.8-flash (4 parallel calls)",10.0,3.91,14076
+"cascade, agent qwen3.8-flash (4 parallel calls)",20.0,1.96,7038
+"cascade, agent qwen3.8-flash (4 parallel calls)",30.0,1.3,4692
+"cascade, agent qwen3.8-flash (4 parallel calls)",50.0,0.78,2815
+"cascade, agent qwen3.8-flash (4 parallel calls)",100.0,0.39,1407

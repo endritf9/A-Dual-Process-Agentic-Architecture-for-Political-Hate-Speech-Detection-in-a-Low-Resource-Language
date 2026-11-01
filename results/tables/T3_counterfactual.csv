@@ -1,0 +1,17 @@
+system,model,FPR_neutral_%,FPR_critique_%,FPR_place_%,recall_hateful_%,n
+classifier:jev,-,0.0,0.0,0.0,100.0,457
+classifier:jev_ex,-,0.0,0.0,0.0,100.0,457
+classifier:mbert_orig,-,37.1,23.0,0.0,35.2,457
+classifier:tfidf_lr,-,24.8,46.8,0.0,39.0,457
+classifier:tfidf_nb,-,25.2,40.5,0.0,57.1,457
+classifier:tfidf_rf,-,13.8,13.5,0.0,17.1,457
+classifier:tfidf_svm,-,24.8,38.9,0.0,40.0,457
+agent_full-mbert_orig+jev,gemma-4-31b,0.0,0.0,0.0,100.0,457
+agent_full-mbert_orig+jev,qwen3.7-flash,0.0,0.0,0.0,100.0,457
+agent_full-mbert_orig+jev,qwen3.8-flash,0.0,0.0,0.0,100.0,457
+agent_no_entities-mbert_orig+jev,qwen3.7-flash,0.0,0.0,0.0,100.0,457
+agent_no_entities-mbert_orig+jev,qwen3.8-flash,0.0,0.0,0.0,98.1,457
+zero_shot,gemma-4-31b,0.0,0.0,0.0,100.0,457
+zero_shot,nemotron-3-ultra-free,0.0,0.0,,,248
+zero_shot,qwen3.7-flash,0.0,0.0,0.0,100.0,457
+zero_shot,qwen3.8-flash,0.0,0.0,0.0,100.0,457

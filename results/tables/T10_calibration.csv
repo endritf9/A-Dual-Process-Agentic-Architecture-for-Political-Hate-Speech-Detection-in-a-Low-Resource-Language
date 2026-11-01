@@ -1,0 +1,5 @@
+system1,ECE,Brier
+mbert_orig,0.0898,0.1059
+jev,0.0608,0.1417
+jev_ex,0.0397,0.1333
+tfidf_lr,0.1077,0.1489

@@ -1,0 +1,66 @@
+{
+  "tools": {
+    "get_classifier_score": {
+      "description": "Probabilities that the comment is political hate speech from the fast System 1 classifiers (a fine-tuned mBERT and the zero-shot model Jev, with Jev's guess of the target and a hostility score from 0 to 4). They are fast but can be wrong, and they can disagree with each other.",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    "lookup_political_entities": {
+      "description": "Finds political actors, parties, institutions, places and ethnic terms mentioned in the comment and returns who or what they are. Optionally pass one word or name to look up.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "term": {
+            "type": "string",
+            "description": "optional word or name to look up; empty = scan the comment"
+          }
+        },
+        "required": []
+      }
+    },
+    "get_thread_context": {
+      "description": "Returns the comment this one replies to (if it is a reply) and up to three other comments from the same thread. Useful when the comment is short, uses pronouns, or is unclear alone.",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    }
+  },
+  "submit_decision": {
+    "type": "function",
+    "function": {
+      "name": "submit_decision",
+      "description": "Submit the final decision for the comment.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "integer",
+            "enum": [
+              0,
+              1
+            ],
+            "description": "1 = political hate speech, 0 = not"
+          },
+          "confidence": {
+            "type": "number",
+            "description": "confidence in the label, 0 to 1"
+          },
+          "rationale": {
+            "type": "string",
+            "description": "one or two sentences"
+          }
+        },
+        "required": [
+          "label",
+          "confidence",
+          "rationale"
+        ]
+      }
+    }
+  }
+}

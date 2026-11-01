@@ -1,0 +1,10 @@
+# Data licence
+
+The data in `data/`, `kb/` and `annotation_guideline/` (comment texts, labels, split manifests, counterfactual sets,
+annotators' judgements and knowledge base) are released under the Creative Commons Attribution-NonCommercial 4.0
+International licence (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/
+
+Copyright (c) 2026 Arsim Susuri, Endrit Fetahi, Muzafer Saracevic and Ercan Canhasi.
+
+The texts are de-identified public comments that contain hateful and offensive language. Use them only for research
+on the detection and moderation of harmful content, and do not try to identify the authors of the comments.

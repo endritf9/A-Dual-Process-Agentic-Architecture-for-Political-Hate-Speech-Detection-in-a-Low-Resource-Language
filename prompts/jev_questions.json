@@ -1,0 +1,32 @@
+{
+  "political_hate_speech": {
+    "type": "noul",
+    "instructions": "This is a social media comment in Albanian (standard or Gheg, often without diacritics). Is it political hate speech?",
+    "criteria": {
+      "true": "Shows hostility or contempt toward a political target (a politician, a party or its members, the government or another state institution, or a group defined in political or national terms): insults, vulgar language, slurs, derogatory nicknames, mocking or sarcastic attacks, dehumanising words, accusations used as insults (thief, criminal, traitor), threats, wishes of harm, calls for hostility.",
+      "false": "Neutral mention of politicians or institutions, news-like statement, question, support or praise, criticism of decisions or policies without insults, mockery or contempt, or no political target at all."
+    }
+  },
+  "target": {
+    "type": "choice",
+    "instructions": "Who or what is the main target of the comment?",
+    "criteria": {
+      "politician": "A named or clearly identified politician or office holder",
+      "party": "A political party or its members and voters",
+      "institution": "Government, parliament, police, courts or another state institution",
+      "group": "An ethnic, national or religious group",
+      "none": "No political target; private person, general topic or nothing specific"
+    }
+  },
+  "hostility": {
+    "type": "score",
+    "instructions": "How hostile is the comment toward its target?",
+    "criteria": [
+      "Neutral or positive",
+      "Critical but civil",
+      "Rude or mocking",
+      "Insulting or dehumanising",
+      "Threatening or calling for harm"
+    ]
+  }
+}

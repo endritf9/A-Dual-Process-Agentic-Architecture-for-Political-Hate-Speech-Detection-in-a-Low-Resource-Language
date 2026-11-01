@@ -1,0 +1,11 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "machine": "AMD64",
+  "cpu_count_logical": 8,
+  "cpu_count_physical": 4,
+  "ram_total_gb": 15.7,
+  "torch": "2.14.1+cpu",
+  "python": "3.14.2",
+  "rss_before_load_mb": 435.0
+}

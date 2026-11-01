@@ -1,0 +1,562 @@
+cf_id,orig_id,variant,text,label,group,entity_type,source,target
+m289_0,289,orig,Jena lodh me Politik te lodht Pdk Ldk aak koka po na dhem prej politike ndonje ide tjeter qysh me organizu pastrim te qyteteve si ta ndertojm ndonje kopsht e Politik Politik jem Lodh,1,phs,party,PDK,PDK
+m289_1,289,swap1,Jena lodh me Politik te lodht PD Ldk aak koka po na dhem prej politike ndonje ide tjeter qysh me organizu pastrim te qyteteve si ta ndertojm ndonje kopsht e Politik Politik jem Lodh,1,phs,party,PDK,PD (Partia Demokratike)
+m289_2,289,swap2,Jena lodh me Politik te lodht Nisma Ldk aak koka po na dhem prej politike ndonje ide tjeter qysh me organizu pastrim te qyteteve si ta ndertojm ndonje kopsht e Politik Politik jem Lodh,1,phs,party,PDK,Nisma
+m2660_0,2660,orig,Respekt bash mir i ke than kta vet e kan votu hashimi ka desht me pshtu bethen e vet po ja ngulen edhe atij i deshtoj plani brravo donika qysh kcejn kta pdk ldk si knusa.,1,phs,party,PDK,PDK
+m2660_1,2660,swap1,Respekt bash mir i ke than kta vet e kan votu hashimi ka desht me pshtu bethen e vet po ja ngulen edhe atij i deshtoj plani brravo donika qysh kcejn kta ps ldk si knusa.,1,phs,party,PDK,PS (Partia Socialiste)
+m2660_2,2660,swap2,Respekt bash mir i ke than kta vet e kan votu hashimi ka desht me pshtu bethen e vet po ja ngulen edhe atij i deshtoj plani brravo donika qysh kcejn kta aak ldk si knusa.,1,phs,party,PDK,AAK
+m2663_0,2663,orig,Te lumt zoja Gervalla mirpo pdk nuk njohin gjuhen e mirsis veq gjuhen e te keqes,1,phs,politician,Donika Gervalla,Donika Gervalla
+m2663_1,2663,swap1,Te lumt zoja Osmani mirpo pdk nuk njohin gjuhen e mirsis veq gjuhen e te keqes,1,phs,politician,Donika Gervalla,Vjosa Osmani
+m2663_2,2663,swap2,Te lumt zoja Kurti mirpo pdk nuk njohin gjuhen e mirsis veq gjuhen e te keqes,1,phs,politician,Donika Gervalla,Albin Kurti
+m2703_0,2703,orig,:USER: me ven e ka se kta te PDK-se me kom ngulje jon kan me votu kit gjykat edhe pom kujtohet ne parlment kur ju thojke Albini mos me votu po Thaqi e kta tjert veq se me votu e tash ishalla i lirojn po edhe qe si lirojn vetit ja kan bo,1,phs,politician,Hashim Thaci,Hashim Thaci
+m2703_1,2703,swap1,:USER: me ven e ka se kta te PDK-se me kom ngulje jon kan me votu kit gjykat edhe pom kujtohet ne parlment kur ju thojke Albini mos me votu po Veliaj e kta tjert veq se me votu e tash ishalla i lirojn po edhe qe si lirojn vetit ja kan bo,1,phs,politician,Hashim Thaci,Erion Veliaj
+m2703_2,2703,swap2,:USER: me ven e ka se kta te PDK-se me kom ngulje jon kan me votu kit gjykat edhe pom kujtohet ne parlment kur ju thojke Albini mos me votu po Haradinaj e kta tjert veq se me votu e tash ishalla i lirojn po edhe qe si lirojn vetit ja kan bo,1,phs,politician,Hashim Thaci,Ramush Haradinaj
+m2766_0,2766,orig,Aaaa qe juka hi buglza minjve i qiti meq i qiti jasht e votuen gjykaten pisat edhe jalan fajn vv s kta ekan humb kontrollin veq po sharrojn hala.,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m2766_1,2766,swap1,Aaaa qe juka hi buglza minjve i qiti meq i qiti jasht e votuen gjykaten pisat edhe jalan fajn lsi s kta ekan humb kontrollin veq po sharrojn hala.,1,phs,party,Vetevendosje (VV),LSI
+m2766_2,2766,swap2,Aaaa qe juka hi buglza minjve i qiti meq i qiti jasht e votuen gjykaten pisat edhe jalan fajn ldk s kta ekan humb kontrollin veq po sharrojn hala.,1,phs,party,Vetevendosje (VV),LDK
+m2843_0,2843,orig,Brav tregoj se krimi esht i pdk,1,phs,party,PDK,PDK
+m2843_1,2843,swap1,Brav tregoj se krimi esht i ps,1,phs,party,PDK,PS (Partia Socialiste)
+m2843_2,2843,swap2,Brav tregoj se krimi esht i ldk,1,phs,party,PDK,LDK
+m2847_0,2847,orig,:USER: jan baba dhe nana e krimit bas ture vine ldk aak nisma po populli ia tregoj vendin a,1,phs,party,LDK,LDK
+m2847_1,2847,swap1,:USER: jan baba dhe nana e krimit bas ture vine ps aak nisma po populli ia tregoj vendin a,1,phs,party,LDK,PS (Partia Socialiste)
+m2847_2,2847,swap2,:USER: jan baba dhe nana e krimit bas ture vine vetëvendosje aak nisma po populli ia tregoj vendin a,1,phs,party,LDK,Vetevendosje (VV)
+m2859_0,2859,orig,:USER: jo o dajush kto jon politika fliqta per karrika jopershtet per bothen e vet vv kete kall.kosoven moskish ardhen deri ku asht sot,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m2859_1,2859,swap1,:USER: jo o dajush kto jon politika fliqta per karrika jopershtet per bothen e vet ps kete kall.kosoven moskish ardhen deri ku asht sot,1,phs,party,Vetevendosje (VV),PS (Partia Socialiste)
+m2859_2,2859,swap2,:USER: jo o dajush kto jon politika fliqta per karrika jopershtet per bothen e vet nisma kete kall.kosoven moskish ardhen deri ku asht sot,1,phs,party,Vetevendosje (VV),Nisma
+m2902_0,2902,orig,Bravooo gërvalla kallzoju pdkucav qenavvv,1,phs,politician,Donika Gervalla,Donika Gervalla
+m2902_1,2902,swap1,Bravooo rama kallzoju pdkucav qenavvv,1,phs,politician,Donika Gervalla,Edi Rama
+m2902_2,2902,swap2,Bravooo osmani kallzoju pdkucav qenavvv,1,phs,politician,Donika Gervalla,Vjosa Osmani
+m2932_0,2932,orig,Pdk e LESHIT krejt hajna,1,phs,party,PDK,PDK
+m2932_1,2932,swap1,Nisma e LESHIT krejt hajna,1,phs,party,PDK,Nisma
+m2932_2,2932,swap2,Vetëvendosje e LESHIT krejt hajna,1,phs,party,PDK,Vetevendosje (VV)
+m2959_0,2959,orig,bravo donika pes pare mos i jep per Hajnat e Pdks ktyne duhet krejt populli me dal ne rrug e robt me jau qi,1,phs,party,PDK,PDK
+m2959_1,2959,swap1,bravo donika pes pare mos i jep per Hajnat e PD ktyne duhet krejt populli me dal ne rrug e robt me jau qi,1,phs,party,PDK,PD (Partia Demokratike)
+m2959_2,2959,swap2,bravo donika pes pare mos i jep per Hajnat e LSI ktyne duhet krejt populli me dal ne rrug e robt me jau qi,1,phs,party,PDK,LSI
+m2992_0,2992,orig,Hallah tkoft Donike se vet deputetet e pdk se e kan votu specialen shum mir ia ke than Zonj e nderuar,1,phs,party,PDK,PDK
+m2992_1,2992,swap1,Hallah tkoft Donike se vet deputetet e ldk se e kan votu specialen shum mir ia ke than Zonj e nderuar,1,phs,party,PDK,LDK
+m2992_2,2992,swap2,Hallah tkoft Donike se vet deputetet e nisma se e kan votu specialen shum mir ia ke than Zonj e nderuar,1,phs,party,PDK,Nisma
+m2997_0,2997,orig,O nan ty pdk,1,phs,party,PDK,PDK
+m2997_1,2997,swap1,O nan ty vetëvendosje,1,phs,party,PDK,Vetevendosje (VV)
+m2997_2,2997,swap2,O nan ty pd,1,phs,party,PDK,PD (Partia Demokratike)
+m3010_0,3010,orig,"Krijesa ma te poshtera se klani pdk+ldk nuk bon nana ma,e ne veqanti sikur Abelard Dhelpera edhe ky Beqa ku shkojne me ket edukatë pa kurfar morali e karakter njerzor,nuk po ju vjen marre more qelbsirat e kqij hajna matrapaza.",1,phs,party,PDK,PDK
+m3010_1,3010,swap1,"Krijesa ma te poshtera se klani nisma+ldk nuk bon nana ma,e ne veqanti sikur Abelard Dhelpera edhe ky Beqa ku shkojne me ket edukatë pa kurfar morali e karakter njerzor,nuk po ju vjen marre more qelbsirat e kqij hajna matrapaza.",1,phs,party,PDK,Nisma
+m3010_2,3010,swap2,"Krijesa ma te poshtera se klani pd+ldk nuk bon nana ma,e ne veqanti sikur Abelard Dhelpera edhe ky Beqa ku shkojne me ket edukatë pa kurfar morali e karakter njerzor,nuk po ju vjen marre more qelbsirat e kqij hajna matrapaza.",1,phs,party,PDK,PD (Partia Demokratike)
+m3031_0,3031,orig,"A hiq s'po nalet kjo rrospi ai , nashta kta te VV ja mishin mir e po merr energji  kur pe Bon në grup",1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3031_1,3031,swap1,"A hiq s'po nalet kjo rrospi ai , nashta kta te LSI ja mishin mir e po merr energji  kur pe Bon në grup",1,phs,party,Vetevendosje (VV),LSI
+m3031_2,3031,swap2,"A hiq s'po nalet kjo rrospi ai , nashta kta te PDK ja mishin mir e po merr energji  kur pe Bon në grup",1,phs,party,Vetevendosje (VV),PDK
+m3055_0,3055,orig,Jav hanksh specin deputetve te PDK s,1,phs,party,PDK,PDK
+m3055_1,3055,swap1,Jav hanksh specin deputetve te NISMA s,1,phs,party,PDK,Nisma
+m3055_2,3055,swap2,Jav hanksh specin deputetve te LDK s,1,phs,party,PDK,LDK
+m3060_0,3060,orig,Respekt Jeni nje shembull si i folni te vertetat e PDKs nuk i pelqen✌️✌️,1,phs,party,PDK,PDK
+m3060_1,3060,swap1,Respekt Jeni nje shembull si i folni te vertetat e LDK nuk i pelqen✌️✌️,1,phs,party,PDK,LDK
+m3060_2,3060,swap2,Respekt Jeni nje shembull si i folni te vertetat e AAK nuk i pelqen✌️✌️,1,phs,party,PDK,AAK
+m3062_0,3062,orig,Te lumt donika e vertet kret te pdk janë deri ne fyt te korruptun . Se po mendoj qe i friksojn te tjeret po ma ska ma frik prej tyre jajnav .,1,phs,party,PDK,PDK
+m3062_1,3062,swap1,Te lumt donika e vertet kret te ldk janë deri ne fyt te korruptun . Se po mendoj qe i friksojn te tjeret po ma ska ma frik prej tyre jajnav .,1,phs,party,PDK,LDK
+m3062_2,3062,swap2,Te lumt donika e vertet kret te vetëvendosje janë deri ne fyt te korruptun . Se po mendoj qe i friksojn te tjeret po ma ska ma frik prej tyre jajnav .,1,phs,party,PDK,Vetevendosje (VV)
+m3081_0,3081,orig,Respekt zj Gervalla.Pdk e LDK Jon partit katastrof. Marresi mvjen per ta.Jon mush me hajna e bandita pa shkoll e pa ftyr. O zot ruji ata qe hala I besojn pallavrat e tyre,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3081_1,3081,swap1,Respekt zj Meta.Pdk e LDK Jon partit katastrof. Marresi mvjen per ta.Jon mush me hajna e bandita pa shkoll e pa ftyr. O zot ruji ata qe hala I besojn pallavrat e tyre,1,phs,politician,Donika Gervalla,Ilir Meta
+m3081_2,3081,swap2,Respekt zj Abdixhiku.Pdk e LDK Jon partit katastrof. Marresi mvjen per ta.Jon mush me hajna e bandita pa shkoll e pa ftyr. O zot ruji ata qe hala I besojn pallavrat e tyre,1,phs,politician,Donika Gervalla,Lumir Abdixhiku
+m3088_0,3088,orig,qy poty ishe ne qeveri kur ukrijua gjikata sp ishe n ldk mos vallle shite mend shko te isa dhe thuja atije .,1,phs,party,LDK,LDK
+m3088_1,3088,swap1,qy poty ishe ne qeveri kur ukrijua gjikata sp ishe n lsi mos vallle shite mend shko te isa dhe thuja atije .,1,phs,party,LDK,LSI
+m3088_2,3088,swap2,qy poty ishe ne qeveri kur ukrijua gjikata sp ishe n aak mos vallle shite mend shko te isa dhe thuja atije .,1,phs,party,LDK,AAK
+m3097_0,3097,orig,Rrespekt zonja ministre garvalla bravo me keto fjal te shkelqishme  i ke tregu pdk qish flitet edhe ike tregu mir kush eka votu gjekaten speciale e ket gjekat eka votu vet pdk e cila edhe eka kap shtetin 20 vjete korrpcion por zojna ministre kujna mi tregu atinve qe sju kunvenon por ti vazhdoje punen tonde mnyr te ahkelqishme bravo,1,phs,party,PDK,PDK
+m3097_1,3097,swap1,Rrespekt zonja ministre garvalla bravo me keto fjal te shkelqishme  i ke tregu nisma qish flitet edhe ike tregu mir kush eka votu gjekaten speciale e ket gjekat eka votu vet nisma e cila edhe eka kap shtetin 20 vjete korrpcion por zojna ministre kujna mi tregu atinve qe sju kunvenon por ti vazhdoje punen tonde mnyr te ahkelqishme bravo,1,phs,party,PDK,Nisma
+m3097_2,3097,swap2,Rrespekt zonja ministre garvalla bravo me keto fjal te shkelqishme  i ke tregu pd qish flitet edhe ike tregu mir kush eka votu gjekaten speciale e ket gjekat eka votu vet pd e cila edhe eka kap shtetin 20 vjete korrpcion por zojna ministre kujna mi tregu atinve qe sju kunvenon por ti vazhdoje punen tonde mnyr te ahkelqishme bravo,1,phs,party,PDK,PD (Partia Demokratike)
+m3107_0,3107,orig,Veq vazhdoni kshtu siq e keni filluar let lehin kta zagart e pdk ldk aak e se prap e kerkojn voten e popullit ksaj radhe qeveria Kurti arriti per mbi 50%  tjetren her 70 % populli ju vlerson luftoni kta kriminela si e mbyten popullin qe 20 vjet nga krimi korrupcioni shantazhe e vrasje Respekt per Qeverin kurti e te gjith ministria e qeveris kurti popullin qendron prapa juve.,1,phs,party,PDK,PDK
+m3107_1,3107,swap1,Veq vazhdoni kshtu siq e keni filluar let lehin kta zagart e nisma ldk aak e se prap e kerkojn voten e popullit ksaj radhe qeveria Kurti arriti per mbi 50%  tjetren her 70 % populli ju vlerson luftoni kta kriminela si e mbyten popullin qe 20 vjet nga krimi korrupcioni shantazhe e vrasje Respekt per Qeverin kurti e te gjith ministria e qeveris kurti popullin qendron prapa juve.,1,phs,party,PDK,Nisma
+m3107_2,3107,swap2,Veq vazhdoni kshtu siq e keni filluar let lehin kta zagart e pd ldk aak e se prap e kerkojn voten e popullit ksaj radhe qeveria Kurti arriti per mbi 50%  tjetren her 70 % populli ju vlerson luftoni kta kriminela si e mbyten popullin qe 20 vjet nga krimi korrupcioni shantazhe e vrasje Respekt per Qeverin kurti e te gjith ministria e qeveris kurti popullin qendron prapa juve.,1,phs,party,PDK,PD (Partia Demokratike)
+m3126_0,3126,orig,Te Lumt zonja Gërvalla ti vetem te vërteten po e Fol.Se kta zagart e PDKs tash lehin se vet e kan votu Gjykaten,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3126_1,3126,swap1,Te Lumt zonja Basha ti vetem te vërteten po e Fol.Se kta zagart e PDKs tash lehin se vet e kan votu Gjykaten,1,phs,politician,Donika Gervalla,Lulzim Basha
+m3126_2,3126,swap2,Te Lumt zonja Kurti ti vetem te vërteten po e Fol.Se kta zagart e PDKs tash lehin se vet e kan votu Gjykaten,1,phs,politician,Donika Gervalla,Albin Kurti
+m3140_0,3140,orig,:USER: Po kush qohet bre ne protesta per pdk lej more kto sene se pdk as 50 vet nuk i dalin ,1,phs,party,PDK,PDK
+m3140_1,3140,swap1,:USER: Po kush qohet bre ne protesta per ldk lej more kto sene se ldk as 50 vet nuk i dalin ,1,phs,party,PDK,LDK
+m3140_2,3140,swap2,:USER: Po kush qohet bre ne protesta per nisma lej more kto sene se nisma as 50 vet nuk i dalin ,1,phs,party,PDK,Nisma
+m3141_0,3141,orig,:USER: jan 50 mos harro se kur është pytje protestë aty ka emër Vv me mija ,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3141_1,3141,swap1,:USER: jan 50 mos harro se kur është pytje protestë aty ka emër PD me mija ,1,phs,party,Vetevendosje (VV),PD (Partia Demokratike)
+m3141_2,3141,swap2,:USER: jan 50 mos harro se kur është pytje protestë aty ka emër LSI me mija ,1,phs,party,Vetevendosje (VV),LSI
+m3150_0,3150,orig,:USER: po ju dhem juve te pdk ldk po ka drejt me lyp vrasjet e mas lufte krimet qe jon bo se njerzit jon jetima nanat pa femi grat pa burra prej viti 2000 kqyr sa vrasje jon bo edhe kqyr a asht naj kush ne burg pse spo i leni me punu njerzit drejt e mir ,1,phs,party,PDK,PDK
+m3150_1,3150,swap1,:USER: po ju dhem juve te ps ldk po ka drejt me lyp vrasjet e mas lufte krimet qe jon bo se njerzit jon jetima nanat pa femi grat pa burra prej viti 2000 kqyr sa vrasje jon bo edhe kqyr a asht naj kush ne burg pse spo i leni me punu njerzit drejt e mir ,1,phs,party,PDK,PS (Partia Socialiste)
+m3150_2,3150,swap2,:USER: po ju dhem juve te vetëvendosje ldk po ka drejt me lyp vrasjet e mas lufte krimet qe jon bo se njerzit jon jetima nanat pa femi grat pa burra prej viti 2000 kqyr sa vrasje jon bo edhe kqyr a asht naj kush ne burg pse spo i leni me punu njerzit drejt e mir ,1,phs,party,PDK,Vetevendosje (VV)
+m3187_0,3187,orig,:USER: kjo esht e mir se esht e LDK respekt,1,phs,party,LDK,LDK
+m3187_1,3187,swap1,:USER: kjo esht e mir se esht e NISMA respekt,1,phs,party,LDK,Nisma
+m3187_2,3187,swap2,:USER: kjo esht e mir se esht e LSI respekt,1,phs,party,LDK,LSI
+m3190_0,3190,orig,Brawo Zonja Gervalla treguju atyneve Debilve te Pdk dhe LDK qe e keni vjedh Kosoven qe 20 vjet ,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3190_1,3190,swap1,Brawo Zonja Begaj treguju atyneve Debilve te Pdk dhe LDK qe e keni vjedh Kosoven qe 20 vjet ,1,phs,politician,Donika Gervalla,Bajram Begaj
+m3190_2,3190,swap2,Brawo Zonja Meta treguju atyneve Debilve te Pdk dhe LDK qe e keni vjedh Kosoven qe 20 vjet ,1,phs,politician,Donika Gervalla,Ilir Meta
+m3199_0,3199,orig,"Mire poi thu, fajin e ka PDKja, e tani kerkojn fajin te ja len te tjerve.",1,phs,party,PDK,PDK
+m3199_1,3199,swap1,"Mire poi thu, fajin e ka Vetëvendosje, e tani kerkojn fajin te ja len te tjerve.",1,phs,party,PDK,Vetevendosje (VV)
+m3199_2,3199,swap2,"Mire poi thu, fajin e ka PS, e tani kerkojn fajin te ja len te tjerve.",1,phs,party,PDK,PS (Partia Socialiste)
+m3207_0,3207,orig,Pdk tregon vet emri ski nevoj me fol.....rofte Donika Gërvalla.....,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3207_1,3207,swap1,Pdk tregon vet emri ski nevoj me fol.....rofte Monika Kryemadhi.....,1,phs,politician,Donika Gervalla,Monika Kryemadhi
+m3207_2,3207,swap2,Pdk tregon vet emri ski nevoj me fol.....rofte Hashim Thaçi.....,1,phs,politician,Donika Gervalla,Hashim Thaci
+m3248_0,3248,orig,Pdk parti kriminale,1,phs,party,PDK,PDK
+m3248_1,3248,swap1,Nisma parti kriminale,1,phs,party,PDK,Nisma
+m3248_2,3248,swap2,Vetëvendosje parti kriminale,1,phs,party,PDK,Vetevendosje (VV)
+m3255_0,3255,orig,Mos e kruj me PDK. Ju veq llaf kishi vepra dojm jo llafe te kota,1,phs,party,PDK,PDK
+m3255_1,3255,swap1,Mos e kruj me AAK. Ju veq llaf kishi vepra dojm jo llafe te kota,1,phs,party,PDK,AAK
+m3255_2,3255,swap2,Mos e kruj me NISMA. Ju veq llaf kishi vepra dojm jo llafe te kota,1,phs,party,PDK,Nisma
+m3278_0,3278,orig,Oooj ti lope me letra nese pdk ka instalu korupcionin pse ju kqyrni me vazhdu ? E dyta pse e kan formu gjykata special tash ti ngaj me dhan deshmi kundra tyre po ne e dim se kjo esht propagand kjo esht vetem per me kerku krejt qeta azil neper evrope me kallxu qe jemi rrezik prej ushtart e Uck se tash Kosova nuk esht shtet te rrezik per me profitu letrat kjo esht turp se mos mendoni se atje gjykohet per hajni per korupcion per luften ndaj serbet ! Vend se mu kan nje popull te bashkuar qefi esht me shkatru popullat ! Ktheu ne gjermani te burri yt sje ka tu na vyt ! Shpijuka,1,phs,party,PDK,PDK
+m3278_1,3278,swap1,Oooj ti lope me letra nese ps ka instalu korupcionin pse ju kqyrni me vazhdu ? E dyta pse e kan formu gjykata special tash ti ngaj me dhan deshmi kundra tyre po ne e dim se kjo esht propagand kjo esht vetem per me kerku krejt qeta azil neper evrope me kallxu qe jemi rrezik prej ushtart e Uck se tash Kosova nuk esht shtet te rrezik per me profitu letrat kjo esht turp se mos mendoni se atje gjykohet per hajni per korupcion per luften ndaj serbet ! Vend se mu kan nje popull te bashkuar qefi esht me shkatru popullat ! Ktheu ne gjermani te burri yt sje ka tu na vyt ! Shpijuka,1,phs,party,PDK,PS (Partia Socialiste)
+m3278_2,3278,swap2,Oooj ti lope me letra nese nisma ka instalu korupcionin pse ju kqyrni me vazhdu ? E dyta pse e kan formu gjykata special tash ti ngaj me dhan deshmi kundra tyre po ne e dim se kjo esht propagand kjo esht vetem per me kerku krejt qeta azil neper evrope me kallxu qe jemi rrezik prej ushtart e Uck se tash Kosova nuk esht shtet te rrezik per me profitu letrat kjo esht turp se mos mendoni se atje gjykohet per hajni per korupcion per luften ndaj serbet ! Vend se mu kan nje popull te bashkuar qefi esht me shkatru popullat ! Ktheu ne gjermani te burri yt sje ka tu na vyt ! Shpijuka,1,phs,party,PDK,Nisma
+m3319_0,3319,orig,Ekan krju PDK edhe LDK edhe Liste serbe ,1,phs,party,PDK,PDK
+m3319_1,3319,swap1,Ekan krju AAK edhe LDK edhe Liste serbe ,1,phs,party,PDK,AAK
+m3319_2,3319,swap2,Ekan krju LSI edhe LDK edhe Liste serbe ,1,phs,party,PDK,LSI
+m3337_0,3337,orig,:USER: i pdks ky a i ldks,1,phs,party,PDK,PDK
+m3337_1,3337,swap1,:USER: i aak ky a i ldks,1,phs,party,PDK,AAK
+m3337_2,3337,swap2,:USER: i lsi ky a i ldks,1,phs,party,PDK,LSI
+m3351_0,3351,orig,"Zonja Schvarc apo Gervalla si te doni.Vrasesit jan vrases dhe duhet denue,por a edin ti se mbas lufte jan vra sepaku njeqind ish ushtar te UÇKsë,a ishin qytetar te kosoves ata ish ushtar,pse askush nuk asht ne gjykaten speciale per kta ushtar.Zonja Gervalla hejnat jan hejna dhe nuk klasifikohen,jam mu denu tegjith,por hajnia ka fillu para se me fillu lufta,fondi i 3%,hejna ka në LDK ma shum se në PDK dhe parti tjeter,Bukoshi,Mustafa,Haziri,Veliu,etj etj,pse askush nuk asht ne gjykaten speciale prej tyre,hejna ka edhe ne VV sa ka edhe ne parti tjera,pse askush prej tyre nuk asht në gjykat.Z Gervalla ju jeni e nje anshme,jeni kunder UÇKsë dhe krahut te luftes,mbas ketyre akuzav tua mshefet dishka,po e presim kohen dhe dota tregoj.",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3351_1,3351,swap1,"Zonja Schvarc apo Berisha si te doni.Vrasesit jan vrases dhe duhet denue,por a edin ti se mbas lufte jan vra sepaku njeqind ish ushtar te UÇKsë,a ishin qytetar te kosoves ata ish ushtar,pse askush nuk asht ne gjykaten speciale per kta ushtar.Zonja Berisha hejnat jan hejna dhe nuk klasifikohen,jam mu denu tegjith,por hajnia ka fillu para se me fillu lufta,fondi i 3%,hejna ka në LDK ma shum se në PDK dhe parti tjeter,Bukoshi,Mustafa,Haziri,Veliu,etj etj,pse askush nuk asht ne gjykaten speciale prej tyre,hejna ka edhe ne VV sa ka edhe ne parti tjera,pse askush prej tyre nuk asht në gjykat.Z Berisha ju jeni e nje anshme,jeni kunder UÇKsë dhe krahut te luftes,mbas ketyre akuzav tua mshefet dishka,po e presim kohen dhe dota tregoj.",1,phs,politician,Donika Gervalla,Sali Berisha
+m3351_2,3351,swap2,"Zonja Schvarc apo Rama si te doni.Vrasesit jan vrases dhe duhet denue,por a edin ti se mbas lufte jan vra sepaku njeqind ish ushtar te UÇKsë,a ishin qytetar te kosoves ata ish ushtar,pse askush nuk asht ne gjykaten speciale per kta ushtar.Zonja Rama hejnat jan hejna dhe nuk klasifikohen,jam mu denu tegjith,por hajnia ka fillu para se me fillu lufta,fondi i 3%,hejna ka në LDK ma shum se në PDK dhe parti tjeter,Bukoshi,Mustafa,Haziri,Veliu,etj etj,pse askush nuk asht ne gjykaten speciale prej tyre,hejna ka edhe ne VV sa ka edhe ne parti tjera,pse askush prej tyre nuk asht në gjykat.Z Rama ju jeni e nje anshme,jeni kunder UÇKsë dhe krahut te luftes,mbas ketyre akuzav tua mshefet dishka,po e presim kohen dhe dota tregoj.",1,phs,politician,Donika Gervalla,Edi Rama
+m3372_0,3372,orig,"O je lope kake krejte kujdes qa je tuje fole lopa  e thivfte 🤧shko fshije qyrate  e mose fole ti per partine  PDK se ta q,,, na,,,ku,,,",1,phs,party,PDK,PDK
+m3372_1,3372,swap1,"O je lope kake krejte kujdes qa je tuje fole lopa  e thivfte 🤧shko fshije qyrate  e mose fole ti per partine  AAK se ta q,,, na,,,ku,,,",1,phs,party,PDK,AAK
+m3372_2,3372,swap2,"O je lope kake krejte kujdes qa je tuje fole lopa  e thivfte 🤧shko fshije qyrate  e mose fole ti per partine  LSI se ta q,,, na,,,ku,,,",1,phs,party,PDK,LSI
+m3380_0,3380,orig,bravo DONIKA te lumte qe i palove kriminelet e PDK -se,1,phs,party,PDK,PDK
+m3380_1,3380,swap1,bravo DONIKA te lumte qe i palove kriminelet e PD -se,1,phs,party,PDK,PD (Partia Demokratike)
+m3380_2,3380,swap2,bravo DONIKA te lumte qe i palove kriminelet e AAK -se,1,phs,party,PDK,AAK
+m3433_0,3433,orig,:USER: vetem ata qe kan keqperdor qe 22 vjet shtetin e perkrahin PDK,1,phs,party,PDK,PDK
+m3433_1,3433,swap1,:USER: vetem ata qe kan keqperdor qe 22 vjet shtetin e perkrahin AAK,1,phs,party,PDK,AAK
+m3433_2,3433,swap2,:USER: vetem ata qe kan keqperdor qe 22 vjet shtetin e perkrahin VETËVENDOSJE,1,phs,party,PDK,Vetevendosje (VV)
+m3435_0,3435,orig,":USER: Bab Albini Eka Bab Vucicin, Se Eka Rujt me Koh Te Luftes, dhe me ne Fund Ja Fal Presidenti Tadic 15 Vjet Burg. E THACI ka dal ne Mal me pushk ne Dor. E Cili e Paska Bab tash. Testet Gratis Bini i Murr e Jo THACI. E Sa per Gjykaten, Nuk e ka Pru THACI Po Europa, deshta Apo zdeshte. Qe Te jeni Te Qart Ju Te VVs, Se jau ka Shperla Trurin Bini. Ne Haag jan ato si UCK, e jo si Individ. Ato gjykohen per Krime gjat Lufte, e jo pas Lufte. Qartsonu Pak. Dhe Bini Nuk Ka aftesi per Sen hiq, pse e Thom, si ka ardh Bini ne Pushtet, Duke Shar Thacin Duke than Hajn kriminel etj etj. Nuk ka kry Bini naj Pun tjeter Qe me than Woow Qfar aftesije. Bini Veq Demostrata Edhe tue Sha THACIn. Qartsonu Se Nuk shkon 5 Vjet KS prap nder Serbi me Binin.  Bini Nuk ka Aftesi Nuk ka Shkoll. Bini ka Shkoll Te Bodrumave Te Casiove. ",1,phs,politician,Hashim Thaci,Hashim Thaci
+m3435_1,3435,swap1,":USER: Bab Albini Eka Bab Vucicin, Se Eka Rujt me Koh Te Luftes, dhe me ne Fund Ja Fal Presidenti Tadic 15 Vjet Burg. E ABDIXHIKU ka dal ne Mal me pushk ne Dor. E Cili e Paska Bab tash. Testet Gratis Bini i Murr e Jo ABDIXHIKU. E Sa per Gjykaten, Nuk e ka Pru ABDIXHIKU Po Europa, deshta Apo zdeshte. Qe Te jeni Te Qart Ju Te VVs, Se jau ka Shperla Trurin Bini. Ne Haag jan ato si UCK, e jo si Individ. Ato gjykohen per Krime gjat Lufte, e jo pas Lufte. Qartsonu Pak. Dhe Bini Nuk Ka aftesi per Sen hiq, pse e Thom, si ka ardh Bini ne Pushtet, Duke Shar Thacin Duke than Hajn kriminel etj etj. Nuk ka kry Bini naj Pun tjeter Qe me than Woow Qfar aftesije. Bini Veq Demostrata Edhe tue Sha THACIn. Qartsonu Se Nuk shkon 5 Vjet KS prap nder Serbi me Binin.  Bini Nuk ka Aftesi Nuk ka Shkoll. Bini ka Shkoll Te Bodrumave Te Casiove. ",1,phs,politician,Hashim Thaci,Lumir Abdixhiku
+m3435_2,3435,swap2,":USER: Bab Albini Eka Bab Vucicin, Se Eka Rujt me Koh Te Luftes, dhe me ne Fund Ja Fal Presidenti Tadic 15 Vjet Burg. E RAMA ka dal ne Mal me pushk ne Dor. E Cili e Paska Bab tash. Testet Gratis Bini i Murr e Jo RAMA. E Sa per Gjykaten, Nuk e ka Pru RAMA Po Europa, deshta Apo zdeshte. Qe Te jeni Te Qart Ju Te VVs, Se jau ka Shperla Trurin Bini. Ne Haag jan ato si UCK, e jo si Individ. Ato gjykohen per Krime gjat Lufte, e jo pas Lufte. Qartsonu Pak. Dhe Bini Nuk Ka aftesi per Sen hiq, pse e Thom, si ka ardh Bini ne Pushtet, Duke Shar Thacin Duke than Hajn kriminel etj etj. Nuk ka kry Bini naj Pun tjeter Qe me than Woow Qfar aftesije. Bini Veq Demostrata Edhe tue Sha THACIn. Qartsonu Se Nuk shkon 5 Vjet KS prap nder Serbi me Binin.  Bini Nuk ka Aftesi Nuk ka Shkoll. Bini ka Shkoll Te Bodrumave Te Casiove. ",1,phs,politician,Hashim Thaci,Edi Rama
+m3457_0,3457,orig,"Te lumt Legjend Donika Gervalla, por e kam nie vrejtje tek ty ketyre  kundushtarve  te tu a kishe mujt me Ju fol  diqysh ne gjuhen  e feshatit  sepse kam bindjen qe gjuhen  tende letrare  qe e flet aq paster  keta nuk e kuptojn  e dashur ,Ju e Dini qe keta te pdk  i kan vetem ka 8 klas  shkoll",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3457_1,3457,swap1,"Te lumt Legjend Erion Veliaj, por e kam nie vrejtje tek ty ketyre  kundushtarve  te tu a kishe mujt me Ju fol  diqysh ne gjuhen  e feshatit  sepse kam bindjen qe gjuhen  tende letrare  qe e flet aq paster  keta nuk e kuptojn  e dashur ,Ju e Dini qe keta te pdk  i kan vetem ka 8 klas  shkoll",1,phs,politician,Donika Gervalla,Erion Veliaj
+m3457_2,3457,swap2,"Te lumt Legjend Glauk Konjufca, por e kam nie vrejtje tek ty ketyre  kundushtarve  te tu a kishe mujt me Ju fol  diqysh ne gjuhen  e feshatit  sepse kam bindjen qe gjuhen  tende letrare  qe e flet aq paster  keta nuk e kuptojn  e dashur ,Ju e Dini qe keta te pdk  i kan vetem ka 8 klas  shkoll",1,phs,politician,Donika Gervalla,Glauk Konjufca
+m3472_0,3472,orig,Korrupcioni eshte nga ish komunizmi pastaj u bart te LDK 1990 dhe ka vazhdu ne parti te tjera pas luftes dhe vazhdon tash tek ju ne VV Korrupcioni e hajnia eshte semundje e shqiptareve qe veq i madhi Enver Hoxha🇦🇱 ka arrite me ndale.,1,phs,party,LDK,LDK
+m3472_1,3472,swap1,Korrupcioni eshte nga ish komunizmi pastaj u bart te PDK 1990 dhe ka vazhdu ne parti te tjera pas luftes dhe vazhdon tash tek ju ne VV Korrupcioni e hajnia eshte semundje e shqiptareve qe veq i madhi Enver Hoxha🇦🇱 ka arrite me ndale.,1,phs,party,LDK,PDK
+m3472_2,3472,swap2,Korrupcioni eshte nga ish komunizmi pastaj u bart te AAK 1990 dhe ka vazhdu ne parti te tjera pas luftes dhe vazhdon tash tek ju ne VV Korrupcioni e hajnia eshte semundje e shqiptareve qe veq i madhi Enver Hoxha🇦🇱 ka arrite me ndale.,1,phs,party,LDK,AAK
+m3484_0,3484,orig,"Z. Schwarz ti je turpi ma i madh se bashku me shumica t vv. Ju jeni kundra uck e keni fol kundra komandantve. Ju normal dunu mu denu, per shpijunluk me jet. 🤮🤮🤮",1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3484_1,3484,swap1,"Z. Schwarz ti je turpi ma i madh se bashku me shumica t aak. Ju jeni kundra uck e keni fol kundra komandantve. Ju normal dunu mu denu, per shpijunluk me jet. 🤮🤮🤮",1,phs,party,Vetevendosje (VV),AAK
+m3484_2,3484,swap2,"Z. Schwarz ti je turpi ma i madh se bashku me shumica t ldk. Ju jeni kundra uck e keni fol kundra komandantve. Ju normal dunu mu denu, per shpijunluk me jet. 🤮🤮🤮",1,phs,party,Vetevendosje (VV),LDK
+m3486_0,3486,orig,"Lopa e Vv, ose Mshtjeraa",1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3486_1,3486,swap1,"Lopa e PD, ose Mshtjeraa",1,phs,party,Vetevendosje (VV),PD (Partia Demokratike)
+m3486_2,3486,swap2,"Lopa e Nisma, ose Mshtjeraa",1,phs,party,Vetevendosje (VV),Nisma
+m3493_0,3493,orig,"Me qfare gjuhe dhe fjalori te paster ju eshte drejtuar vagabandav te pdk -se, po kujt tju drejtohet kur nuk jav len ne koke atyre analfabetav pa pik edukate👏👏👏👏",1,phs,party,PDK,PDK
+m3493_1,3493,swap1,"Me qfare gjuhe dhe fjalori te paster ju eshte drejtuar vagabandav te ldk -se, po kujt tju drejtohet kur nuk jav len ne koke atyre analfabetav pa pik edukate👏👏👏👏",1,phs,party,PDK,LDK
+m3493_2,3493,swap2,"Me qfare gjuhe dhe fjalori te paster ju eshte drejtuar vagabandav te ps -se, po kujt tju drejtohet kur nuk jav len ne koke atyre analfabetav pa pik edukate👏👏👏👏",1,phs,party,PDK,PS (Partia Socialiste)
+m3525_0,3525,orig,:USER: e more mulo ju ka hi tuta neper koca klanit pronto Jav ka nal  kurti rrogat e dojn me u qart As nji fjal sun jan qet posht ksaj zoje  po e verteta gjithher dhemSa njeri esht vra mas lufte dikush i ka vra ata   Po kta jan mdu qishtu me vra njerz me vjedh me i mar ka 4 rroga prej shtetit e qajo koh ju ka shku ms ktyne ,1,phs,politician,Albin Kurti,Albin Kurti
+m3525_1,3525,swap1,:USER: e more mulo ju ka hi tuta neper koca klanit pronto Jav ka nal  veseli rrogat e dojn me u qart As nji fjal sun jan qet posht ksaj zoje  po e verteta gjithher dhemSa njeri esht vra mas lufte dikush i ka vra ata   Po kta jan mdu qishtu me vra njerz me vjedh me i mar ka 4 rroga prej shtetit e qajo koh ju ka shku ms ktyne ,1,phs,politician,Albin Kurti,Kadri Veseli
+m3525_2,3525,swap2,:USER: e more mulo ju ka hi tuta neper koca klanit pronto Jav ka nal  konjufca rrogat e dojn me u qart As nji fjal sun jan qet posht ksaj zoje  po e verteta gjithher dhemSa njeri esht vra mas lufte dikush i ka vra ata   Po kta jan mdu qishtu me vra njerz me vjedh me i mar ka 4 rroga prej shtetit e qajo koh ju ka shku ms ktyne ,1,phs,politician,Albin Kurti,Glauk Konjufca
+m3532_0,3532,orig,Kret te pdk ta qifshin familjen kurva mutit 🤮🤮🤮🤮🤮🤮,1,phs,party,PDK,PDK
+m3532_1,3532,swap1,Kret te pd ta qifshin familjen kurva mutit 🤮🤮🤮🤮🤮🤮,1,phs,party,PDK,PD (Partia Demokratike)
+m3532_2,3532,swap2,Kret te lsi ta qifshin familjen kurva mutit 🤮🤮🤮🤮🤮🤮,1,phs,party,PDK,LSI
+m3555_0,3555,orig,Pdk  jan  hajnat  metmldhaj  ne  ballkan  edhe  poplli  austris  thojn  se  jan  hajnat,1,phs,party,PDK,PDK
+m3555_1,3555,swap1,Nisma  jan  hajnat  metmldhaj  ne  ballkan  edhe  poplli  austris  thojn  se  jan  hajnat,1,phs,party,PDK,Nisma
+m3555_2,3555,swap2,AAK  jan  hajnat  metmldhaj  ne  ballkan  edhe  poplli  austris  thojn  se  jan  hajnat,1,phs,party,PDK,AAK
+m3558_0,3558,orig,"Respekt Donik , kta mafia e pdk 20 vite me dredhi , krim , hajni e kan zhber ket vend , tash po ju dhem e verteta , shif qfar deputet analfabeta ka ne pdk si Ganja , Hajdari ,Memli reperi ,e shum e shum tjer qe s meritojn fare me qen ne parlament 👎",1,phs,party,PDK,PDK
+m3558_1,3558,swap1,"Respekt Donik , kta mafia e aak 20 vite me dredhi , krim , hajni e kan zhber ket vend , tash po ju dhem e verteta , shif qfar deputet analfabeta ka ne aak si Ganja , Hajdari ,Memli reperi ,e shum e shum tjer qe s meritojn fare me qen ne parlament 👎",1,phs,party,PDK,AAK
+m3558_2,3558,swap2,"Respekt Donik , kta mafia e nisma 20 vite me dredhi , krim , hajni e kan zhber ket vend , tash po ju dhem e verteta , shif qfar deputet analfabeta ka ne nisma si Ganja , Hajdari ,Memli reperi ,e shum e shum tjer qe s meritojn fare me qen ne parlament 👎",1,phs,party,PDK,Nisma
+m3625_0,3625,orig,Si hienat Po e sulmojn  bijen e heroit tone kombetar Jusuf Gërvalla pa as Me te voglin argument kta hiena se kan hallin e gjykates speciale se kta as qe qajn trapin Pse kreret e uck Jan ne Hage Por kta hiena hallin e kan te ligji Per verifikimin dhe konfiskimin e pasurise se pa justifikume .. Kjo ju dhem edhe pse a pasuri e popullit kta tani e konsiderojn si pasuri te tyre e siq thot populli kur hup malli hup shpirti.!! Kjo ashte arsyeja pse kta sjellen ne kuvend si egersira. E jo deklarata e zonjes Gërvalla para sa e sa viteve kur nuk mbante as nje pozite shtetrore.. ,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3625_1,3625,swap1,Si hienat Po e sulmojn  bijen e heroit tone kombetar Jusuf Berisha pa as Me te voglin argument kta hiena se kan hallin e gjykates speciale se kta as qe qajn trapin Pse kreret e uck Jan ne Hage Por kta hiena hallin e kan te ligji Per verifikimin dhe konfiskimin e pasurise se pa justifikume .. Kjo ju dhem edhe pse a pasuri e popullit kta tani e konsiderojn si pasuri te tyre e siq thot populli kur hup malli hup shpirti.!! Kjo ashte arsyeja pse kta sjellen ne kuvend si egersira. E jo deklarata e zonjes Berisha para sa e sa viteve kur nuk mbante as nje pozite shtetrore.. ,1,phs,politician,Donika Gervalla,Sali Berisha
+m3625_2,3625,swap2,Si hienat Po e sulmojn  bijen e heroit tone kombetar Jusuf Meta pa as Me te voglin argument kta hiena se kan hallin e gjykates speciale se kta as qe qajn trapin Pse kreret e uck Jan ne Hage Por kta hiena hallin e kan te ligji Per verifikimin dhe konfiskimin e pasurise se pa justifikume .. Kjo ju dhem edhe pse a pasuri e popullit kta tani e konsiderojn si pasuri te tyre e siq thot populli kur hup malli hup shpirti.!! Kjo ashte arsyeja pse kta sjellen ne kuvend si egersira. E jo deklarata e zonjes Meta para sa e sa viteve kur nuk mbante as nje pozite shtetrore.. ,1,phs,politician,Donika Gervalla,Ilir Meta
+m3636_0,3636,orig,"Bravo Bravo,Oh zot don me dal Kosova  prej terrorit te PDK se",1,phs,party,PDK,PDK
+m3636_1,3636,swap1,"Bravo Bravo,Oh zot don me dal Kosova  prej terrorit te NISMA se",1,phs,party,PDK,Nisma
+m3636_2,3636,swap2,"Bravo Bravo,Oh zot don me dal Kosova  prej terrorit te LSI se",1,phs,party,PDK,LSI
+m3642_0,3642,orig,Të lumt se ja ke dhan truç qetash ktyne te PDK zonja Gërvalla,1,phs,party,PDK,PDK
+m3642_1,3642,swap1,Të lumt se ja ke dhan truç qetash ktyne te AAK zonja Gërvalla,1,phs,party,PDK,AAK
+m3642_2,3642,swap2,Të lumt se ja ke dhan truç qetash ktyne te LDK zonja Gërvalla,1,phs,party,PDK,LDK
+m3671_0,3671,orig,:USER: po i shan pdk qa po te bajn haha !,1,phs,party,PDK,PDK
+m3671_1,3671,swap1,:USER: po i shan aak qa po te bajn haha !,1,phs,party,PDK,AAK
+m3671_2,3671,swap2,:USER: po i shan ps qa po te bajn haha !,1,phs,party,PDK,PS (Partia Socialiste)
+m3672_0,3672,orig,"Kjo eshte per  LAVDRAT te lumte, para se te cmendet PDK qet shjelma se e dijne vete cka i prete...",1,phs,party,PDK,PDK
+m3672_1,3672,swap1,"Kjo eshte per  LAVDRAT te lumte, para se te cmendet LSI qet shjelma se e dijne vete cka i prete...",1,phs,party,PDK,LSI
+m3672_2,3672,swap2,"Kjo eshte per  LAVDRAT te lumte, para se te cmendet PS qet shjelma se e dijne vete cka i prete...",1,phs,party,PDK,PS (Partia Socialiste)
+m3701_0,3701,orig,poqavrat e pdk ciu ciu,1,phs,party,PDK,PDK
+m3701_1,3701,swap1,poqavrat e lsi ciu ciu,1,phs,party,PDK,LSI
+m3701_2,3701,swap2,poqavrat e nisma ciu ciu,1,phs,party,PDK,Nisma
+m3708_0,3708,orig,:USER: naser qe sna kovenon neve qe jemi me pdk kjo po e thot tvertetn shoku po qe na djeg neve sna ka kush faj respek shoq ,1,phs,party,PDK,PDK
+m3708_1,3708,swap1,:USER: naser qe sna kovenon neve qe jemi me vetëvendosje kjo po e thot tvertetn shoku po qe na djeg neve sna ka kush faj respek shoq ,1,phs,party,PDK,Vetevendosje (VV)
+m3708_2,3708,swap2,:USER: naser qe sna kovenon neve qe jemi me ps kjo po e thot tvertetn shoku po qe na djeg neve sna ka kush faj respek shoq ,1,phs,party,PDK,PS (Partia Socialiste)
+m3709_0,3709,orig,:USER: naim nèse je pdk dhe i respekton vlerat e luftetarve kurr kjo smunet mu kane e respektuar ngase po punon per demtimin e tyre ,1,phs,party,PDK,PDK
+m3709_1,3709,swap1,:USER: naim nèse je ldk dhe i respekton vlerat e luftetarve kurr kjo smunet mu kane e respektuar ngase po punon per demtimin e tyre ,1,phs,party,PDK,LDK
+m3709_2,3709,swap2,:USER: naim nèse je pd dhe i respekton vlerat e luftetarve kurr kjo smunet mu kane e respektuar ngase po punon per demtimin e tyre ,1,phs,party,PDK,PD (Partia Demokratike)
+m3737_0,3737,orig,qashtu se keta te pdk ete ldk veq hajrin peja shohim sa her po dalin e po hajn mut per Albini veq mat fort pe bojn  vet 😆😆😆😆😆😆,1,phs,party,PDK,PDK
+m3737_1,3737,swap1,qashtu se keta te aak ete ldk veq hajrin peja shohim sa her po dalin e po hajn mut per Albini veq mat fort pe bojn  vet 😆😆😆😆😆😆,1,phs,party,PDK,AAK
+m3737_2,3737,swap2,qashtu se keta te lsi ete ldk veq hajrin peja shohim sa her po dalin e po hajn mut per Albini veq mat fort pe bojn  vet 😆😆😆😆😆😆,1,phs,party,PDK,LSI
+m3747_0,3747,orig,Respeket ju limte zonja gervalla kta skane fare kultur te zhytur deri ne füte  hajni.,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3747_1,3747,swap1,Respeket ju limte zonja krasniqi kta skane fare kultur te zhytur deri ne füte  hajni.,1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3747_2,3747,swap2,Respeket ju limte zonja rama kta skane fare kultur te zhytur deri ne füte  hajni.,1,phs,politician,Donika Gervalla,Edi Rama
+m3751_0,3751,orig,Te lumt gojaKta skan Kapacitet te kuptojnKta (PDK) jan ne hall se qka i banen vetit por se menduan qe kta si prek askush e deshen gjith Ushtaret e UÇK-se ti shesin po jo gabim e paten at grop kujt ja gertmun kan ra vet tash lehin sikur Qent pa dhamSpastroni te gjith Zonja Gervalla qitni fare se kta jun ba per Popullin dhe rinijen e sidomos per Kombin Shqiptar sikur KancerKur kta te largohen e te gjykohen vetem ateher do hec Kombi Shqiptar te paraVazhdone ju punen lerini kta te Lehin se kot e kan,1,phs,party,PDK,PDK
+m3751_1,3751,swap1,Te lumt gojaKta skan Kapacitet te kuptojnKta (PS) jan ne hall se qka i banen vetit por se menduan qe kta si prek askush e deshen gjith Ushtaret e UÇK-se ti shesin po jo gabim e paten at grop kujt ja gertmun kan ra vet tash lehin sikur Qent pa dhamSpastroni te gjith Zonja Gervalla qitni fare se kta jun ba per Popullin dhe rinijen e sidomos per Kombin Shqiptar sikur KancerKur kta te largohen e te gjykohen vetem ateher do hec Kombi Shqiptar te paraVazhdone ju punen lerini kta te Lehin se kot e kan,1,phs,party,PDK,PS (Partia Socialiste)
+m3751_2,3751,swap2,Te lumt gojaKta skan Kapacitet te kuptojnKta (PD) jan ne hall se qka i banen vetit por se menduan qe kta si prek askush e deshen gjith Ushtaret e UÇK-se ti shesin po jo gabim e paten at grop kujt ja gertmun kan ra vet tash lehin sikur Qent pa dhamSpastroni te gjith Zonja Gervalla qitni fare se kta jun ba per Popullin dhe rinijen e sidomos per Kombin Shqiptar sikur KancerKur kta te largohen e te gjykohen vetem ateher do hec Kombi Shqiptar te paraVazhdone ju punen lerini kta te Lehin se kot e kan,1,phs,party,PDK,PD (Partia Demokratike)
+m3786_0,3786,orig,:USER: kush se politika asht si kurva qe 21 vite su ngive pdk tash ekem renin Na vv hahaha,1,phs,party,PDK,PDK
+m3786_1,3786,swap1,:USER: kush se politika asht si kurva qe 21 vite su ngive aak tash ekem renin Na vv hahaha,1,phs,party,PDK,AAK
+m3786_2,3786,swap2,:USER: kush se politika asht si kurva qe 21 vite su ngive pd tash ekem renin Na vv hahaha,1,phs,party,PDK,PD (Partia Demokratike)
+m3787_0,3787,orig,:USER: kush po ju te vv as politik nuk dini me ban🤣,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3787_1,3787,swap1,:USER: kush po ju te lsi as politik nuk dini me ban🤣,1,phs,party,Vetevendosje (VV),LSI
+m3787_2,3787,swap2,:USER: kush po ju te pdk as politik nuk dini me ban🤣,1,phs,party,Vetevendosje (VV),PDK
+m3816_0,3816,orig,Kta te pdk ta qin at n oj lavire,1,phs,party,PDK,PDK
+m3816_1,3816,swap1,Kta te vetëvendosje ta qin at n oj lavire,1,phs,party,PDK,Vetevendosje (VV)
+m3816_2,3816,swap2,Kta te aak ta qin at n oj lavire,1,phs,party,PDK,AAK
+m3819_0,3819,orig,Te lumt goja donika gervalla se kta krymat e serbis mundohen te akuzojn ty se kta te pdk e ldk e kan vet serbin pas tyre per zhdukjen e territorit te kosoves edhe po mundohen te njollosin ty duke u munduar te aluzojn ty per tu fshehur pas krimit ,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3819_1,3819,swap1,Te lumt goja kadri veseli se kta krymat e serbis mundohen te akuzojn ty se kta te pdk e ldk e kan vet serbin pas tyre per zhdukjen e territorit te kosoves edhe po mundohen te njollosin ty duke u munduar te aluzojn ty per tu fshehur pas krimit ,1,phs,politician,Donika Gervalla,Kadri Veseli
+m3819_2,3819,swap2,Te lumt goja vjosa osmani se kta krymat e serbis mundohen te akuzojn ty se kta te pdk e ldk e kan vet serbin pas tyre per zhdukjen e territorit te kosoves edhe po mundohen te njollosin ty duke u munduar te aluzojn ty per tu fshehur pas krimit ,1,phs,politician,Donika Gervalla,Vjosa Osmani
+m3823_0,3823,orig,Rrespekte zonja gervalla hajnat nburg kryeminelat nburg,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3823_1,3823,swap1,Rrespekte zonja krasniqi hajnat nburg kryeminelat nburg,1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3823_2,3823,swap2,Rrespekte zonja berisha hajnat nburg kryeminelat nburg,1,phs,politician,Donika Gervalla,Sali Berisha
+m3826_0,3826,orig,Mos e quani nazim bllacen pro serb por nazim bllaca ka qen njeri i pdks i cili ka vrar njerez me urdherin e kriminelve te pdks e ju klysht e kudres qe mundoheni te veproni ende me krimin e pdks nuk mundeni te levizni me keshtu qe ju ka ardhur fundi si hashes me shoket e vet se keni vrar shqipetar e jo serb ,1,phs,party,PDK,PDK
+m3826_1,3826,swap1,Mos e quani nazim bllacen pro serb por nazim bllaca ka qen njeri i ldk i cili ka vrar njerez me urdherin e kriminelve te ldk e ju klysht e kudres qe mundoheni te veproni ende me krimin e ldk nuk mundeni te levizni me keshtu qe ju ka ardhur fundi si hashes me shoket e vet se keni vrar shqipetar e jo serb ,1,phs,party,PDK,LDK
+m3826_2,3826,swap2,Mos e quani nazim bllacen pro serb por nazim bllaca ka qen njeri i lsi i cili ka vrar njerez me urdherin e kriminelve te lsi e ju klysht e kudres qe mundoheni te veproni ende me krimin e lsi nuk mundeni te levizni me keshtu qe ju ka ardhur fundi si hashes me shoket e vet se keni vrar shqipetar e jo serb ,1,phs,party,PDK,LSI
+m3834_0,3834,orig,":USER: me vend e ka then Perfaqesuesi i uçkes Hashim Thaqi.Edhe nese mbi 50 perqind e uçk es jan tradhetar duhet ta pastojme uçk en.Thaqi po del atdhetar dhe diplomat shqiptar..Kur te vazhdon séance gjygjedore ne spécialen e Hages e shofim se kush eshte Thaqi e Kadri Veseli.Listat per likuidimin e kinse te udbashave e ka Bere;Adem Demaqi,Me Millan Shipken,Mishkin,Avdi Ibrahimin,R.V.,e R.V.Listen per likuidime ja ka dhene Avdiu Rexhepit,Rexhepi ja ka dhene Jakup Krasniqit qyqes qe vajtonte ne Hage ,kurr kerkush pasha zotin keshtu nuk me ka malltretue,si haga.Jakup Krasniqi ja ka shperndar ;Bislim Zyrapit,Agim Qekut,Fatmir Limes,Sabit Gecit,Skender Hotit,Skender Krasniqit,Ruzhdi Saramati,Shqipe Mehmeti,Sylejman Selimi.etj.E shifni qysh ka per ti petmbledhe kjo gjykate keta pizda.Demaqi si sot ka fole me mua mbas Nji javes e quan ne Boten tjeter,sépse ligji i LPK istave eshte,ai qe u del nga rruga e prêt vdekja.Pastaj te gjithe mekaniket e Kosoves ishin te pergaditur nga serbia qe ta kan n'en mbikqyrje uçk en.Thell eshte qeshtja e uçk es.Ma e rruges kishte me pas qen mos me shpurdhe uçk,se sa me dhune qe u munduan mu mbrojte ne émer te uçk es.",1,phs,politician,Kadri Veseli,Kadri Veseli
+m3834_1,3834,swap1,":USER: me vend e ka then Perfaqesuesi i uçkes Hashim Thaqi.Edhe nese mbi 50 perqind e uçk es jan tradhetar duhet ta pastojme uçk en.Thaqi po del atdhetar dhe diplomat shqiptar..Kur te vazhdon séance gjygjedore ne spécialen e Hages e shofim se kush eshte Thaqi e Ramush Haradinaj.Listat per likuidimin e kinse te udbashave e ka Bere;Adem Demaqi,Me Millan Shipken,Mishkin,Avdi Ibrahimin,R.V.,e R.V.Listen per likuidime ja ka dhene Avdiu Rexhepit,Rexhepi ja ka dhene Jakup Krasniqit qyqes qe vajtonte ne Hage ,kurr kerkush pasha zotin keshtu nuk me ka malltretue,si haga.Jakup Krasniqi ja ka shperndar ;Bislim Zyrapit,Agim Qekut,Fatmir Limes,Sabit Gecit,Skender Hotit,Skender Krasniqit,Ruzhdi Saramati,Shqipe Mehmeti,Sylejman Selimi.etj.E shifni qysh ka per ti petmbledhe kjo gjykate keta pizda.Demaqi si sot ka fole me mua mbas Nji javes e quan ne Boten tjeter,sépse ligji i LPK istave eshte,ai qe u del nga rruga e prêt vdekja.Pastaj te gjithe mekaniket e Kosoves ishin te pergaditur nga serbia qe ta kan n'en mbikqyrje uçk en.Thell eshte qeshtja e uçk es.Ma e rruges kishte me pas qen mos me shpurdhe uçk,se sa me dhune qe u munduan mu mbrojte ne émer te uçk es.",1,phs,politician,Kadri Veseli,Ramush Haradinaj
+m3834_2,3834,swap2,":USER: me vend e ka then Perfaqesuesi i uçkes Hashim Thaqi.Edhe nese mbi 50 perqind e uçk es jan tradhetar duhet ta pastojme uçk en.Thaqi po del atdhetar dhe diplomat shqiptar..Kur te vazhdon séance gjygjedore ne spécialen e Hages e shofim se kush eshte Thaqi e Edi Rama.Listat per likuidimin e kinse te udbashave e ka Bere;Adem Demaqi,Me Millan Shipken,Mishkin,Avdi Ibrahimin,R.V.,e R.V.Listen per likuidime ja ka dhene Avdiu Rexhepit,Rexhepi ja ka dhene Jakup Krasniqit qyqes qe vajtonte ne Hage ,kurr kerkush pasha zotin keshtu nuk me ka malltretue,si haga.Jakup Krasniqi ja ka shperndar ;Bislim Zyrapit,Agim Qekut,Fatmir Limes,Sabit Gecit,Skender Hotit,Skender Krasniqit,Ruzhdi Saramati,Shqipe Mehmeti,Sylejman Selimi.etj.E shifni qysh ka per ti petmbledhe kjo gjykate keta pizda.Demaqi si sot ka fole me mua mbas Nji javes e quan ne Boten tjeter,sépse ligji i LPK istave eshte,ai qe u del nga rruga e prêt vdekja.Pastaj te gjithe mekaniket e Kosoves ishin te pergaditur nga serbia qe ta kan n'en mbikqyrje uçk en.Thell eshte qeshtja e uçk es.Ma e rruges kishte me pas qen mos me shpurdhe uçk,se sa me dhune qe u munduan mu mbrojte ne émer te uçk es.",1,phs,politician,Kadri Veseli,Edi Rama
+m3836_0,3836,orig,A e mjera Kosova kan u met 🤦‍♂️🤦‍♂️ tuli far shurre me fol a kjo at her ni zot e di ku u kan turp per kta persona qe folin per ushtrine e kosoves diqka keqq turp VV sjan kta anes tone jan msu ka Serbia ma shum 😉😏 ,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3836_1,3836,swap1,A e mjera Kosova kan u met 🤦‍♂️🤦‍♂️ tuli far shurre me fol a kjo at her ni zot e di ku u kan turp per kta persona qe folin per ushtrine e kosoves diqka keqq turp PD sjan kta anes tone jan msu ka Serbia ma shum 😉😏 ,1,phs,party,Vetevendosje (VV),PD (Partia Demokratike)
+m3836_2,3836,swap2,A e mjera Kosova kan u met 🤦‍♂️🤦‍♂️ tuli far shurre me fol a kjo at her ni zot e di ku u kan turp per kta persona qe folin per ushtrine e kosoves diqka keqq turp PS sjan kta anes tone jan msu ka Serbia ma shum 😉😏 ,1,phs,party,Vetevendosje (VV),PS (Partia Socialiste)
+m3838_0,3838,orig,Qmim  nobel  duhet mi dhan  ksaj zoje  te lumt me 2 poteza  qmontove  hajnat e pdk,1,phs,party,PDK,PDK
+m3838_1,3838,swap1,Qmim  nobel  duhet mi dhan  ksaj zoje  te lumt me 2 poteza  qmontove  hajnat e vetëvendosje,1,phs,party,PDK,Vetevendosje (VV)
+m3838_2,3838,swap2,Qmim  nobel  duhet mi dhan  ksaj zoje  te lumt me 2 poteza  qmontove  hajnat e pd,1,phs,party,PDK,PD (Partia Demokratike)
+m3854_0,3854,orig,Donika Gërvalla Respekt. Let lehin 🐕‍🦺,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3854_1,3854,swap1,Lumir Abdixhiku Respekt. Let lehin 🐕‍🦺,1,phs,politician,Donika Gervalla,Lumir Abdixhiku
+m3854_2,3854,swap2,Vjosa Osmani Respekt. Let lehin 🐕‍🦺,1,phs,politician,Donika Gervalla,Vjosa Osmani
+m3868_0,3868,orig,"Po propozojnë PDK - kejcat të zhgarkohët Donika Gërvalla nga detyra Ministre e Punëve të jashtme?!!!!Nuk po pihet nga askush ky uj sikur qe nuk u pi dikur se nga BONSTILLI do largohën forcat amerikane për hatër të LDK - Isiste e Prontos!Qëndroni! Furtuna e fshesës veq sa ka fillu e vota e popullore e 14 Shkurtit është Uragan shteti i themeluar nga gjaku për shekuj i derdhur për LIRI.E doni apo se doni kjo bukë gjaku e gatuar gjeneratave do piqet e fëmijët e atyre martirëve do i ngroh Dielli i Atdheut!Por,asesi me ju matrapaz!",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3868_1,3868,swap1,"Po propozojnë PDK - kejcat të zhgarkohët Ilir Meta nga detyra Ministre e Punëve të jashtme?!!!!Nuk po pihet nga askush ky uj sikur qe nuk u pi dikur se nga BONSTILLI do largohën forcat amerikane për hatër të LDK - Isiste e Prontos!Qëndroni! Furtuna e fshesës veq sa ka fillu e vota e popullore e 14 Shkurtit është Uragan shteti i themeluar nga gjaku për shekuj i derdhur për LIRI.E doni apo se doni kjo bukë gjaku e gatuar gjeneratave do piqet e fëmijët e atyre martirëve do i ngroh Dielli i Atdheut!Por,asesi me ju matrapaz!",1,phs,politician,Donika Gervalla,Ilir Meta
+m3868_2,3868,swap2,"Po propozojnë PDK - kejcat të zhgarkohët Lulzim Basha nga detyra Ministre e Punëve të jashtme?!!!!Nuk po pihet nga askush ky uj sikur qe nuk u pi dikur se nga BONSTILLI do largohën forcat amerikane për hatër të LDK - Isiste e Prontos!Qëndroni! Furtuna e fshesës veq sa ka fillu e vota e popullore e 14 Shkurtit është Uragan shteti i themeluar nga gjaku për shekuj i derdhur për LIRI.E doni apo se doni kjo bukë gjaku e gatuar gjeneratave do piqet e fëmijët e atyre martirëve do i ngroh Dielli i Atdheut!Por,asesi me ju matrapaz!",1,phs,politician,Donika Gervalla,Lulzim Basha
+m3869_0,3869,orig,Se pari duhet Mu Nise preje partise Se Donikes nga LDK ku jeni burimi krysore i korrupcionit  kta Te PDK kan Mesuar nga Ju ju i vodhet e i keqperdorute miljona EUR nga 3 perqindshit as kushe su denu si doni ju ti gjykoni  kta tjert kur vete jeni pjese e korrupcionit,1,phs,party,LDK,LDK
+m3869_1,3869,swap1,Se pari duhet Mu Nise preje partise Se Donikes nga LSI ku jeni burimi krysore i korrupcionit  kta Te PDK kan Mesuar nga Ju ju i vodhet e i keqperdorute miljona EUR nga 3 perqindshit as kushe su denu si doni ju ti gjykoni  kta tjert kur vete jeni pjese e korrupcionit,1,phs,party,LDK,LSI
+m3869_2,3869,swap2,Se pari duhet Mu Nise preje partise Se Donikes nga VETËVENDOSJE ku jeni burimi krysore i korrupcionit  kta Te PDK kan Mesuar nga Ju ju i vodhet e i keqperdorute miljona EUR nga 3 perqindshit as kushe su denu si doni ju ti gjykoni  kta tjert kur vete jeni pjese e korrupcionit,1,phs,party,LDK,Vetevendosje (VV)
+m3879_0,3879,orig,Qikjo gervalla ja permenke krimet serrbis  pdk poj pengon qe i permenke se jan msu meja marr ng vuqiqit. Bravo. Bre edhe specialen vet e kan formu. Se kan mendu qe sbin kurr nbir per hajni,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3879_1,3879,swap1,Qikjo kryemadhi ja permenke krimet serrbis  pdk poj pengon qe i permenke se jan msu meja marr ng vuqiqit. Bravo. Bre edhe specialen vet e kan formu. Se kan mendu qe sbin kurr nbir per hajni,1,phs,politician,Donika Gervalla,Monika Kryemadhi
+m3879_2,3879,swap2,Qikjo krasniqi ja permenke krimet serrbis  pdk poj pengon qe i permenke se jan msu meja marr ng vuqiqit. Bravo. Bre edhe specialen vet e kan formu. Se kan mendu qe sbin kurr nbir per hajni,1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3882_0,3882,orig,"Une vetem një nuk po e kuptoj? Z, Gervalla është zgjedhur qe ti jep një zgjidhje me perspektivë Kosoves e jo të perqaj, te mbjell edhe më tutje urrejtje, te denoj PDK si terësi, te denoj UÇK si terësi, te luaj rolin e gjykatësit dhe te jet ambasadore e Serbisë. Krejt në rregull me kritika per individ por jo në terësi. Tjetra pse nuk e bjen një plan perspektiv nderkombtar në Kosovë, të formoj një bazë me suksese shum te deshiruara e pastaj mund te mirret konkretisht me fakte dhe denoncime e jo luft frontale verbale me perqarje kombtare.",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3882_1,3882,swap1,"Une vetem një nuk po e kuptoj? Z, Meta është zgjedhur qe ti jep një zgjidhje me perspektivë Kosoves e jo të perqaj, te mbjell edhe më tutje urrejtje, te denoj PDK si terësi, te denoj UÇK si terësi, te luaj rolin e gjykatësit dhe te jet ambasadore e Serbisë. Krejt në rregull me kritika per individ por jo në terësi. Tjetra pse nuk e bjen një plan perspektiv nderkombtar në Kosovë, të formoj një bazë me suksese shum te deshiruara e pastaj mund te mirret konkretisht me fakte dhe denoncime e jo luft frontale verbale me perqarje kombtare.",1,phs,politician,Donika Gervalla,Ilir Meta
+m3882_2,3882,swap2,"Une vetem një nuk po e kuptoj? Z, Veliaj është zgjedhur qe ti jep një zgjidhje me perspektivë Kosoves e jo të perqaj, te mbjell edhe më tutje urrejtje, te denoj PDK si terësi, te denoj UÇK si terësi, te luaj rolin e gjykatësit dhe te jet ambasadore e Serbisë. Krejt në rregull me kritika per individ por jo në terësi. Tjetra pse nuk e bjen një plan perspektiv nderkombtar në Kosovë, të formoj një bazë me suksese shum te deshiruara e pastaj mund te mirret konkretisht me fakte dhe denoncime e jo luft frontale verbale me perqarje kombtare.",1,phs,politician,Donika Gervalla,Erion Veliaj
+m3884_0,3884,orig,kurrpcioni e Ka instalu LDK  i Ka mesu Edhe kto te PDK e te AAK Kur ju keni qen ne LDk  korrupcioni e Ka kaplu kosoven Gjykat spéciale. Nuk eshte per pas lufte moj qur po per luft. e gjykat  ështê formu me genjeshtra e shpifje nga serbia me servila  shqiptar  si ju psh,1,phs,party,LDK,LDK
+m3884_1,3884,swap1,kurrpcioni e Ka instalu VETËVENDOSJE  i Ka mesu Edhe kto te PDK e te AAK Kur ju keni qen ne Vetëvendosje  korrupcioni e Ka kaplu kosoven Gjykat spéciale. Nuk eshte per pas lufte moj qur po per luft. e gjykat  ështê formu me genjeshtra e shpifje nga serbia me servila  shqiptar  si ju psh,1,phs,party,LDK,Vetevendosje (VV)
+m3884_2,3884,swap2,kurrpcioni e Ka instalu PS  i Ka mesu Edhe kto te PDK e te AAK Kur ju keni qen ne PS  korrupcioni e Ka kaplu kosoven Gjykat spéciale. Nuk eshte per pas lufte moj qur po per luft. e gjykat  ështê formu me genjeshtra e shpifje nga serbia me servila  shqiptar  si ju psh,1,phs,party,LDK,PS (Partia Socialiste)
+m3917_0,3917,orig,Respekt per zonjen gervalla se kta hajnat e pdk's jon msu me rrejt qe 20 vjet tash me hek ket zanat problem osht!!,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3917_1,3917,swap1,Respekt per zonjen krasniqi se kta hajnat e pdk's jon msu me rrejt qe 20 vjet tash me hek ket zanat problem osht!!,1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3917_2,3917,swap2,Respekt per zonjen osmani se kta hajnat e pdk's jon msu me rrejt qe 20 vjet tash me hek ket zanat problem osht!!,1,phs,politician,Donika Gervalla,Vjosa Osmani
+m3924_0,3924,orig,"Rrespekt për Z. DONIKA e vërteta duhet të dal, e këta  PDK janë ngrit si dhampira se s'kan ma gjak me pi!!!!",1,phs,party,PDK,PDK
+m3924_1,3924,swap1,"Rrespekt për Z. DONIKA e vërteta duhet të dal, e këta  AAK janë ngrit si dhampira se s'kan ma gjak me pi!!!!",1,phs,party,PDK,AAK
+m3924_2,3924,swap2,"Rrespekt për Z. DONIKA e vërteta duhet të dal, e këta  VETËVENDOSJE janë ngrit si dhampira se s'kan ma gjak me pi!!!!",1,phs,party,PDK,Vetevendosje (VV)
+m3938_0,3938,orig,KJO ESHTE MASHUME SE E VERTET...GJYKATEN SPECIALE E KA..KRIJUARE...SERBIA.RUSIA..SE BASHKU ME PELQIMIN E..PDK.S DHE..HASHIM THAQIN..JU BAFTE MIRE DHE E BAJSHI ME SHNET..NJE FJALE E URTE...POPULLORE THOTE..METE LIDHE DIKUSHE..DELE DHE TE NDIMONE..DIKUSHE DHE QLIROHESH....PORE..NESE LUDHESH..VETE...AT.HERE NUK TE NDIMONE...ASKUSHE..KJO..NA KA NDODHE NEVE NE..KOSOVE.......E TASHE...PODELE..QEVERIA...KURTI...FAJTORE..KJO NUK ESHTE E VERTET DHE ESHTE QESHARAKE,1,phs,party,PDK,PDK
+m3938_1,3938,swap1,KJO ESHTE MASHUME SE E VERTET...GJYKATEN SPECIALE E KA..KRIJUARE...SERBIA.RUSIA..SE BASHKU ME PELQIMIN E..VETËVENDOSJE.S DHE..HASHIM THAQIN..JU BAFTE MIRE DHE E BAJSHI ME SHNET..NJE FJALE E URTE...POPULLORE THOTE..METE LIDHE DIKUSHE..DELE DHE TE NDIMONE..DIKUSHE DHE QLIROHESH....PORE..NESE LUDHESH..VETE...AT.HERE NUK TE NDIMONE...ASKUSHE..KJO..NA KA NDODHE NEVE NE..KOSOVE.......E TASHE...PODELE..QEVERIA...KURTI...FAJTORE..KJO NUK ESHTE E VERTET DHE ESHTE QESHARAKE,1,phs,party,PDK,Vetevendosje (VV)
+m3938_2,3938,swap2,KJO ESHTE MASHUME SE E VERTET...GJYKATEN SPECIALE E KA..KRIJUARE...SERBIA.RUSIA..SE BASHKU ME PELQIMIN E..LSI.S DHE..HASHIM THAQIN..JU BAFTE MIRE DHE E BAJSHI ME SHNET..NJE FJALE E URTE...POPULLORE THOTE..METE LIDHE DIKUSHE..DELE DHE TE NDIMONE..DIKUSHE DHE QLIROHESH....PORE..NESE LUDHESH..VETE...AT.HERE NUK TE NDIMONE...ASKUSHE..KJO..NA KA NDODHE NEVE NE..KOSOVE.......E TASHE...PODELE..QEVERIA...KURTI...FAJTORE..KJO NUK ESHTE E VERTET DHE ESHTE QESHARAKE,1,phs,party,PDK,LSI
+m3939_0,3939,orig,E verteta dhemb Po duhet pranuar Se levizja vetvendosje se ka votu gjykaten speciale Po pdk Po Tash bani pasojat dalkadale vin edhe dhimbjet ,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3939_1,3939,swap1,E verteta dhemb Po duhet pranuar Se levizja nisma se ka votu gjykaten speciale Po pdk Po Tash bani pasojat dalkadale vin edhe dhimbjet ,1,phs,party,Vetevendosje (VV),Nisma
+m3939_2,3939,swap2,E verteta dhemb Po duhet pranuar Se levizja lsi se ka votu gjykaten speciale Po pdk Po Tash bani pasojat dalkadale vin edhe dhimbjet ,1,phs,party,Vetevendosje (VV),LSI
+m3943_0,3943,orig,"Edhe kur jane ne opozite PDK - LDK - AAK prape keta e kane fajin 😂😂😂Nuk kane faje keta te VV , eshte bari i gjate 2.6 dhe topi nuk rrotullohet shpejt 😆😆😆😆",1,phs,party,PDK,PDK
+m3943_1,3943,swap1,"Edhe kur jane ne opozite NISMA - LDK - AAK prape keta e kane fajin 😂😂😂Nuk kane faje keta te VV , eshte bari i gjate 2.6 dhe topi nuk rrotullohet shpejt 😆😆😆😆",1,phs,party,PDK,Nisma
+m3943_2,3943,swap2,"Edhe kur jane ne opozite PD - LDK - AAK prape keta e kane fajin 😂😂😂Nuk kane faje keta te VV , eshte bari i gjate 2.6 dhe topi nuk rrotullohet shpejt 😆😆😆😆",1,phs,party,PDK,PD (Partia Demokratike)
+m3949_0,3949,orig,"Cilin shtet  e perfaqesoni zonja Gervalla a , ben ta dine te gjithe deputetet e parlamentit te Kosoves!",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3949_1,3949,swap1,"Cilin shtet  e perfaqesoni zonja Krasniqi a , ben ta dine te gjithe deputetet e parlamentit te Kosoves!",1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3949_2,3949,swap2,"Cilin shtet  e perfaqesoni zonja Meta a , ben ta dine te gjithe deputetet e parlamentit te Kosoves!",1,phs,politician,Donika Gervalla,Ilir Meta
+m3958_0,3958,orig,Ik bee shko msohu me fool niher se vet pdk e ka votu ket gjykat speciale,1,phs,party,PDK,PDK
+m3958_1,3958,swap1,Ik bee shko msohu me fool niher se vet vetëvendosje e ka votu ket gjykat speciale,1,phs,party,PDK,Vetevendosje (VV)
+m3958_2,3958,swap2,Ik bee shko msohu me fool niher se vet ps e ka votu ket gjykat speciale,1,phs,party,PDK,PS (Partia Socialiste)
+m3960_0,3960,orig,"Bravo Zonja gërvalla,Zoti te rujt ty ishalla,ktyneve duhet me ju hi fshis frrrrrrr deri te kufini i Palestines,se mi lan te kufiri me serbin na myt era coftin e srihet prej ere.",1,phs,politician,Donika Gervalla,Donika Gervalla
+m3960_1,3960,swap1,"Bravo Zonja krasniqi,Zoti te rujt ty ishalla,ktyneve duhet me ju hi fshis frrrrrrr deri te kufini i Palestines,se mi lan te kufiri me serbin na myt era coftin e srihet prej ere.",1,phs,politician,Donika Gervalla,Memli Krasniqi
+m3960_2,3960,swap2,"Bravo Zonja konjufca,Zoti te rujt ty ishalla,ktyneve duhet me ju hi fshis frrrrrrr deri te kufini i Palestines,se mi lan te kufiri me serbin na myt era coftin e srihet prej ere.",1,phs,politician,Donika Gervalla,Glauk Konjufca
+m3963_0,3963,orig,respekt per zonjen gervalla mos u ndal vazhdo drejt populli eshte me ty hajnat ne burg ,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3963_1,3963,swap1,respekt per zonjen rama mos u ndal vazhdo drejt populli eshte me ty hajnat ne burg ,1,phs,politician,Donika Gervalla,Edi Rama
+m3963_2,3963,swap2,respekt per zonjen veliaj mos u ndal vazhdo drejt populli eshte me ty hajnat ne burg ,1,phs,politician,Donika Gervalla,Erion Veliaj
+m3966_0,3966,orig,zonja e Hekurt! shkoj PDK ner AAK-n,1,phs,party,PDK,PDK
+m3966_1,3966,swap1,zonja e Hekurt! shkoj LDK ner AAK-n,1,phs,party,PDK,LDK
+m3966_2,3966,swap2,zonja e Hekurt! shkoj LSI ner AAK-n,1,phs,party,PDK,LSI
+m3984_0,3984,orig,Gjunja gazin lotsjelles mos e leni me fol se na ka msu vv,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m3984_1,3984,swap1,Gjunja gazin lotsjelles mos e leni me fol se na ka msu nisma,1,phs,party,Vetevendosje (VV),Nisma
+m3984_2,3984,swap2,Gjunja gazin lotsjelles mos e leni me fol se na ka msu ldk,1,phs,party,Vetevendosje (VV),LDK
+m3993_0,3993,orig,Te Lumt Goja Zonja Gervalla me Respekt me knaqsi ndegjojm Fjalim tendin. Kosoves qe 21 vjet ju ka Duft kesi Njerz qe punojn per popullin shqiptar kosovar. Ejo Pdk AAK Nisma Keta kriminell korrupt Jan Shkatrruesit ekosoves Vrases Te kundershtarve si Astrid Deharit qe kan maltretuar ne nje menyr joooooo njerzore. Keta kriminell korrupt duhet patjeter Te denohet me Burg Te perjetshem. Respekt Respekt Zonja Gervalla ,1,phs,politician,Donika Gervalla,Donika Gervalla
+m3993_1,3993,swap1,Te Lumt Goja Zonja Abdixhiku me Respekt me knaqsi ndegjojm Fjalim tendin. Kosoves qe 21 vjet ju ka Duft kesi Njerz qe punojn per popullin shqiptar kosovar. Ejo Pdk AAK Nisma Keta kriminell korrupt Jan Shkatrruesit ekosoves Vrases Te kundershtarve si Astrid Deharit qe kan maltretuar ne nje menyr joooooo njerzore. Keta kriminell korrupt duhet patjeter Te denohet me Burg Te perjetshem. Respekt Respekt Zonja Abdixhiku ,1,phs,politician,Donika Gervalla,Lumir Abdixhiku
+m3993_2,3993,swap2,Te Lumt Goja Zonja Veliaj me Respekt me knaqsi ndegjojm Fjalim tendin. Kosoves qe 21 vjet ju ka Duft kesi Njerz qe punojn per popullin shqiptar kosovar. Ejo Pdk AAK Nisma Keta kriminell korrupt Jan Shkatrruesit ekosoves Vrases Te kundershtarve si Astrid Deharit qe kan maltretuar ne nje menyr joooooo njerzore. Keta kriminell korrupt duhet patjeter Te denohet me Burg Te perjetshem. Respekt Respekt Zonja Veliaj ,1,phs,politician,Donika Gervalla,Erion Veliaj
+m4002_0,4002,orig,"Te lumt zonja Gervalla, ktyre Deputetve te PDK e LDK e AAK duhet me ju leshu direkt ne TV Votimin e Gjykates speciale leta shofin si jan gzu kur Arriten ta votojn me 83 vota. Tash vajtojn edhe mundohen ti fajsojn tjert.",1,phs,politician,Donika Gervalla,Donika Gervalla
+m4002_1,4002,swap1,"Te lumt zonja Osmani, ktyre Deputetve te PDK e LDK e AAK duhet me ju leshu direkt ne TV Votimin e Gjykates speciale leta shofin si jan gzu kur Arriten ta votojn me 83 vota. Tash vajtojn edhe mundohen ti fajsojn tjert.",1,phs,politician,Donika Gervalla,Vjosa Osmani
+m4002_2,4002,swap2,"Te lumt zonja Basha, ktyre Deputetve te PDK e LDK e AAK duhet me ju leshu direkt ne TV Votimin e Gjykates speciale leta shofin si jan gzu kur Arriten ta votojn me 83 vota. Tash vajtojn edhe mundohen ti fajsojn tjert.",1,phs,politician,Donika Gervalla,Lulzim Basha
+m4009_0,4009,orig,O mutat e pdk hashimit gani geci ja ka sha krejt familjen edhe apet thaci i ka krku falje ne konak si qycan me gect vesht ne lesh e me grvallen shum te fort qaty te kallxon trimrija juv ju jeni e zeza kosoves,1,phs,party,PDK,PDK
+m4009_1,4009,swap1,O mutat e pd hashimit gani geci ja ka sha krejt familjen edhe apet thaci i ka krku falje ne konak si qycan me gect vesht ne lesh e me grvallen shum te fort qaty te kallxon trimrija juv ju jeni e zeza kosoves,1,phs,party,PDK,PD (Partia Demokratike)
+m4009_2,4009,swap2,O mutat e aak hashimit gani geci ja ka sha krejt familjen edhe apet thaci i ka krku falje ne konak si qycan me gect vesht ne lesh e me grvallen shum te fort qaty te kallxon trimrija juv ju jeni e zeza kosoves,1,phs,party,PDK,AAK
+m4010_0,4010,orig,Dmth  Ket gjykat serbia e ka formu analfabetat dhe hajnat e PDK e kan votu.,1,phs,party,PDK,PDK
+m4010_1,4010,swap1,Dmth  Ket gjykat serbia e ka formu analfabetat dhe hajnat e NISMA e kan votu.,1,phs,party,PDK,Nisma
+m4010_2,4010,swap2,Dmth  Ket gjykat serbia e ka formu analfabetat dhe hajnat e PS e kan votu.,1,phs,party,PDK,PS (Partia Socialiste)
+m4011_0,4011,orig,Qita kriminelt e PDK ren i kisha vierr konop para Qeveris,1,phs,party,PDK,PDK
+m4011_1,4011,swap1,Qita kriminelt e LSI ren i kisha vierr konop para Qeveris,1,phs,party,PDK,LSI
+m4011_2,4011,swap2,Qita kriminelt e PS ren i kisha vierr konop para Qeveris,1,phs,party,PDK,PS (Partia Socialiste)
+m4065_0,4065,orig,Ta qift nane PDk,1,phs,party,PDK,PDK
+m4065_1,4065,swap1,Ta qift nane AAK,1,phs,party,PDK,AAK
+m4065_2,4065,swap2,Ta qift nane PS,1,phs,party,PDK,PS (Partia Socialiste)
+m4099_0,4099,orig,Te lumt krejt me ven po flet por ski kujt te flasish de pdk e ldk jan interesat e veta andaj bejn  kundershtime  te lumt po do zoti behet mir se ne kur shtet si duhet skem me u ba se mes veti nuk kuptohni  edhe keni mes veti shum uretje andaj oj qeverit bohni bashk e lene uretjet se me uretje nuk shkohet ne evrop  po bohuni bash e te bejm nje kosov te bukur qe tr na ken bota lakmi  e jo me na kesh ter bota e po lujn me ju  kush qa po don kshtu qe e mira mires bohuni bashk e dhe nji her te bejm kodoven e bukur te na ket bota lakmi  ju lutna mos me hyni koment nese nuk ju pelqen,1,phs,party,PDK,PDK
+m4099_1,4099,swap1,Te lumt krejt me ven po flet por ski kujt te flasish de aak e ldk jan interesat e veta andaj bejn  kundershtime  te lumt po do zoti behet mir se ne kur shtet si duhet skem me u ba se mes veti nuk kuptohni  edhe keni mes veti shum uretje andaj oj qeverit bohni bashk e lene uretjet se me uretje nuk shkohet ne evrop  po bohuni bash e te bejm nje kosov te bukur qe tr na ken bota lakmi  e jo me na kesh ter bota e po lujn me ju  kush qa po don kshtu qe e mira mires bohuni bashk e dhe nji her te bejm kodoven e bukur te na ket bota lakmi  ju lutna mos me hyni koment nese nuk ju pelqen,1,phs,party,PDK,AAK
+m4099_2,4099,swap2,Te lumt krejt me ven po flet por ski kujt te flasish de pd e ldk jan interesat e veta andaj bejn  kundershtime  te lumt po do zoti behet mir se ne kur shtet si duhet skem me u ba se mes veti nuk kuptohni  edhe keni mes veti shum uretje andaj oj qeverit bohni bashk e lene uretjet se me uretje nuk shkohet ne evrop  po bohuni bash e te bejm nje kosov te bukur qe tr na ken bota lakmi  e jo me na kesh ter bota e po lujn me ju  kush qa po don kshtu qe e mira mires bohuni bashk e dhe nji her te bejm kodoven e bukur te na ket bota lakmi  ju lutna mos me hyni koment nese nuk ju pelqen,1,phs,party,PDK,PD (Partia Demokratike)
+m4113_0,4113,orig,Rnovsh Grvalla hajnat duhet burgim i perjetshem  ata te pdk kan vjedh qe 20 vjet ,1,phs,party,PDK,PDK
+m4113_1,4113,swap1,Rnovsh Grvalla hajnat duhet burgim i perjetshem  ata te vetëvendosje kan vjedh qe 20 vjet ,1,phs,party,PDK,Vetevendosje (VV)
+m4113_2,4113,swap2,Rnovsh Grvalla hajnat duhet burgim i perjetshem  ata te ps kan vjedh qe 20 vjet ,1,phs,party,PDK,PS (Partia Socialiste)
+m4122_0,4122,orig,u ta qifsha nanen ty e aj se te ka shti ne kuvend edhe ati shkavit qe te ka marr ne parti edhe ta qifshin nanen PDK e krejt qa kem mashqi,1,phs,party,PDK,PDK
+m4122_1,4122,swap1,u ta qifsha nanen ty e aj se te ka shti ne kuvend edhe ati shkavit qe te ka marr ne parti edhe ta qifshin nanen VETËVENDOSJE e krejt qa kem mashqi,1,phs,party,PDK,Vetevendosje (VV)
+m4122_2,4122,swap2,u ta qifsha nanen ty e aj se te ka shti ne kuvend edhe ati shkavit qe te ka marr ne parti edhe ta qifshin nanen LDK e krejt qa kem mashqi,1,phs,party,PDK,LDK
+m4134_0,4134,orig,Ta qifshin nanen ty deputet e pdk oj shurr,1,phs,party,PDK,PDK
+m4134_1,4134,swap1,Ta qifshin nanen ty deputet e nisma oj shurr,1,phs,party,PDK,Nisma
+m4134_2,4134,swap2,Ta qifshin nanen ty deputet e ldk oj shurr,1,phs,party,PDK,LDK
+m4147_0,4147,orig,Votuesit e VVs Nuk jan Ende te Qartesum de per Qfar Bahen Pytje Ne Haag. Shum bre Intelegjenta jeni 👏👏👏👏 Bravo. Hajt tash hush hush Dilni Pak ne Demostrata hush bbrrrrr hush. Apo doni voje tju jap.😂😂😂😂,1,phs,party,Vetevendosje (VV),Vetevendosje (VV)
+m4147_1,4147,swap1,Votuesit e Nisma Nuk jan Ende te Qartesum de per Qfar Bahen Pytje Ne Haag. Shum bre Intelegjenta jeni 👏👏👏👏 Bravo. Hajt tash hush hush Dilni Pak ne Demostrata hush bbrrrrr hush. Apo doni voje tju jap.😂😂😂😂,1,phs,party,Vetevendosje (VV),Nisma
+m4147_2,4147,swap2,Votuesit e PDK Nuk jan Ende te Qartesum de per Qfar Bahen Pytje Ne Haag. Shum bre Intelegjenta jeni 👏👏👏👏 Bravo. Hajt tash hush hush Dilni Pak ne Demostrata hush bbrrrrr hush. Apo doni voje tju jap.😂😂😂😂,1,phs,party,Vetevendosje (VV),PDK
+m4157_0,4157,orig,Qe jav ka palue mir PDK per shkami am diqka fort qe une me paskan kurr nuk kisha pas ftyr me hije ne parlament po kta te PDK skan ftyr jan msue,1,phs,party,PDK,PDK
+m4157_1,4157,swap1,Qe jav ka palue mir LSI per shkami am diqka fort qe une me paskan kurr nuk kisha pas ftyr me hije ne parlament po kta te LSI skan ftyr jan msue,1,phs,party,PDK,LSI
+m4157_2,4157,swap2,Qe jav ka palue mir AAK per shkami am diqka fort qe une me paskan kurr nuk kisha pas ftyr me hije ne parlament po kta te AAK skan ftyr jan msue,1,phs,party,PDK,AAK
+m8001_0,8001,orig,Ky o mbrojci i thaqiviqit batonoviqi kta 2 i kem Kosov qe duhet me ik azil ne rusi thaqi veq e ka nis si kta qe din me perbuz popllin sun gjan kosov marre,1,phs,politician,Hashim Thaci,Hashim Thaci
+m8001_1,8001,swap1,Ky o mbrojci i thaqiviqit batonoviqi kta 2 i kem Kosov qe duhet me ik azil ne rusi kryemadhi veq e ka nis si kta qe din me perbuz popllin sun gjan kosov marre,1,phs,politician,Hashim Thaci,Monika Kryemadhi
+m8001_2,8001,swap2,Ky o mbrojci i thaqiviqit batonoviqi kta 2 i kem Kosov qe duhet me ik azil ne rusi meta veq e ka nis si kta qe din me perbuz popllin sun gjan kosov marre,1,phs,politician,Hashim Thaci,Ilir Meta
+m8306_0,8306,orig,o ty tka nxerr memli krasniqi se me pas shtet si duhet ti skishe pa drit me sy o mut,1,phs,politician,Memli Krasniqi,Memli Krasniqi
+m8306_1,8306,swap1,o ty tka nxerr monika kryemadhi se me pas shtet si duhet ti skishe pa drit me sy o mut,1,phs,politician,Memli Krasniqi,Monika Kryemadhi
+m8306_2,8306,swap2,o ty tka nxerr lumir abdixhiku se me pas shtet si duhet ti skishe pa drit me sy o mut,1,phs,politician,Memli Krasniqi,Lumir Abdixhiku
+m2667_0,2667,orig,Te lumt ministre Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2667_1,2667,swap1,Te lumt ministre Veseli,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m2667_2,2667,swap2,Te lumt ministre Meta,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m2695_0,2695,orig,Te lumt ministre Gervalla respekt ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2695_1,2695,swap1,Te lumt ministre Osmani respekt ,0,hard_negative,politician,Donika Gervalla,Vjosa Osmani
+m2695_2,2695,swap2,Te lumt ministre Veseli respekt ,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m2704_0,2704,orig,Rrespekt zonja gervalla te lumt,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2704_1,2704,swap1,Rrespekt zonja meta te lumt,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m2704_2,2704,swap2,Rrespekt zonja krasniqi te lumt,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m2739_0,2739,orig,:USER: e ka pdkja e ka votu ,0,hard_negative,party,PDK,PDK
+m2739_1,2739,swap1,:USER: e ka pd e ka votu ,0,hard_negative,party,PDK,PD (Partia Demokratike)
+m2739_2,2739,swap2,:USER: e ka lsi e ka votu ,0,hard_negative,party,PDK,LSI
+m2758_0,2758,orig,respekte  donika gervalla  !!,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2758_1,2758,swap1,respekte  hashim thaçi  !!,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m2758_2,2758,swap2,respekte  ramush haradinaj  !!,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m2759_0,2759,orig,Te lumte zonja Gervalla Shume Respect ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2759_1,2759,swap1,Te lumte zonja Berisha Shume Respect ,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m2759_2,2759,swap2,Te lumte zonja Rama Shume Respect ,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m2812_0,2812,orig,Të lumt  Z.Donika Gërvalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2812_1,2812,swap1,Të lumt  Z.Ramush Haradinaj,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m2812_2,2812,swap2,Të lumt  Z.Bajram Begaj,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m2834_0,2834,orig,Respect Zonja Gervalla Te Lumt ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2834_1,2834,swap1,Respect Zonja Kryemadhi Te Lumt ,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m2834_2,2834,swap2,Respect Zonja Meta Te Lumt ,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m2872_0,2872,orig,Te lumt zonja gërvalla ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2872_1,2872,swap1,Te lumt zonja abdixhiku ,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m2872_2,2872,swap2,Te lumt zonja begaj ,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m2891_0,2891,orig,Te lumte zonja gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2891_1,2891,swap1,Te lumte zonja meta,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m2891_2,2891,swap2,Te lumte zonja thaçi,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m2909_0,2909,orig,Te lumt Zonja Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2909_1,2909,swap1,Te lumt Zonja Rama,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m2909_2,2909,swap2,Te lumt Zonja Veliaj,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m2923_0,2923,orig,Te lumt zonja Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2923_1,2923,swap1,Te lumt zonja Basha,0,hard_negative,politician,Donika Gervalla,Lulzim Basha
+m2923_2,2923,swap2,Te lumt zonja Kryemadhi,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m2925_0,2925,orig,Eshte knaqesi ta ndegjosh nji zonje ashtu siq jeni ju zonja gervalla ...e aq me shume bijen e Jusuf Gervalles...duke iu jav then te verteten nder sy..bravo kur ju drejtohesh dhe ja thua te verteten ...ateher kundershtari  acarohet..zemerohet..inatoset ..xhelozohet...te gjithat te kqijat te cilat i ka njeri atij ju shfaqen...dhe keshtu ndodhi sot ne kuvendin e kosoves. Si pershembull muti i kosoves Abelard tahiri dhe te tjeret.,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2925_1,2925,swap1,Eshte knaqesi ta ndegjosh nji zonje ashtu siq jeni ju zonja veliaj ...e aq me shume bijen e Jusuf Gervalles...duke iu jav then te verteten nder sy..bravo kur ju drejtohesh dhe ja thua te verteten ...ateher kundershtari  acarohet..zemerohet..inatoset ..xhelozohet...te gjithat te kqijat te cilat i ka njeri atij ju shfaqen...dhe keshtu ndodhi sot ne kuvendin e kosoves. Si pershembull muti i kosoves Abelard tahiri dhe te tjeret.,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m2925_2,2925,swap2,Eshte knaqesi ta ndegjosh nji zonje ashtu siq jeni ju zonja berisha ...e aq me shume bijen e Jusuf Gervalles...duke iu jav then te verteten nder sy..bravo kur ju drejtohesh dhe ja thua te verteten ...ateher kundershtari  acarohet..zemerohet..inatoset ..xhelozohet...te gjithat te kqijat te cilat i ka njeri atij ju shfaqen...dhe keshtu ndodhi sot ne kuvendin e kosoves. Si pershembull muti i kosoves Abelard tahiri dhe te tjeret.,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m2965_0,2965,orig,Heroi i kombit shqiptar Jusuf gervalla do te ishte krenar me ty hallall gjiri i nanes ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2965_1,2965,swap1,Heroi i kombit shqiptar Jusuf limaj do te ishte krenar me ty hallall gjiri i nanes ,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m2965_2,2965,swap2,Heroi i kombit shqiptar Jusuf krasniqi do te ishte krenar me ty hallall gjiri i nanes ,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m2989_0,2989,orig,Të lumtë e nderuara Donika Gërvalla ! 👏,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m2989_1,2989,swap1,Të lumtë e nderuara Memli Krasniqi ! 👏,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m2989_2,2989,swap2,Të lumtë e nderuara Edi Rama ! 👏,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3034_0,3034,orig,Zonja gervalla osht RUGOVA nr 2 respekt per zonjen GERVALLA,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3034_1,3034,swap1,Zonja veseli osht RUGOVA nr 2 respekt per zonjen VESELI,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3034_2,3034,swap2,Zonja berisha osht RUGOVA nr 2 respekt per zonjen BERISHA,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3070_0,3070,orig," Respekt pa fund per Donika Gervalla ,Kosova ka nevoj per ty 🇽🇰🇦🇱",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3070_1,3070,swap1," Respekt pa fund per Fatmir Limaj ,Kosova ka nevoj per ty 🇽🇰🇦🇱",0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3070_2,3070,swap2," Respekt pa fund per Ilir Meta ,Kosova ka nevoj per ty 🇽🇰🇦🇱",0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3073_0,3073,orig,Respekt per Zonjen Gervalla. Fjalim  me vend Tlumt🙏,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3073_1,3073,swap1,Respekt per Zonjen Meta. Fjalim  me vend Tlumt🙏,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3073_2,3073,swap2,Respekt per Zonjen Krasniqi. Fjalim  me vend Tlumt🙏,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3076_0,3076,orig,"Të lumtë,zoti e bekoftë znj. Gërvalla!🙏",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3076_1,3076,swap1,"Të lumtë,zoti e bekoftë znj. Veliaj!🙏",0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m3076_2,3076,swap2,"Të lumtë,zoti e bekoftë znj. Thaçi!🙏",0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3089_0,3089,orig,Te lumte Zonja Gervalla krejte qka the e veretet ashte.,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3089_1,3089,swap1,Te lumte Zonja Osmani krejte qka the e veretet ashte.,0,hard_negative,politician,Donika Gervalla,Vjosa Osmani
+m3089_2,3089,swap2,Te lumte Zonja Rama krejte qka the e veretet ashte.,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3135_0,3135,orig,respek per ty dhe familjen Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3135_1,3135,swap1,respek per ty dhe familjen Meta,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3135_2,3135,swap2,respek per ty dhe familjen Rama,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3137_0,3137,orig,tlumt goja zonja e herojt ton shqiptar BARDHIL GERVALLA,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3137_1,3137,swap1,tlumt goja zonja e herojt ton shqiptar BARDHIL HARADINAJ,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3137_2,3137,swap2,tlumt goja zonja e herojt ton shqiptar BARDHIL VESELI,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3166_0,3166,orig,Te lumt zonja gervalla👌,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3166_1,3166,swap1,Te lumt zonja kryemadhi👌,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m3166_2,3166,swap2,Te lumt zonja konjufca👌,0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3172_0,3172,orig,Rrespekt zonja gervalla te lumt,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3172_1,3172,swap1,Rrespekt zonja haradinaj te lumt,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3172_2,3172,swap2,Rrespekt zonja veliaj te lumt,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m3212_0,3212,orig,"Ju lumte zonja Gërvalla ,te verteten e keni thënë👍👏",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3212_1,3212,swap1,"Ju lumte zonja Krasniqi ,te verteten e keni thënë👍👏",0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3212_2,3212,swap2,"Ju lumte zonja Konjufca ,te verteten e keni thënë👍👏",0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3214_0,3214,orig,Respekt Respekt për zonjën Gervalla!,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3214_1,3214,swap1,Respekt Respekt për zonjën Rama!,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3214_2,3214,swap2,Respekt Respekt për zonjën Krasniqi!,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3241_0,3241,orig,Brravo Brravo MPJ Donika Gervalla oratoria e Dardanis te lumte e bija e Jusuf Gervalles.👌♥️🇦🇱💯💖,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3241_1,3241,swap1,Brravo Brravo MPJ Memli Krasniqi oratoria e Dardanis te lumte e bija e Jusuf Gervalles.👌♥️🇦🇱💯💖,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3241_2,3241,swap2,Brravo Brravo MPJ Albin Kurti oratoria e Dardanis te lumte e bija e Jusuf Gervalles.👌♥️🇦🇱💯💖,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3244_0,3244,orig,Te Lumt Sonja Gervalla Respekt per ty per fjalim te bukur ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3244_1,3244,swap1,Te Lumt Sonja Abdixhiku Respekt per ty per fjalim te bukur ,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3244_2,3244,swap2,Te Lumt Sonja Veseli Respekt per ty per fjalim te bukur ,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3261_0,3261,orig,"O e fort je ministre Gervalla, se krejt e drejt osht kjo qka ti e the, ndryshe nuk ka si shpjegohet ma mir se ata vet e kan formu kete gjykat",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3261_1,3261,swap1,"O e fort je ministre Berisha, se krejt e drejt osht kjo qka ti e the, ndryshe nuk ka si shpjegohet ma mir se ata vet e kan formu kete gjykat",0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3261_2,3261,swap2,"O e fort je ministre Meta, se krejt e drejt osht kjo qka ti e the, ndryshe nuk ka si shpjegohet ma mir se ata vet e kan formu kete gjykat",0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3265_0,3265,orig,👏👏👏👏 Te lumt Donika Gervalla ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3265_1,3265,swap1,👏👏👏👏 Te lumt Albin Kurti ,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3265_2,3265,swap2,👏👏👏👏 Te lumt Hashim Thaçi ,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3284_0,3284,orig,Rrespekt zonja Gervalla populli eshte me ju,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3284_1,3284,swap1,Rrespekt zonja Abdixhiku populli eshte me ju,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3284_2,3284,swap2,Rrespekt zonja Veseli populli eshte me ju,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3303_0,3303,orig,Jemi shum krenar ne ju zonja Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3303_1,3303,swap1,Jemi shum krenar ne ju zonja Basha,0,hard_negative,politician,Donika Gervalla,Lulzim Basha
+m3303_2,3303,swap2,Jemi shum krenar ne ju zonja Veseli,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3306_0,3306,orig,Te lumt Donika Gervalla Jemi me ty,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3306_1,3306,swap1,Te lumt Edi Rama Jemi me ty,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3306_2,3306,swap2,Te lumt Bajram Begaj Jemi me ty,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3307_0,3307,orig,Respekt per z Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3307_1,3307,swap1,Respekt per z Meta,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3307_2,3307,swap2,Respekt per z Berisha,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3322_0,3322,orig,"Lumte z.Gervalla e verteta  po dhemb me shume se plumbi  ,nuk jane perballuar  me te verteta  qe 22 vite  ,E verteta  e hidhur  ,nuk po munden  te perbihen.",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3322_1,3322,swap1,"Lumte z.Veliaj e verteta  po dhemb me shume se plumbi  ,nuk jane perballuar  me te verteta  qe 22 vite  ,E verteta  e hidhur  ,nuk po munden  te perbihen.",0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m3322_2,3322,swap2,"Lumte z.Begaj e verteta  po dhemb me shume se plumbi  ,nuk jane perballuar  me te verteta  qe 22 vite  ,E verteta  e hidhur  ,nuk po munden  te perbihen.",0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3331_0,3331,orig,Respekt per zonjen Gervalla 👏👏,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3331_1,3331,swap1,Respekt per zonjen Veseli 👏👏,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3331_2,3331,swap2,Respekt per zonjen Limaj 👏👏,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3347_0,3347,orig,"fjala Schwartz esht ne gjuhen Gjermane , ngjyr e ZEZ : Donika Gërvalla Schwartz ose ne shqipDonika Gërvalla e ZEZMashum sdo koment",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3347_1,3347,swap1,"fjala Schwartz esht ne gjuhen Gjermane , ngjyr e ZEZ : Bajram Begaj Schwartz ose ne shqipDonika Gërvalla e ZEZMashum sdo koment",0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3347_2,3347,swap2,"fjala Schwartz esht ne gjuhen Gjermane , ngjyr e ZEZ : Sali Berisha Schwartz ose ne shqipDonika Gërvalla e ZEZMashum sdo koment",0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3349_0,3349,orig,Te lumt zonja gervalla thujva nsi se kta qena smarin vesh,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3349_1,3349,swap1,Te lumt zonja konjufca thujva nsi se kta qena smarin vesh,0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3349_2,3349,swap2,Te lumt zonja limaj thujva nsi se kta qena smarin vesh,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3355_0,3355,orig,Te lumte princesha Donika Gërvalla ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3355_1,3355,swap1,Te lumte princesha Fatmir Limaj ,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3355_2,3355,swap2,Te lumte princesha Ramush Haradinaj ,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3367_0,3367,orig,"Bravo z.Gervalla,je e pazëvendësueshme!",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3367_1,3367,swap1,"Bravo z.Haradinaj,je e pazëvendësueshme!",0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3367_2,3367,swap2,"Bravo z.Osmani,je e pazëvendësueshme!",0,hard_negative,politician,Donika Gervalla,Vjosa Osmani
+m3384_0,3384,orig,Rrespekt te madhe zonja gervalla te lumt ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3384_1,3384,swap1,Rrespekt te madhe zonja veseli te lumt ,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3384_2,3384,swap2,Rrespekt te madhe zonja thaçi te lumt ,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3399_0,3399,orig,Ore :USER: qitja gishtin kokes që po akuzon te verteten kurse mier e ka z Gervalla  te lumt  z Gervalla veq vazhd kështu popullin do te jet me ju,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3399_1,3399,swap1,Ore :USER: qitja gishtin kokes që po akuzon te verteten kurse mier e ka z Limaj  te lumt  z Limaj veq vazhd kështu popullin do te jet me ju,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3399_2,3399,swap2,Ore :USER: qitja gishtin kokes që po akuzon te verteten kurse mier e ka z Veseli  te lumt  z Veseli veq vazhd kështu popullin do te jet me ju,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3437_0,3437,orig,:USER: e Ssj fillon qe nga i ndjeri baba i saj  Jusuf Gervalla etj per ma shum hin kqyre vet mani se marre osht me fol ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3437_1,3437,swap1,:USER: e Ssj fillon qe nga i ndjeri baba i saj  Jusuf Osmani etj per ma shum hin kqyre vet mani se marre osht me fol ,0,hard_negative,politician,Donika Gervalla,Vjosa Osmani
+m3437_2,3437,swap2,:USER: e Ssj fillon qe nga i ndjeri baba i saj  Jusuf Krasniqi etj per ma shum hin kqyre vet mani se marre osht me fol ,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3460_0,3460,orig,Fjal e vertet gjykaten speciale e votun vet ja pafshin hajrin respekt për zonjen Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3460_1,3460,swap1,Fjal e vertet gjykaten speciale e votun vet ja pafshin hajrin respekt për zonjen Abdixhiku,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3460_2,3460,swap2,Fjal e vertet gjykaten speciale e votun vet ja pafshin hajrin respekt për zonjen Begaj,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3470_0,3470,orig,Respekt zonja gervalla 👏,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3470_1,3470,swap1,Respekt zonja veseli 👏,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3470_2,3470,swap2,Respekt zonja kurti 👏,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3497_0,3497,orig,"Te lumt goja Z ,Gervalla",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3497_1,3497,swap1,"Te lumt goja Z ,Konjufca",0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3497_2,3497,swap2,"Te lumt goja Z ,Thaçi",0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3500_0,3500,orig,Ju lumët.zonja Donika Gërvalla.,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3500_1,3500,swap1,Ju lumët.zonja Edi Rama.,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3500_2,3500,swap2,Ju lumët.zonja Fatmir Limaj.,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3516_0,3516,orig,te lumte Zonja Gervalla vetem perpara RESPEKT per ty,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3516_1,3516,swap1,te lumte Zonja Kurti vetem perpara RESPEKT per ty,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3516_2,3516,swap2,te lumte Zonja Abdixhiku vetem perpara RESPEKT per ty,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3521_0,3521,orig,Te lumt zonja Gervalla 🍀👌,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3521_1,3521,swap1,Te lumt zonja Rama 🍀👌,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3521_2,3521,swap2,Te lumt zonja Kryemadhi 🍀👌,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m3522_0,3522,orig,Respekt e nderume z. Donika Gërvalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3522_1,3522,swap1,Respekt e nderume z. Kadri Veseli,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3522_2,3522,swap2,Respekt e nderume z. Bajram Begaj,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3533_0,3533,orig,:USER: PDK  e ka votu daj vet e keni votu ?     Albin kurit se ka votu u kan kunder saj,0,hard_negative,party,PDK,PDK
+m3533_1,3533,swap1,:USER: PD  e ka votu daj vet e keni votu ?     Albin kurit se ka votu u kan kunder saj,0,hard_negative,party,PDK,PD (Partia Demokratike)
+m3533_2,3533,swap2,:USER: LDK  e ka votu daj vet e keni votu ?     Albin kurit se ka votu u kan kunder saj,0,hard_negative,party,PDK,LDK
+m3547_0,3547,orig,O te lumt o te lumt zonja Gervalla.👏👏👏,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3547_1,3547,swap1,O te lumt o te lumt zonja Rama.👏👏👏,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3547_2,3547,swap2,O te lumt o te lumt zonja Limaj.👏👏👏,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3548_0,3548,orig,Te lumt goja veq perpara zonja Gervalla ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3548_1,3548,swap1,Te lumt goja veq perpara zonja Veliaj ,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m3548_2,3548,swap2,Te lumt goja veq perpara zonja Meta ,0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3549_0,3549,orig,Bravo Donika Gervalla qiljav syt se po menojn qe per 1 vjet Populli jav harron ktyne qe ekan shkatrru kit vend.,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3549_1,3549,swap1,Bravo Albin Kurti qiljav syt se po menojn qe per 1 vjet Populli jav harron ktyne qe ekan shkatrru kit vend.,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3549_2,3549,swap2,Bravo Glauk Konjufca qiljav syt se po menojn qe per 1 vjet Populli jav harron ktyne qe ekan shkatrru kit vend.,0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3570_0,3570,orig,Respekt zòja Gervalla vetem realiteti i pengon te koreptuarve,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3570_1,3570,swap1,Respekt zòja Haradinaj vetem realiteti i pengon te koreptuarve,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3570_2,3570,swap2,Respekt zòja Berisha vetem realiteti i pengon te koreptuarve,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3595_0,3595,orig,:USER: thaqi tha skom luftu le tjert spo dihet kush qka ka ba,0,hard_negative,politician,Hashim Thaci,Hashim Thaci
+m3595_1,3595,swap1,:USER: veseli tha skom luftu le tjert spo dihet kush qka ka ba,0,hard_negative,politician,Hashim Thaci,Kadri Veseli
+m3595_2,3595,swap2,:USER: basha tha skom luftu le tjert spo dihet kush qka ka ba,0,hard_negative,politician,Hashim Thaci,Lulzim Basha
+m3597_0,3597,orig,Te lumt goja gervalla 🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3597_1,3597,swap1,Te lumt goja limaj 🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3597_2,3597,swap2,Te lumt goja kurti 🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3652_0,3652,orig,"Goja të lumtë, Donika Gërvalla. 👏👏👏",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3652_1,3652,swap1,"Goja të lumtë, Ilir Meta. 👏👏👏",0,hard_negative,politician,Donika Gervalla,Ilir Meta
+m3652_2,3652,swap2,"Goja të lumtë, Bajram Begaj. 👏👏👏",0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3655_0,3655,orig,Te lumt zj. Gêrvalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3655_1,3655,swap1,Te lumt zj. Konjufca,0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3655_2,3655,swap2,Te lumt zj. Limaj,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3657_0,3657,orig,Respekt e nderueme Donika Gërvalla!,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3657_1,3657,swap1,Respekt e nderueme Bajram Begaj!,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3657_2,3657,swap2,Respekt e nderueme Edi Rama!,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m3705_0,3705,orig,Respekt  per ju Donika Gervalla ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3705_1,3705,swap1,Respekt  per ju Hashim Thaçi ,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3705_2,3705,swap2,Respekt  per ju Sali Berisha ,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3712_0,3712,orig,shumm Buker ke fol Respekt DONIKA GERVALLA,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3712_1,3712,swap1,shumm Buker ke fol Respekt LULZIM BASHA,0,hard_negative,politician,Donika Gervalla,Lulzim Basha
+m3712_2,3712,swap2,shumm Buker ke fol Respekt LUMIR ABDIXHIKU,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3716_0,3716,orig,Me keqardhje ky fjalim i zonjes Gervalla nuk i takon te flas ne parlament keshtu per qytetaret e kosoves edhe mua me vjen keq me gjith se ekam perkrah  ky eshte paraqykim jo i mir qe i perket nje kryeministre te jashtme per popullin e vet.me githa te kqijat qe i kan bo tjerat kombe prap se prap ja mbrojn interesin popullit te vet edhe un them turp.,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3716_1,3716,swap1,Me keqardhje ky fjalim i zonjes Basha nuk i takon te flas ne parlament keshtu per qytetaret e kosoves edhe mua me vjen keq me gjith se ekam perkrah  ky eshte paraqykim jo i mir qe i perket nje kryeministre te jashtme per popullin e vet.me githa te kqijat qe i kan bo tjerat kombe prap se prap ja mbrojn interesin popullit te vet edhe un them turp.,0,hard_negative,politician,Donika Gervalla,Lulzim Basha
+m3716_2,3716,swap2,Me keqardhje ky fjalim i zonjes Veseli nuk i takon te flas ne parlament keshtu per qytetaret e kosoves edhe mua me vjen keq me gjith se ekam perkrah  ky eshte paraqykim jo i mir qe i perket nje kryeministre te jashtme per popullin e vet.me githa te kqijat qe i kan bo tjerat kombe prap se prap ja mbrojn interesin popullit te vet edhe un them turp.,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3723_0,3723,orig,mir eka telumt zonje gervalla qashtu osht,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3723_1,3723,swap1,mir eka telumt zonje thaçi qashtu osht,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3723_2,3723,swap2,mir eka telumt zonje limaj qashtu osht,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3725_0,3725,orig,"Respekt Zonja Gervalla, shpat té kemi!",0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3725_1,3725,swap1,"Respekt Zonja Berisha, shpat té kemi!",0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3725_2,3725,swap2,"Respekt Zonja Veseli, shpat té kemi!",0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3733_0,3733,orig,Te luet zonja Gervalla te gjitha te verteta!!!,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3733_1,3733,swap1,Te luet zonja Konjufca te gjitha te verteta!!!,0,hard_negative,politician,Donika Gervalla,Glauk Konjufca
+m3733_2,3733,swap2,Te luet zonja Limaj te gjitha te verteta!!!,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3736_0,3736,orig,Te lumt zonja Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3736_1,3736,swap1,Te lumt zonja Krasniqi,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3736_2,3736,swap2,Te lumt zonja Kryemadhi,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m3750_0,3750,orig,Brravo zonja gervalla te lumt,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3750_1,3750,swap1,Brravo zonja kurti te lumt,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3750_2,3750,swap2,Brravo zonja limaj te lumt,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m3762_0,3762,orig,Te lumt zonja gervalla fjalim me vend,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3762_1,3762,swap1,Te lumt zonja begaj fjalim me vend,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3762_2,3762,swap2,Te lumt zonja kurti fjalim me vend,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3778_0,3778,orig,Respekt z gervalla hera par qe folet nqeveri drejt dhe vetem drejt pas 22 vitev,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3778_1,3778,swap1,Respekt z kurti hera par qe folet nqeveri drejt dhe vetem drejt pas 22 vitev,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m3778_2,3778,swap2,Respekt z krasniqi hera par qe folet nqeveri drejt dhe vetem drejt pas 22 vitev,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m3801_0,3801,orig,Shum e Sakt ministresha  Gërvalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3801_1,3801,swap1,Shum e Sakt ministresha  Thaçi,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m3801_2,3801,swap2,Shum e Sakt ministresha  Veseli,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3814_0,3814,orig,Fjal te verteta e kush w ka mizwen ner kapuq i djeg  Respekt  zonja gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3814_1,3814,swap1,Fjal te verteta e kush w ka mizwen ner kapuq i djeg  Respekt  zonja osmani,0,hard_negative,politician,Donika Gervalla,Vjosa Osmani
+m3814_2,3814,swap2,Fjal te verteta e kush w ka mizwen ner kapuq i djeg  Respekt  zonja veliaj,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m3861_0,3861,orig,Te lumt  oj  vajza  e heroit  te kosoves Donika  Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3861_1,3861,swap1,Te lumt  oj  vajza  e heroit  te kosoves Sali Berisha,0,hard_negative,politician,Donika Gervalla,Sali Berisha
+m3861_2,3861,swap2,Te lumt  oj  vajza  e heroit  te kosoves Bajram Begaj,0,hard_negative,politician,Donika Gervalla,Bajram Begaj
+m3926_0,3926,orig,ju lumt zonja Gërvalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3926_1,3926,swap1,ju lumt zonja Haradinaj,0,hard_negative,politician,Donika Gervalla,Ramush Haradinaj
+m3926_2,3926,swap2,ju lumt zonja Abdixhiku,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m3927_0,3927,orig,Allall te koft se kshtu duhet e verteta te thuhet ektine sju pelqen po shkame ba  kurtja bajsh vetit  vet kush smunet meta hek bane tash  te lumt  ministre,0,hard_negative,politician,Ilir Meta,Ilir Meta
+m3927_1,3927,swap1,Allall te koft se kshtu duhet e verteta te thuhet ektine sju pelqen po shkame ba  kurtja bajsh vetit  vet kush smunet osmani hek bane tash  te lumt  ministre,0,hard_negative,politician,Ilir Meta,Vjosa Osmani
+m3927_2,3927,swap2,Allall te koft se kshtu duhet e verteta te thuhet ektine sju pelqen po shkame ba  kurtja bajsh vetit  vet kush smunet veseli hek bane tash  te lumt  ministre,0,hard_negative,politician,Ilir Meta,Kadri Veseli
+m3987_0,3987,orig,ah  Zoja gervalla lum  nana e baba sitkan   ti I duhesh  kosoves  RRESPEKT  o ylli I kosoves,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3987_1,3987,swap1,ah  Zoja kryemadhi lum  nana e baba sitkan   ti I duhesh  kosoves  RRESPEKT  o ylli I kosoves,0,hard_negative,politician,Donika Gervalla,Monika Kryemadhi
+m3987_2,3987,swap2,ah  Zoja veseli lum  nana e baba sitkan   ti I duhesh  kosoves  RRESPEKT  o ylli I kosoves,0,hard_negative,politician,Donika Gervalla,Kadri Veseli
+m3995_0,3995,orig,Te lumt Donika je shum e drejt Respekt per ty Donika Gervalla  ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m3995_1,3995,swap1,Te lumt Donika je shum e drejt Respekt per ty Lulzim Basha  ,0,hard_negative,politician,Donika Gervalla,Lulzim Basha
+m3995_2,3995,swap2,Te lumt Donika je shum e drejt Respekt per ty Memli Krasniqi  ,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m4013_0,4013,orig,Ti je me Dinjitet te lart zonja Donika Gërvalla te lumt Bravo 🙌 ,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4013_1,4013,swap1,Ti je me Dinjitet te lart zonja Hashim Thaçi te lumt Bravo 🙌 ,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m4013_2,4013,swap2,Ti je me Dinjitet te lart zonja Erion Veliaj te lumt Bravo 🙌 ,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m4044_0,4044,orig,Te lumt z gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4044_1,4044,swap1,Te lumt z abdixhiku,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m4044_2,4044,swap2,Te lumt z veliaj,0,hard_negative,politician,Donika Gervalla,Erion Veliaj
+m4127_0,4127,orig,RESPEKT per  Gervalla BRAVO 🇦🇱🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4127_1,4127,swap1,RESPEKT per  Limaj BRAVO 🇦🇱🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m4127_2,4127,swap2,RESPEKT per  Thaçi BRAVO 🇦🇱🇦🇱🇦🇱,0,hard_negative,politician,Donika Gervalla,Hashim Thaci
+m4133_0,4133,orig,👍 ma e mira je ministre Gervalla 👍💪🇦🇱👍,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4133_1,4133,swap1,👍 ma e mira je ministre Krasniqi 👍💪🇦🇱👍,0,hard_negative,politician,Donika Gervalla,Memli Krasniqi
+m4133_2,4133,swap2,👍 ma e mira je ministre Kurti 👍💪🇦🇱👍,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m4143_0,4143,orig,Te lumt edheRespekt per ty zonja Donika Gervalla🙏🙏🏆🏆,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4143_1,4143,swap1,Te lumt edheRespekt per ty zonja Fatmir Limaj🙏🙏🏆🏆,0,hard_negative,politician,Donika Gervalla,Fatmir Limaj
+m4143_2,4143,swap2,Te lumt edheRespekt per ty zonja Albin Kurti🙏🙏🏆🏆,0,hard_negative,politician,Donika Gervalla,Albin Kurti
+m4151_0,4151,orig,Te lumt z. Donika Gervalla,0,hard_negative,politician,Donika Gervalla,Donika Gervalla
+m4151_1,4151,swap1,Te lumt z. Edi Rama,0,hard_negative,politician,Donika Gervalla,Edi Rama
+m4151_2,4151,swap2,Te lumt z. Lumir Abdixhiku,0,hard_negative,politician,Donika Gervalla,Lumir Abdixhiku
+m8399_0,8399,orig,Por nuk edi pse merret meta eshkon nemisjon ti,0,hard_negative,politician,Ilir Meta,Ilir Meta
+m8399_1,8399,swap1,Por nuk edi pse merret kryemadhi eshkon nemisjon ti,0,hard_negative,politician,Ilir Meta,Monika Kryemadhi
+m8399_2,8399,swap2,Por nuk edi pse merret limaj eshkon nemisjon ti,0,hard_negative,politician,Ilir Meta,Fatmir Limaj
+m19852_0,19852,orig,:USER: merr msim ti prej njerzve me mirësjellje se ne ks punojm shites-shitse ne markete e në rrugë dhe nuk ofendojm po me miresi zgjedhim qdo gjë e ata qe skan kulturë e edukatë ne vendin e vetë ikun ne vend te huaj e i nenshtrohen një populli tjeter si ju ps.!,0,hard_negative,party,PS (Partia Socialiste),PS (Partia Socialiste)
+m19852_1,19852,swap1,:USER: merr msim ti prej njerzve me mirësjellje se ne ks punojm shites-shitse ne markete e në rrugë dhe nuk ofendojm po me miresi zgjedhim qdo gjë e ata qe skan kulturë e edukatë ne vendin e vetë ikun ne vend te huaj e i nenshtrohen një populli tjeter si ju nisma.!,0,hard_negative,party,PS (Partia Socialiste),Nisma
+m19852_2,19852,swap2,:USER: merr msim ti prej njerzve me mirësjellje se ne ks punojm shites-shitse ne markete e në rrugë dhe nuk ofendojm po me miresi zgjedhim qdo gjë e ata qe skan kulturë e edukatë ne vendin e vetë ikun ne vend te huaj e i nenshtrohen një populli tjeter si ju ldk.!,0,hard_negative,party,PS (Partia Socialiste),LDK
+m19958_0,19958,orig,"Prej PDKs ,Paska  dal në LDK sen mashum",0,hard_negative,party,PDK,PDK
+m19958_1,19958,swap1,"Prej AAK ,Paska  dal në LDK sen mashum",0,hard_negative,party,PDK,AAK
+m19958_2,19958,swap2,"Prej Vetëvendosje ,Paska  dal në LDK sen mashum",0,hard_negative,party,PDK,Vetevendosje (VV)
+m20767_0,20767,orig,"Plotësisht e vërtetë, Nevzat Berisha dallimet duhet me na bashku, por te ne, sidomis në Kosovë, pikar e përbashkëta janë ato që na dallojnë dhe na e thejnë qafën sepse, e kemi braktisur Zotin tonë dhe po përpiqemi ta përvetësojmë Zotave të huaj. Por, unë dua të besoj se intelektualët kanë me e kuptu se pa komb dhe atdhe  nuk ka vlerë asnjë fe!",0,hard_negative,politician,Sali Berisha,Sali Berisha
+m20767_1,20767,swap1,"Plotësisht e vërtetë, Nevzat Krasniqi dallimet duhet me na bashku, por te ne, sidomis në Kosovë, pikar e përbashkëta janë ato që na dallojnë dhe na e thejnë qafën sepse, e kemi braktisur Zotin tonë dhe po përpiqemi ta përvetësojmë Zotave të huaj. Por, unë dua të besoj se intelektualët kanë me e kuptu se pa komb dhe atdhe  nuk ka vlerë asnjë fe!",0,hard_negative,politician,Sali Berisha,Memli Krasniqi
+m20767_2,20767,swap2,"Plotësisht e vërtetë, Nevzat Kryemadhi dallimet duhet me na bashku, por te ne, sidomis në Kosovë, pikar e përbashkëta janë ato që na dallojnë dhe na e thejnë qafën sepse, e kemi braktisur Zotin tonë dhe po përpiqemi ta përvetësojmë Zotave të huaj. Por, unë dua të besoj se intelektualët kanë me e kuptu se pa komb dhe atdhe  nuk ka vlerë asnjë fe!",0,hard_negative,politician,Sali Berisha,Monika Kryemadhi

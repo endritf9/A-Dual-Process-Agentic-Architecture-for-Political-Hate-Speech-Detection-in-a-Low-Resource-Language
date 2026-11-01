@@ -1,0 +1,17 @@
+system,model,templates,flip_rate_%,mean_prob_range
+classifier:jev,-,21,0.0,0.066
+classifier:jev_ex,-,21,0.0,0.041
+classifier:mbert_orig,-,21,95.2,0.958
+classifier:tfidf_lr,-,21,95.2,0.545
+classifier:tfidf_nb,-,21,85.7,0.274
+classifier:tfidf_rf,-,21,100.0,0.54
+classifier:tfidf_svm,-,21,95.2,0.257
+agent_full-mbert_orig+jev,gemma-4-31b,21,0.0,
+agent_full-mbert_orig+jev,qwen3.7-flash,21,0.0,
+agent_full-mbert_orig+jev,qwen3.8-flash,21,0.0,
+agent_no_entities-mbert_orig+jev,qwen3.7-flash,21,0.0,
+agent_no_entities-mbert_orig+jev,qwen3.8-flash,21,4.8,
+zero_shot,gemma-4-31b,21,0.0,
+zero_shot,nemotron-3-ultra-free,12,0.0,
+zero_shot,qwen3.7-flash,21,0.0,
+zero_shot,qwen3.8-flash,21,0.0,

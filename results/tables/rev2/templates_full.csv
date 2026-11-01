@@ -1,0 +1,19 @@
+set,system,FPR_critique,recall_hateful,FPR_neutral,FPR_place,flip_rate_templates_%,mean_prob_range,recall_hateful_generic,FPR_neutral_generic
+cf,mBERT,78.57142857142857,63.8095238095238,77.14285714285715,0.0,68.0,0.6774958145400001,,
+cf,mBERT trained with hard negatives,0.7936507936507936,19.047619047619047,9.047619047619047,0.0,28.000000000000004,0.312314728116,,
+cf,Jev,0.0,100.0,0.0,0.0,0.0,0.0556,,
+cf,Mean S1,51.587301587301596,78.0952380952381,34.285714285714285,0.0,68.0,0.35509881977999996,,
+cf,Qwen 3.7 agent_full,0.0,100.0,0.0,0.0,0.0,,,
+cf,cascade P1 + Qwen 3.7 agent_full (esc 65.4%),0.0,100.0,0.0,0.0,0.0,,,
+cf,Qwen 3.7 single_all,0.0,100.0,0.0,0.0,0.0,,,
+cf,cascade P1 + Qwen 3.7 single_all (esc 65.4%),0.0,100.0,0.0,0.0,0.0,,,
+gen,mBERT,,,,,,,5.0,17.5
+gen,mBERT trained with hard negatives,,,,,,,15.0,2.5
+gen,Jev,,,,,,,80.0,0.0
+gen,Mean S1,,,,,,,10.0,2.5
+gen,Qwen 3.7 zero_shot,,,,,,,80.0,0.0
+gen,Qwen 3.7 agent_full,,,,,,,40.0,0.0
+gen,cascade P1 + Qwen 3.7 agent_full (esc 36.7%),,,,,,,35.0,0.0
+gen,Qwen 3.7 single_all,,,,,,,80.0,0.0
+gen,cascade P1 + Qwen 3.7 single_all (esc 36.7%),,,,,,,70.0,0.0
+gen,Qwen 3.7 agent_no_classifier,,,,,,,75.0,0.0
