@@ -2,7 +2,7 @@
 
 Code, datasets, prompts, model predictions, and evaluation results accompanying the research paper:
 
-> A. Susuri, E. Fetahi, M. Saracevic, and E. Canhasi, **“A Dual-Process Agentic Architecture for Political Hate Speech Detection in a Low-Resource Language,”** *Electronics* (MDPI), under review, 2026.
+> A. Susuri, E. Fetahi, M. Saracevic, and E. Canhasi, **“A Dual-Process Agentic Architecture for Political Hate Speech Detection in a Low-Resource Language,”** *Statistics, Optimization & Information Computing, under review, 2026.
 
 This repository investigates a dual-process architecture for detecting **political hate speech in Albanian**, combining fast classifiers with a tool-using large language model (LLM) agent. It includes the released, de-identified evaluation data, annotation materials, experimental configurations, recorded model outputs, and scripts for reproducing the reported analyses.
 
